@@ -18,7 +18,7 @@
         | Application | Bundle | Version | iNKillerPlus | File Type |
         | ------------------ |:---------:|:------:|:------:|:------:|
         | [Instagram](https://ikghd.site/iPA/Instagam_271.1_iNKillerPlus_2.0-1.ipa) | com.burbn.instagram | 271.1 | 2.0-1 | IPA |
-        | [TrollStore](https://ikghd.site/iPA/Instagam_271.1_iNKillerPlus_2.0-1.ipa) | com.burbn.instagram | 271.1 | 2.0-1 | IPA |
+        | [TrollStore](https://ikghd.site/iPA/Instagam_271.1_iNKillerPlus_2.0-1_TrollStore.ipa) | com.burbn.instagram | 271.1 | 2.0-1 | IPA |
 
 
 ## How to Sideload on non-jailbroken devices
@@ -46,7 +46,7 @@
 
 ### TrollStore iPA Only
 * Download and install TrollStore from [here](https://github.com/opa334/TrollStore).
-* download the Instagram ipa from the link [here](https://ikghd.site/iPA/Instagam_271.1_iNKillerPlus_2.0-1.ipa) and install it via TrollStore:
+* download the Instagram ipa from the link [here](https://ikghd.site/iPA/Instagam_271.1_iNKillerPlus_2.0-1_TrollStore.ipa) and install it via TrollStore:
 
 
 ## Localization..
