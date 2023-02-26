@@ -31,11 +31,6 @@
 /* MAIN_UI section */
 "LOCK_APP" = "Lock The App";
 "LOCK_APP_DESC" = "lock the app via face/id touch/id.";
-"EXCLUSIF" = "Exclusif Expermintal";
-"USE_FOCUS" = "use Focus Mode";
-"USE_FOCUS_DISC" = "focusing on what's new only!";
-"USE_COMPACT" = "use Compacted Mode";
-"USE_COMPACT_DISC" = "home/explorer with search only & profile!";
 "POST_DISC" = "Post";
 "NO_ADS" = "No promo ads";
 "R_IMAGE_POSTED_CORNER" = "Round Post img/video Corners";
@@ -53,7 +48,7 @@
 "ACCOUNT_VERIFIED" = "Account Verified";
 "ACCOUNT_BUISNESS" = "Account Business";
 "NO_DOUBLETAP_SWITCH" = "Disable DoubleTap Switch:";
-"NO_DOUBLETAP_SWITCH_DISC" = "doubletap to switching between accounts!";
+"NO_DOUBLETAP_SWITCH_DISC" = "double tap to switching between accounts!";
 "NO_SUGGESTED_PROFILE" = "No Suggested Profile:";
 "WHO_FOLLOWING" = "Determint Who Following?";
 
@@ -68,13 +63,6 @@
 "NO_LONG_PRESS" = "Disable Long Press on Tabs";
 "HIDE_TABS" = "Hide Tabs";
 "HIDE_ALL_TAB" = "Hide All Tabs";
-"EXPERMENT" = "Expermintal";
-"NO_EXPLORE" = "Hide Explore";
-"NO_REEL" = "Hide Post/Rell";
-"NO_NEWS" = "Hide News";
-"NO_SHOP" = "Hide Shopping";
-"NO_DIRECT" = "Hide Direct";
-"NO_PROFILE" = "Hide Profile";
 
 
 /* Miscellaneous section */
@@ -84,7 +72,7 @@
 "HIDE_SEEN_DM_DISC" = "add a button inside the DM view";
 "COPY_TXT" = "Copy text";
 "COPY_TEXT" = "Copy variuos Text";
-"COPY_TEXT_DISC" = "long press to copy discription/comments/bio ext..";
+"COPY_TEXT_DISC" = "long press to copy description/comments/bio ext..";
 
 
 /* global action title */
