@@ -14,7 +14,7 @@
 "GLOBAL_DOWNLOADING_SWITCH" = "Add a button or long press on post to download.";
 
 /* general section */
-"MAIN_UI" = "MainUi Options";
+"MAIN_UI" = "Feed Options";
 "PROFILE" = "Profile Options";
 "STORIES" = "Stories Options";
 "TAB_BAR_SECTION" = "Tab Bar Options";
@@ -26,7 +26,7 @@
 "SPECIAL_THANK" = "Special Thanks:";
 "LOCALIZATION" = "Localizations:";
 "DEVELOPER" = "Developer:";
-"WELCOME_ALERT" = "to modify the settings click on the gear icon above in navBar";
+"WELCOME_ALERT" = "to modify the settings long press on instagram text logo above in navBar";
 
 /* MAIN_UI section */
 "LOCK_APP" = "Lock The App";
