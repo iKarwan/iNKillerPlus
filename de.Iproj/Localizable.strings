@@ -1,0 +1,100 @@
+/* created on 21/02/2023 */
+/* by iKarwan */
+/* translated by @serious.xi on 06/03/23 */
+
+/* NOTE!!! you have right to request a copy of iNKillerPlus after translation and add to credits */
+
+/* NOTE 2 !!! Please after translation add your country specific like.  en - ar - zh ext... */
+
+/* iNKillerPlus global switch */
+/* "iNK_PLUS" = "iNKillerPlus:"; */
+"GLOBAL_ENABLED_SWITCH" = "Tippe auf den Button oben rechts, um Änderungen anzuwenden.";
+
+/* Downloading global switch */
+"DOWNLOADING" = "Download-Funktion aktivieren:";
+"GLOBAL_DOWNLOADING_SWITCH" = "Füge einen Button hinzu oder halte einen Post länger gedrückt, um ihn herunterzuladen.";
+
+/* General section */
+"MAIN_UI" = "Feed-Optionen";
+"PROFILE" = "Profil-Optionen";
+"STORIES" = "Story-Optionen";
+"TAB_BAR_SECTION" = "Tab-Bar-Optionen";
+"MISCELLANEOUS" = "Sonstiges";
+
+/* Andere || Übersetzung & Links */
+"OTHER_TWEAKS" = "Schau dir meine anderen Projekte an:";
+"CREDITS" = "Credits:";
+"SPECIAL_THANK" = "Besonderer Dank:";
+"LOCALIZATION" = "Lokalisierungen:";
+"DEVELOPER" = "Entwickler:";
+"WELCOME_ALERT" = "Um die Einstellungen zu öffnen, halte das Instagram-Logo länger gedrückt.";
+
+/* MAIN_UI section */
+"LOCK_APP" = "Instagram mit Passwort schützen";
+"LOCK_APP_DESC" = "App über FaceID/TouchID sperren.";
+"POST_DISC" = "Post";
+"NO_ADS" = "Keine Werbung";
+"R_IMAGE_POSTED_CORNER" = "Abgerundete Ecken von Bild- und Videobeiträgen";
+"NO_SINGLE_TAP" = "Einzel-Tippen deaktivieren";
+"NO_SINGLE_TAP_DISC" = "Betrifft Videos & Bilder, die im Vollbildmodus angezeigt werden!";
+"NO_DOUBLE_TAP_LIKE" = "Doppeltes Tippen um zu Liken deaktivieren";
+"SHOW_CONFIRM" = "Bestätigung anzeigen";
+"SHOW_CONFIRM_DISC" = "Bestätigung beim Liken von Fotos, Videos und Kommentaren usw. anzeigen!";
+
+
+/* Profile section */
+"SPOOF" = "Spoofing...";
+"BOOST_POST" = "Beitrag Boosten";
+"INSIGHT_POST" = "Beitragseinblicke anzeigen...";
+"ACCOUNT_VERIFIED" = "Verifiziertes Konto";
+"ACCOUNT_BUISNESS" = "Business Konto";
+"NO_DOUBLETAP_SWITCH" = "Doppeltippen deaktivieren:";
+"NO_DOUBLETAP_SWITCH_DISC" = "Doppeltippen zum Wechseln zwischen Konten deaktivieren!";
+"NO_SUGGESTED_PROFILE" = "Profilvorschläge deaktivieren:";
+"WHO_FOLLOWING" = "Following Status anzeigen";
+
+
+/* Stories section */
+"NO_STORY_AD" = "Werbung in Stories ausblenden";
+"HIDE_SEEN_MANUALLY" = "Stories manuell als gesehen markieren";
+"HIDE_SEEN_MANUALLY_DISC" = "Fügt einen Button innerhalb der Stories-Ansicht hinzu";
+"HIDE_QUICK_REACTION" = "Reaktionen ausblenden";
+
+/* TAB_BAR section */
+"NO_LONG_PRESS" = "Langes Drücken auf Tabs deaktivieren";
+"HIDE_TABS" = "Tabs ausblenden";
+"HIDE_ALL_TAB" = "Alle Tabs ausblenden";
+
+
+/* Miscellaneous section */
+"ENABLE_MUSIC" = "Musik aktivieren";
+"DIRECT_MESSG" = "Direktnachrichten";
+"HIDE_SEEN_DM" = "Nachrichten manuell als gesehen markieren";
+"HIDE_SEEN_DM_DISC" = "Füge einen Button innerhalb der Nachrichtenübersicht hinzu";
+"COPY_TXT" = "Text kopieren";
+"COPY_TEXT" = "Sonstige Texte kopieren";
+"COPY_TEXT_DISC" = "Lange drücken, um Beschreibung, Kommentare, Biografie usw. zu kopieren";
+
+
+/* global action title */
+"OK" = "OK";
+"YES" = "Ja";
+"NO" = "Nein";
+"QUICK_LOOK" = "Schnellansicht";
+"SAVE_IMG" = "Bild speichern";
+"SAVE_PROFILE_IMG" = "Profilbild speichern";
+"HD" = "HD";
+"SD" = "SD";
+"COPIENG_TEXT" = "Text kopieren";
+"COPIED" = "Kopiert";
+"LIKING" = "Gefällt mir?";
+"FOLLOWING_U" = "Folgt dir";
+"CANCEL" = "Abbrechen";
+"DISMISS" = "Schließen";
+"DELETED" = "Gelöscht";
+"DOWNLOADING_START" = "Download gestartet";
+"CANCEL_HUD" = "Abbrechen";
+"SAVED" = "Gespeichert";
+"SUCCESS" = "Erfolgreich";
+
+/* other stuff */
