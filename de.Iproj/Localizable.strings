@@ -33,7 +33,7 @@
 "LOCK_APP" = "Instagram mit Passwort schützen";
 "LOCK_APP_DESC" = "App über FaceID/TouchID sperren.";
 "POST_DISC" = "Post";
-"NO_ADS" = "Keine Werbung";
+"NO_ADS" = "Gesponserte Posts ausblenden";
 "R_IMAGE_POSTED_CORNER" = "Abgerundete Ecken von Bild- und Videobeiträgen";
 "NO_SINGLE_TAP" = "Einzel-Tippen deaktivieren";
 "NO_SINGLE_TAP_DISC" = "Betrifft Videos & Bilder, die im Vollbildmodus angezeigt werden!";
@@ -51,7 +51,7 @@
 "NO_DOUBLETAP_SWITCH" = "Doppeltippen deaktivieren:";
 "NO_DOUBLETAP_SWITCH_DISC" = "Doppeltippen zum Wechseln zwischen Konten deaktivieren!";
 "NO_SUGGESTED_PROFILE" = "Profilvorschläge deaktivieren:";
-"WHO_FOLLOWING" = "Following Status anzeigen";
+"WHO_FOLLOWING" = "Wer folgt dir?";
 
 
 /* Stories section */
@@ -87,7 +87,7 @@
 "SD" = "SD";
 "COPIENG_TEXT" = "Text kopieren";
 "COPIED" = "Kopiert";
-"LIKING" = "Gefällt mir?";
+"LIKING" = "Gefällt dir?";
 "FOLLOWING_U" = "Folgt dir";
 "CANCEL" = "Abbrechen";
 "DISMISS" = "Schließen";
