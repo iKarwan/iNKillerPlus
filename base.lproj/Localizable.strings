@@ -6,7 +6,7 @@
 /* NOTE 2 !!! Please after translation add your country specific like.  en - ar - zh ext... */
 
 /* iNKillerPlus global switch */
-/* "iNK_PLUS" = "iNKillerPlus:"; */
+"GLOB_ENABLED" = "Global Enabled:";
 "GLOBAL_ENABLED_SWITCH" = "Tap the top-right button to apply changes.";
 
 /* downloding global switch */
@@ -39,6 +39,8 @@
 "NO_DOUBLE_TAP_LIKE" = "Disable Double Tap To like";
 "SHOW_CONFIRM" = "Show Confirmation";
 "SHOW_CONFIRM_DISC" = "confirm on like photos/videos, comments ext..";
+"USE_COMPACT" = "use Compacted Mode";
+"USE_COMPACT_DISC" = "home explorer with search only & profile!";
 
 
 /* Profile section */
@@ -62,6 +64,10 @@
 /* TAB_BAR section */
 "NO_LONG_PRESS" = "Disable Long Press on Tabs";
 "HIDE_TABS" = "Hide Tabs";
+"NO_EXPLORE" = "Hide Explorer Tab";
+"NO_REEL" = "Hide Reels Tab";
+"NO_NEWS" = "Hide activaty Tab";
+"NO_PROFILE" = "Hide Profile Tab";
 "HIDE_ALL_TAB" = "Hide All Tabs";
 
 

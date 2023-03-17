@@ -7,7 +7,7 @@
 /* NOTE 2 !!! Please after translation add your country specific like.  en - ar - zh ext... */
 
 /* iNKillerPlus global switch */
-/* "iNK_PLUS" = "iNKillerPlus:"; */
+"GLOB_ENABLED" = "Global Enabled:";
 "GLOBAL_ENABLED_SWITCH" = "Tippe auf den Button oben rechts, um Änderungen anzuwenden.";
 
 /* Downloading global switch */
@@ -40,7 +40,8 @@
 "NO_DOUBLE_TAP_LIKE" = "Doppeltes Tippen um zu Liken deaktivieren";
 "SHOW_CONFIRM" = "Bestätigung anzeigen";
 "SHOW_CONFIRM_DISC" = "Bestätigung beim Liken von Fotos, Videos und Kommentaren usw. anzeigen!";
-
+"USE_COMPACT" = "use Compacted Mode";
+"USE_COMPACT_DISC" = "home explorer with search only & profile!";
 
 /* Profile section */
 "SPOOF" = "Spoofing...";
@@ -63,6 +64,10 @@
 /* TAB_BAR section */
 "NO_LONG_PRESS" = "Langes Drücken auf Tabs deaktivieren";
 "HIDE_TABS" = "Tabs ausblenden";
+"NO_EXPLORE" = "Hide Explorer Tab";
+"NO_REEL" = "Hide Reels Tab";
+"NO_NEWS" = "Hide activaty Tab";
+"NO_PROFILE" = "Hide Profile Tab";
 "HIDE_ALL_TAB" = "Alle Tabs ausblenden";
 
 
