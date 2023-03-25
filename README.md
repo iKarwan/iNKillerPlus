@@ -47,8 +47,3 @@
 ### TrollStore iPA Only
 * Download and install TrollStore from [here](https://github.com/opa334/TrollStore).
 * download the Instagram ipa from the link [here](https://ikghd.site/iPA/Instagram_275.1_iNKillerPlus_2.1.2_TrollStore.ipa) and install it via TrollStore:
-
-
-## Localization..
-* iNKillerPlus fully support localization if u wish to add your language please download the (base) file and translate it completely. then open a pull request or send it via Email to ( ikghd3@gmail.com ) to be add in future update .
-* NOTE!!! you have right to request a copy of iNKillerPlus after translation and add to credits .
