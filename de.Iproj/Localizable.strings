@@ -52,7 +52,8 @@
 "NO_DOUBLETAP_SWITCH" = "Doppeltippen deaktivieren:";
 "NO_DOUBLETAP_SWITCH_DISC" = "Doppeltippen zum Wechseln zwischen Konten deaktivieren!";
 "NO_SUGGESTED_PROFILE" = "Profilvorschläge deaktivieren:";
-"WHO_FOLLOWING" = "Wer folgt dir?";
+"WHO_FOLLOWING" = "Determint Following Status";
+"WHO_FOLLOWING_DISC" = "know who following & who not!";
 
 
 /* Stories section */
@@ -93,7 +94,8 @@
 "COPIENG_TEXT" = "Text kopieren";
 "COPIED" = "Kopiert";
 "LIKING" = "Gefällt dir?";
-"FOLLOWING_U" = "Folgt dir";
+"FOLLOWING" = "Folgt dir";
+"NOT_FOLLOWING" = "Not following";
 "CANCEL" = "Abbrechen";
 "DISMISS" = "Schließen";
 "DELETED" = "Gelöscht";

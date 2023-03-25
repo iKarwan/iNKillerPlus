@@ -52,7 +52,8 @@
 "NO_DOUBLETAP_SWITCH" = "Disable DoubleTap Switch:";
 "NO_DOUBLETAP_SWITCH_DISC" = "double tap to switching between accounts!";
 "NO_SUGGESTED_PROFILE" = "No Suggested Profile:";
-"WHO_FOLLOWING" = "Determint Who Following?";
+"WHO_FOLLOWING" = "Determint Following Status";
+"WHO_FOLLOWING_DISC" = "know who following & who not!";
 
 
 /* Stories section */
@@ -93,7 +94,8 @@
 "COPIENG_TEXT" = "Copy text";
 "COPIED" = "Copied";
 "LIKING" = "Liking?";
-"FOLLOWING_U" = "Follows You";
+"FOLLOWING" = "Following";
+"NOT_FOLLOWING" = "Not following";
 "CANCEL" = "Cancel";
 "DISMISS" = "Dismiss";
 "DELETED" = "Deleted";
