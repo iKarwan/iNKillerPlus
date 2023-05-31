@@ -17,8 +17,8 @@
     1. Download IPA file from here and follow the instructions below to sign and install the app from your computer for one week
         | Application | Bundle | Version | iNKillerPlus | File Type |
         | ------------------ |:---------:|:------:|:------:|:------:|
-        | [Instagram](https://ikghd.site/iPA/Instagram_284.0_iNKillerPlus_2.1.8.ipa) | com.burbn.instagram | 284.0 | 2.1.8 | IPA |
-        | [TrollStore](https://ikghd.site/iPA/Instagram_284.0_iNKillerPlus_2.1.8_TrollStore.ipa) | com.burbn.instagram | 284.0 | 2.1.8 | IPA |
+        | [Instagram](https://ikghd.site/iPA/Instagram_285.0_iNKillerPlus_2.1.9.ipa) | com.burbn.instagram | 285.0 | 2.1.9 | IPA |
+        | [TrollStore](https://ikghd.site/iPA/Instagram_285.0_iNKillerPlus_2.1.9_TrollStore.ipa) | com.burbn.instagram | 285.0 | 2.1.9 | IPA |
 
 
 ## How to Sideload on non-jailbroken devices
@@ -34,7 +34,7 @@
 * Right click on the AltServer icon with your phone connected and choose "Install Altstore", then the name of your phone. When prompted sign in with your Apple ID. Two-factor Authentication is supported, app-specific passwords are not.
 
     * install via AltStore.
-    * [Open In AltStore iNKillerPlus v284.0](https://tinyurl.com/) this will take some time as it altstore need to download the iPA and it depending on the internet connection speed .
+    * [Open In AltStore iNKillerPlus v285.0](https://tinyurl.com/) this will take some time as it altstore need to download the iPA and it depending on the internet connection speed .
 
 
 
@@ -46,4 +46,4 @@
 
 ### TrollStore iPA Only
 * Download and install TrollStore from [here](https://github.com/opa334/TrollStore).
-* download the Instagram ipa from the link [here](https://ikghd.site/iPA/Instagram_284.0_iNKillerPlus_2.1.8_TrollStore.ipa) and install it via TrollStore:
+* download the Instagram ipa from the link [here](https://ikghd.site/iPA/Instagram_285.0_iNKillerPlus_2.1.9_TrollStore.ipa) and install it via TrollStore:
