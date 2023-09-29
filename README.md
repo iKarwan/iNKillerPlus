@@ -2,7 +2,7 @@
 * a whole new Instagram Experience!
 
 ## Recommended iOS Firmware & Instagram App Versions?
-* iOS 13.0 / iOS 16.x ...
+* iOS 13.0 / iOS 17.x ...
 * Instagram v250.0 and newer ...
 
 
@@ -17,8 +17,8 @@
     1. Download IPA file from here and follow the instructions below to sign and install the app from your computer for one week
         | Application | Bundle | Version | iNKillerPlus | File Type |
         | ------------------ |:---------:|:------:|:------:|:------:|
-        | [Instagram](https://ikghd.site/ipa/Instagram_302.0_iNKillerPlus_2.2.1.ipa) | com.burbn.instagram | 302.0 | 2.2.1 | IPA |
-        | [TrollStore](https://ikghd.site/ipa/Instagram_302.0_iNKillerPlus_2.2.1_TrollStore.ipa) | com.burbn.instagram | 302.0 | 2.2.1 | IPA |
+        | [Instagram](https://ikghd.site/ipa/Instagram_302.0_iNKillerPlus_2.2.2.ipa) | com.burbn.instagram | 302.0 | 2.2.2 | IPA |
+        | [TrollStore](https://ikghd.site/ipa/Instagram_302.0_iNKillerPlus_2.2.2_TrollStore.ipa) | com.burbn.instagram | 302.0 | 2.2.2 | IPA |
 
 
 ## How to Sideload on non-jailbroken devices
@@ -46,7 +46,7 @@
 
 ### TrollStore iPA Only
 * Download and install TrollStore from [here](https://github.com/opa334/TrollStore).
-* download the Instagram ipa from the link [here](https://ikghd.site/ipa/Instagram_302.0_iNKillerPlus_2.2.1_TrollStore.ipa) and install it via TrollStore:
+* download the Instagram ipa from the link [here](https://ikghd.site/ipa/Instagram_302.0_iNKillerPlus_2.2.2_TrollStore.ipa) and install it via TrollStore:
 
 
 ### Telegram channel
