@@ -49,7 +49,7 @@
 
 ### TrollStore iPA Only
 * Download and install TrollStore from [here](https://github.com/opa334/TrollStore).
-* download the Instagram ipa from the link [here](https://ikghd.site/ipa/Instagram_315.1.2_iNKillerPlus_2.2.5_TrollStore.ipa) and install it via TrollStore:
+* copy this link [here](https://ikghd.site/ipa/Instagram_315.1.2_iNKillerPlus_2.2.5_TrollStore.ipa) and paste it to (install from URL) option in TrollStore:
 
 
 ### Telegram channel
