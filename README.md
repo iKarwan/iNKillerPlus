@@ -54,3 +54,8 @@
 
 ### Telegram channel
 * u can download the ipa always on our telegram channel from the link [here](https://t.me/ikghdiPA)
+
+* ### Donation
+* donation always appreciated to keep th project on go
+* [Paypal](https://www.paypal.com/donate/?hosted_button_id=HG4NT5LFR29DW)
+* [Buy me a coffe](https://www.buymeacoffee.com/ikghd)
