@@ -37,7 +37,7 @@
 * Right click on the AltServer icon with your phone connected and choose "Install Altstore", then the name of your phone. When prompted sign in with your Apple ID. Two-factor Authentication is supported, app-specific passwords are not.
 
     * install via AltStore.
-    * [Open In AltStore iNKillerPlus v327.1](https://tinyurl.com/) this will take some time as it altstore need to download the iPA and it depending on the internet connection speed .
+    * [Open In AltStore iNKillerPlus v327.1](https://tinyurl.com/5n98rmcm) this will take some time as it altstore need to download the iPA and it depending on the internet connection speed .
 
 
 
