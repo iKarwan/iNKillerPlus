@@ -55,7 +55,12 @@
 ### Telegram channel
 * u can download the ipa always on our telegram channel from the link [here](https://t.me/ikghdiPA)
 
-* ### Donation
+
+## Localization..
+* iNKillerPlus fully support localization if u wish to add your language please download the (base) file and translate it completely. then open a pull request or send it via Email to ( ikghd3@gmail ) to be add in future update .
+* NOTE!!! you have right to request a copy of iNKillerPlus after translation and add to credits .
+
+### Donation
 * donation always appreciated to keep the project on go!
 * [Paypal](https://www.paypal.com/donate/?hosted_button_id=HG4NT5LFR29DW)
 * [Buy me a coffe](https://www.buymeacoffee.com/ikghd)
