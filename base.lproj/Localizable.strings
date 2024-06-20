@@ -6,11 +6,11 @@
 /* NOTE 2 !!! Please after translation add your country specific like.  en - ar - zh ext... */
 
 /* iNKillerPlus global switch */
-"GLOB_ENABLED" = "Global Enabled:";
+"GLOB_ENABLED" = "Global Enabled";
 "GLOBAL_ENABLED_SWITCH" = "Tap the top-right button to apply changes.";
 
 /* downloding global switch */
-"DOWNLOADING" = "Enable Download Feature:";
+"DOWNLOADING" = "Enable Download Feature";
 "GLOBAL_DOWNLOADING_SWITCH" = "Add a button or long press on post to download.";
 
 /* general section */
@@ -21,11 +21,11 @@
 "MISCELLANEOUS" = "Miscellaneous";
 
 /* other || credits translation & links */
-"OTHER_TWEAKS" = "Check Out My Other Projects:";
-"CREDITS" = "Credits:";
-"SPECIAL_THANK" = "Special Thanks:";
-"LOCALIZATION" = "Localizations:";
-"DEVELOPER" = "Developer:";
+"OTHER_TWEAKS" = "Other Projects";
+"CREDITS" = "Credits";
+"SPECIAL_THANK" = "Special Thanks";
+"LOCALIZATION" = "Localizations";
+"DEVELOPER" = "Developer";
 "WELCOME_ALERT" = "to enter the settings long press on instagram text logo .";
 
 /* MAIN_UI section */
@@ -41,7 +41,7 @@
 "NO_DOUBLE_TAP_LIKE" = "Disable Double Tap To like";
 "SHOW_CONFIRM" = "Show Confirmation";
 "SHOW_CONFIRM_DISC" = "confirm on like photos/videos, comments ext..";
-"USE_COMPACT" = "use Compacted Mode";
+"USE_COMPACT" = "compact Explore tab";
 "USE_COMPACT_DISC" = "hide all videos & keep search bar only!";
 
 
