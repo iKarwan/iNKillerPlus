@@ -87,22 +87,31 @@
 "COPY_TEXT" = "Copy variuos Text";
 "COPY_TEXT_DISC" = "long press to copy description/comments/bio ext..";
 
+"unsed" = "Unsend!";
+"unsend_disc" = "This action will refresh all message data and delete the unsent messages also!\n\n message are synced automaticlly not need to refresh in order otherwise!";
+"refresh" = "Refresh";
 
 /* global action title */
 "OK" = "OK";
 "YES" = "Yes";
 "NO" = "No";
-"QUICK_LOOK" = "Quick Look";
+"QUICK_LOOK" = "Expand";
+"DOWNLOAD" = "Download to Library";
+"DOWNLOAD_SHARE" = "Download and Share";
+"DOWNLOAD_AND_SHARE" = "Download and Share";
+"VIDEO_OPTIONS" = "Media options";
+"CHOOSE_QUALITY" = "Choose quality";
 "SAVE_IMG" = "Save Image";
 "SAVE_PROFILE_IMG" = "Save Profile Image";
-"HD" = "HD";
-"SD" = "SD";
+"HD" = "Download HD";
+"SD" = "Download SD";
 "COPIENG_TEXT" = "Copy text";
 "COPIED" = "Copied";
 "LIKING" = "Liking?";
+"FOLLOW" = "Following?";
 "CALL" = "Calling?";
-"FOLLOWING" = "Following";
-"NOT_FOLLOWING" = "Not following";
+"FOLLOWING" = "FOLLOWING YOU";
+"NOT_FOLLOWING" = "NOT FOLLOWING YOU";
 "CANCEL" = "Cancel";
 "DISMISS" = "Dismiss";
 "DELETED" = "Deleted";

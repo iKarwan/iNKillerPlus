@@ -75,12 +75,18 @@
 "COPY_TEXT" = "Sonstige Texte kopieren";
 "COPY_TEXT_DISC" = "Lange drücken, um Beschreibung, Kommentare, Biografie usw. zu kopieren";
 
+"unsed" = "Unsend!";
+"unsend_disc" = "This action will refresh all message data and delete the unsent messages also!\n\n message are synced automaticlly not need to refresh in order otherwise!";
+"refresh" = "Refresh";
 
 /* global action title */
 "OK" = "OK";
 "YES" = "Ja";
 "NO" = "Nein";
 "QUICK_LOOK" = "Schnellansicht";
+"DOWNLOAD" = "Download";
+"VIDEO_OPTIONS" = "Media options";
+"CHOOSE_QUALITY" = "Choose quality";
 "SAVE_IMG" = "Bild speichern";
 "SAVE_PROFILE_IMG" = "Profilbild speichern";
 "HD" = "HD";
