@@ -1,0 +1,125 @@
+/* by iKarwan */
+/* Simplified Chinese By Stalker(YaoDao) */
+
+/* iNKillerPlus global switch */
+"GLOB_ENABLED" = "全局启用";
+"GLOBAL_ENABLED_SWITCH" = "点击右上角的按钮应用更改";
+
+/* downloding global switch */
+"DOWNLOADING" = "启用下载";
+"GLOBAL_DOWNLOADING_SWITCH" = "添加下载按钮或长按帖子即可下载";
+
+/* general section */
+"MAIN_UI" = "常规设置";
+"PROFILE" = "个人设置";
+"STORIES" = "快拍设置";
+"TAB_BAR_SECTION" = "底栏设置";
+"MISCELLANEOUS" = "其他设置";
+
+/* other || credits translation & links */
+"OTHER_TWEAKS" = "查看作品";
+"CREDITS" = "致谢名单";
+"SPECIAL_THANK" = "特别鸣谢";
+"Icon By:" = "图标设计：";
+"LOCALIZATION" = "本地化翻译";
+"DEVELOPER" = "开发者";
+"WELCOME_ALERT" = "通过长按左上角“Instagram”标志进入插件设置";
+
+/* MAIN_UI section */
+"LOCK_APP" = "锁定App";
+"LOCK_APP_DESC" = "通过“面容/密码”锁定应用程序";
+"POST_DISC" = "帖子";
+"NO_ADS" = "无促销广告";
+"NO_SUGGEST" = "隐藏推荐";
+"NO_SUGGEST_DISC" = "隐藏推荐的帖子和短视频";
+"No Suggesation" = "删除推荐";
+"remove feed suggested posts reels!" = "删除推荐的帖子和短视频";
+"R_IMAGE_POSTED_CORNER" = "“图片/视频”圆角";
+"NO_SINGLE_TAP" = "禁用单击";
+"NO_SINGLE_TAP_DISC" = "影响发布的视频图像全屏显示";
+"NO_DOUBLE_TAP_LIKE" = "禁用双击点赞";
+"SHOW_CONFIRM" = "显示确认";
+"SHOW_CONFIRM_DISC" = "确认喜欢照片/视频、评论等";
+"USE_COMPACT" = "紧凑的“探索”标签";
+"USE_COMPACT_DISC" = "隐藏所有视频并仅保留搜索栏";
+
+
+/* Profile section */
+"SPOOF" = "伪造";
+"BOOST_POST" = "启用高级帖子";
+"INSIGHT_POST" = "显示帖子见解..";
+"ACCOUNT_VERIFIED" = "账户已验证";
+"ACCOUNT_BUISNESS" = "商业账户";
+"NO_DOUBLETAP_SWITCH" = "禁用双击切换";
+"NO_DOUBLETAP_SWITCH_DISC" = "双击即可在账户之间切换";
+"NO_SUGGESTED_PROFILE" = "无推荐的用户";
+"WHO_FOLLOWING" = "确定关注状态";
+"WHO_FOLLOWING_DISC" = "知道谁关注了，谁没有关注！";
+
+
+/* Stories section */
+"NO_STORY_AD" = "无推荐广告";
+"HIDE_SEEN_MANUALLY" = "手动查看已读快拍";
+"HIDE_SEEN_MANUALLY_DISC" = "在快拍视图中添加一个按钮";
+"HIDE_QUICK_REACTION" = "隐藏快速回应";
+"Hide Quick Reactions" = "隐藏快速回应";
+
+/* TAB_BAR section */
+"NO_LONG_PRESS" = "禁用长按标签";
+"HIDE_TABS" = "隐藏底部标签";
+"NO_EXPLORE" = "隐藏探索标签";
+"NO_REEL" = "隐藏“帖子/短视频”标签";
+"NO_NEWS" = "隐藏活动标签";
+"NO_PROFILE" = "隐藏个人标签";
+"HIDE_ALL_TAB" = "隐藏全部标签";
+
+
+/* Miscellaneous section */
+"ENABLE_MUSIC" = "启用音乐";
+"DIRECT_MESSG" = "消息留言";
+"HIDE_SEEN_DM" = "手动查看私信";
+"NOTIFY_CALLING_DM" = "通话确认";
+"NOTIFY_CALLING_DM_DISC" = "点击“音频/视频”呼叫按钮时确认";
+"NOTIFY_SCREENSHOOT_DM" = "阻止截屏通知";
+"NOTIFY_SCREENSHOOT_DM_DISC" = "禁用截屏时的通知";
+"Keep Unsend Message" = "保留未发消息";
+"HIDE_SEEN_DM_DISC" = "在私信视图中添加一个按钮";
+"COPY_TXT" = "复制文本";
+"COPY_TEXT" = "复制各种文本";
+"COPY_TEXT_DISC" = "长按复制描述/评论等内容";
+
+"unsed" = "取消发送！";
+"unsend_disc" = "此操作将刷新所有消息数据并删除未发送的消息！\n\n消息会自动同步，否则无需刷新！";
+"refresh" = "刷新";
+
+/* global action title */
+"OK" = "好的";
+"YES" = "是";
+"NO" = "不";
+"QUICK_LOOK" = "展开";
+"DOWNLOAD" = "下载至库";
+"DOWNLOAD_SHARE" = "下载和分享";
+"DOWNLOAD_AND_SHARE" = "下载和分享";
+"VIDEO_OPTIONS" = "媒体选项";
+"CHOOSE_QUALITY" = "选择画质";
+"SAVE_IMG" = "保存图片";
+"SAVE_PROFILE_IMG" = "保存个人图像";
+"HD" = "下载HD";
+"SD" = "下载SD";
+"COPIENG_TEXT" = "复制文本";
+"COPIED" = "已复制";
+"LIKING" = "喜欢？";
+"FOLLOW" = "关注？";
+"CALL" = "拨打？";
+"FOLLOWING" = "关注你";
+"NOT_FOLLOWING" = "未关注你";
+"CANCEL" = "取消";
+"DISMISS" = "解除";
+"DELETED" = "已删除";
+"DOWNLOADING_START" = "下载中";
+"CANCEL_HUD" = "取消";
+"SAVED" = "一已保存";
+"SUCCESS" = "成功";
+
+/* other stuff */
+
