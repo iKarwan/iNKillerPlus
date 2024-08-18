@@ -7,11 +7,11 @@
 /* NOTE 2 !!! Please after translation add your country specific like.  en - ar - zh ext... */
 
 /* iNKillerPlus global switch */
-/* "iNK_PLUS" = "iNKillerPlus:"; */
+/* "iNK_PLUS" = "iNKillerPlus"; */
 "GLOBAL_ENABLED_SWITCH" = "Tippe auf den Button oben rechts, um Änderungen anzuwenden.";
 
 /* Downloading global switch */
-"DOWNLOADING" = "Download-Funktion aktivieren:";
+"DOWNLOADING" = "Download-Funktion aktivieren";
 "GLOBAL_DOWNLOADING_SWITCH" = "Füge einen Button hinzu oder halte einen Post länger gedrückt, um ihn herunterzuladen.";
 
 /* General section */
@@ -22,11 +22,11 @@
 "MISCELLANEOUS" = "Sonstiges";
 
 /* Andere || Übersetzung & Links */
-"OTHER_TWEAKS" = "Schau dir meine anderen Projekte an:";
-"CREDITS" = "Credits:";
-"SPECIAL_THANK" = "Besonderer Dank:";
-"LOCALIZATION" = "Lokalisierungen:";
-"DEVELOPER" = "Entwickler:";
+"OTHER_TWEAKS" = "Schau dir meine anderen Projekte an";
+"CREDITS" = "Credits";
+"SPECIAL_THANK" = "Besonderer Dank";
+"LOCALIZATION" = "Lokalisierungen";
+"DEVELOPER" = "Entwickler";
 "WELCOME_ALERT" = "Um die Einstellungen zu öffnen, halte das Instagram-Logo länger gedrückt.";
 
 /* MAIN_UI section */
@@ -48,9 +48,9 @@
 "INSIGHT_POST" = "Beitragseinblicke anzeigen...";
 "ACCOUNT_VERIFIED" = "Verifiziertes Konto";
 "ACCOUNT_BUISNESS" = "Business Konto";
-"NO_DOUBLETAP_SWITCH" = "Doppeltippen deaktivieren:";
+"NO_DOUBLETAP_SWITCH" = "Doppeltippen deaktivieren";
 "NO_DOUBLETAP_SWITCH_DISC" = "Doppeltippen zum Wechseln zwischen Konten deaktivieren!";
-"NO_SUGGESTED_PROFILE" = "Profilvorschläge deaktivieren:";
+"NO_SUGGESTED_PROFILE" = "Profilvorschläge deaktivieren";
 "WHO_FOLLOWING" = "Wer folgt dir?";
 
 
@@ -80,6 +80,7 @@
 "refresh" = "Refresh";
 
 /* global action title */
+"inkplus_settings" = "iNKPlus Einstellungen";
 "OK" = "OK";
 "YES" = "Ja";
 "NO" = "Nein";
@@ -102,5 +103,47 @@
 "CANCEL_HUD" = "Abbrechen";
 "SAVED" = "Gespeichert";
 "SUCCESS" = "Erfolgreich";
+
+/* promptForActivation */
+"license_option" = "License Options";
+"license_option_disc" = "Choose an option:";
+"activate_new_license" = "Activate New License";
+"restore_license" = "Restore License";
+"renew_license" = "Renew License";
+"buy_license" = "Buy License";
+"activate_new_license_disc" = "Please enter your email and license key.";
+"email" = "Email";
+"license_key" = "License Key";
+"activate" = "Activate";
+"invalid_email" = "Invalid Email";
+"invalid_email_disc" = "Please enter a valid email address.";
+"invalid_license" = "Invalid License";
+"license_key_empty" = "License key cannot be empty.";
+"license_key_length_wrong" = "License key length is wrong\nplease enter valid license key.";
+
+/* promptForRestore */
+"restore_license_disc" = "Please enter the email associated with your license.";
+"restore" = "Restore";
+"license_restored_successfully" = "License restored successfully.\nKey: %@\nExpires: %@";
+"license_restored" = "License Restored";
+"restore_failed" = "Restore Failed";
+
+/* enter license prompt */
+"enter_license_key" = "Enter License Key";
+"enter_license_key_disc" = "Please enter your license key to authenticate.";
+"license_key_authenticated" = "License key authenticated successfully. Expires on: %@";
+"authentication_successful" = "Authentication Successful";
+"key_used_on_another_device" = "License already activated on another device";
+"key_is_in_use_on_another_device" = "This license is already in use on another device. Please use a different license key.";
+"email_associated_with_another_key" = "Email already associated with another license";
+"authentication_failed" = "Authentication Failed";
+"email_associated_with_defferent_key" = "This email is already associated with a different license. Please use a different email or license key.";
+"key_expired" = "Key has expired";
+"license_expired" = "License Expired";
+"license_expired_disc" = "Your license key has expired. Please renew.";
+"license_verification_failed" = "License Verification Failed";
+"no_internet" = "No Internet";
+"no_internet_disc" = "You need an internet connection to authenticate.";
+"license_disc" = "The license key you entered is not valid.";
 
 /* other stuff */
