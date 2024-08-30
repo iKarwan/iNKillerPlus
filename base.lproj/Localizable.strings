@@ -51,9 +51,9 @@
 "INSIGHT_POST" = "Show Post Insights..";
 "ACCOUNT_VERIFIED" = "Account Verified";
 "ACCOUNT_BUISNESS" = "Account Business";
-"NO_DOUBLETAP_SWITCH" = "Disable DoubleTap Switch:";
+"NO_DOUBLETAP_SWITCH" = "Disable DoubleTap Switch";
 "NO_DOUBLETAP_SWITCH_DISC" = "double tap to switching between accounts!";
-"NO_SUGGESTED_PROFILE" = "No Suggested Profile:";
+"NO_SUGGESTED_PROFILE" = "No Suggested Profile";
 "WHO_FOLLOWING" = "Determint Following Status";
 "WHO_FOLLOWING_DISC" = "know who following & who not!";
 
