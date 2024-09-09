@@ -20,7 +20,7 @@
 "OTHER_TWEAKS" = "查看作品";
 "CREDITS" = "致谢名单";
 "SPECIAL_THANK" = "特别鸣谢";
-"Icon By:" = "图标设计：";
+"icon_by" = "图标设计";
 "LOCALIZATION" = "本地化翻译";
 "DEVELOPER" = "开发者";
 "WELCOME_ALERT" = "通过长按左上角“Instagram”标志进入插件设置";
@@ -32,8 +32,8 @@
 "NO_ADS" = "无促销广告";
 "NO_SUGGEST" = "隐藏推荐";
 "NO_SUGGEST_DISC" = "隐藏推荐的帖子和短视频";
-"No Suggesation" = "删除推荐";
-"remove feed suggested posts reels!" = "删除推荐的帖子和短视频";
+"no_suggesation" = "删除推荐";
+"no_suggesation_disc" = "删除推荐的帖子和短视频";
 "R_IMAGE_POSTED_CORNER" = "“图片/视频”圆角";
 "NO_SINGLE_TAP" = "禁用单击";
 "NO_SINGLE_TAP_DISC" = "影响发布的视频图像全屏显示";
@@ -62,7 +62,6 @@
 "HIDE_SEEN_MANUALLY" = "手动查看已读快拍";
 "HIDE_SEEN_MANUALLY_DISC" = "在快拍视图中添加一个按钮";
 "HIDE_QUICK_REACTION" = "隐藏快速回应";
-"Hide Quick Reactions" = "隐藏快速回应";
 
 /* TAB_BAR section */
 "NO_LONG_PRESS" = "禁用长按标签";
@@ -82,11 +81,12 @@
 "NOTIFY_CALLING_DM_DISC" = "点击“音频/视频”呼叫按钮时确认";
 "NOTIFY_SCREENSHOOT_DM" = "阻止截屏通知";
 "NOTIFY_SCREENSHOOT_DM_DISC" = "禁用截屏时的通知";
-"Keep Unsend Message" = "保留未发消息";
 "HIDE_SEEN_DM_DISC" = "在私信视图中添加一个按钮";
 "COPY_TXT" = "复制文本";
 "COPY_TEXT" = "复制各种文本";
 "COPY_TEXT_DISC" = "长按复制描述/评论等内容";
+
+"unsend_message" = "保留未发消息";
 
 "unsed" = "取消发送！";
 "unsend_disc" = "此操作将刷新所有消息数据并删除未发送的消息！\n\n消息会自动同步，否则无需刷新！";

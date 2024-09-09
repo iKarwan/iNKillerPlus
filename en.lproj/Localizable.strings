@@ -24,6 +24,7 @@
 "OTHER_TWEAKS" = "Other Projects";
 "CREDITS" = "Credits";
 "SPECIAL_THANK" = "Special Thanks";
+"icon_by" = "icon by";
 "LOCALIZATION" = "Localizations";
 "DEVELOPER" = "Developer";
 "WELCOME_ALERT" = "to enter the settings long press on instagram text logo .";
@@ -35,6 +36,8 @@
 "NO_ADS" = "No promo ads";
 "NO_SUGGEST" = "Hide Suggests";
 "NO_SUGGEST_DISC" = "hide suggested posts & reels on feed!";
+"no_suggesation" = "No Suggesation";
+"no_suggesation_disc" = "remove feed suggested posts reels!";
 "R_IMAGE_POSTED_CORNER" = "Round Post img/video Corners";
 "NO_SINGLE_TAP" = "Disable Single Tap";
 "NO_SINGLE_TAP_DISC" = "affect posted video images go to fullscreen!";
@@ -56,7 +59,6 @@
 "NO_SUGGESTED_PROFILE" = "No Suggested Profile";
 "WHO_FOLLOWING" = "Determint Following Status";
 "WHO_FOLLOWING_DISC" = "know who following & who not!";
-
 
 /* Stories section */
 "NO_STORY_AD" = "No stories promo Ad";
@@ -87,8 +89,10 @@
 "COPY_TEXT" = "Copy variuos Text";
 "COPY_TEXT_DISC" = "long press to copy description/comments/bio ext..";
 
+"unsend_message" = "Keep Unsend Message";
+
 "unsed" = "Unsend!";
-"unsend_disc" = "This action will refresh all message data and delete the unsent messages also!\n\n message are synced automaticlly not need to refresh in order otherwise!";
+"unsend_disc" = "This action will refresh all message data and delete the unsend messages also!\n\n message are synced automaticlly not need to refresh in order otherwise!";
 "refresh" = "Refresh";
 
 /* global action title */

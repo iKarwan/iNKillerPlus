@@ -25,6 +25,7 @@
 "OTHER_TWEAKS" = "Schau dir meine anderen Projekte an";
 "CREDITS" = "Credits";
 "SPECIAL_THANK" = "Besonderer Dank";
+"icon_by" = "icon by";
 "LOCALIZATION" = "Lokalisierungen";
 "DEVELOPER" = "Entwickler";
 "WELCOME_ALERT" = "Um die Einstellungen zu öffnen, halte das Instagram-Logo länger gedrückt.";
@@ -34,6 +35,8 @@
 "LOCK_APP_DESC" = "App über FaceID/TouchID sperren.";
 "POST_DISC" = "Post";
 "NO_ADS" = "Gesponserte Posts ausblenden";
+"no_suggesation" = "No Suggesation";
+"no_suggesation_disc" = "remove feed suggested posts reels!";
 "R_IMAGE_POSTED_CORNER" = "Abgerundete Ecken von Bild- und Videobeiträgen";
 "NO_SINGLE_TAP" = "Einzel-Tippen deaktivieren";
 "NO_SINGLE_TAP_DISC" = "Betrifft Videos & Bilder, die im Vollbildmodus angezeigt werden!";
@@ -75,8 +78,10 @@
 "COPY_TEXT" = "Sonstige Texte kopieren";
 "COPY_TEXT_DISC" = "Lange drücken, um Beschreibung, Kommentare, Biografie usw. zu kopieren";
 
+"unsend_message" = "Keep Unsend Message";
+
 "unsed" = "Unsend!";
-"unsend_disc" = "This action will refresh all message data and delete the unsent messages also!\n\n message are synced automaticlly not need to refresh in order otherwise!";
+"unsend_disc" = "This action will refresh all message data and delete the unsend messages also!\n\n message are synced automaticlly not need to refresh in order otherwise!";
 "refresh" = "Refresh";
 
 /* global action title */
