@@ -20,8 +20,8 @@
     1. Download IPA file from here and follow the instructions below to sign and install the app from your computer for one week
         | Application | Bundle | Version | iNKillerPlus | File Type |
         | ------------------ |:---------:|:------:|:------:|:------:|
-        | [Instagram](https://ikghd.site/ipa/Instagram_347.0_iNKillerPlus_2.4.10.ipa) | com.burbn.instagram | 347.0 | 2.4.10 | IPA |
-        | [TrollStore](https://ikghd.site/ipa/Instagram_347.0_iNKillerPlus_2.4.10_TrollStore.tipa) | com.burbn.instagram | 347.0 | 2.4.10 | tipa |
+        | [Instagram](https://ikghd.site/ipa/Instagram_348.0_iNKillerPlus_2.4.12.ipa) | com.burbn.instagram | 348.0 | 2.4.12 | IPA |
+        | [TrollStore](https://ikghd.site/ipa/Instagram_348.0_iNKillerPlus_2.4.12_TrollStore.tipa) | com.burbn.instagram | 348.0 | 2.4.12 | tipa |
 
 
 ## How to Sideload on non-jailbroken devices
@@ -37,7 +37,7 @@
 * Right click on the AltServer icon with your phone connected and choose "Install Altstore", then the name of your phone. When prompted sign in with your Apple ID. Two-factor Authentication is supported, app-specific passwords are not.
 
     * install via AltStore.
-    * [Open In AltStore iNKillerPlus v347.0](https://tinyurl.com/avjyzudc) this will take some time as it altstore need to download the iPA and it depending on the internet connection speed .
+    * [Open In AltStore iNKillerPlus v348.0](https://tinyurl.com/kjvfexzh) this will take some time as it altstore need to download the iPA and it depending on the internet connection speed .
 
 
 
@@ -49,7 +49,7 @@
 
 ### TrollStore tipa
 * Download and install TrollStore from [here](https://github.com/opa334/TrollStore).
-* copy this link [here](https://ikghd.site/ipa/Instagram_347.0_iNKillerPlus_2.4.10_TrollStore.tipa) and paste it to (install from URL) option in TrollStore:
+* copy this link [here](https://ikghd.site/ipa/Instagram_348.0_iNKillerPlus_2.4.12_TrollStore.tipa) and paste it to (install from URL) option in TrollStore:
 
 
 ### Telegram channel
