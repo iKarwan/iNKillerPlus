@@ -31,21 +31,32 @@
 "NO_SUGGEST_DISC" = "hide suggested posts & reels on feed!";
 "no_suggesation" = "No Suggesation";
 "no_suggesation_disc" = "remove feed suggested posts reels!";
-"R_IMAGE_POSTED_CORNER" = "Round Post img/video Corners";
+"R_IMAGE_POSTED_CORNER" = "Round Posted image/video Corners";
 "NO_SINGLE_TAP" = "Disable Single Tap";
 "NO_SINGLE_TAP_DISC" = "affect posted video images go to fullscreen!";
 "NO_DOUBLE_TAP_LIKE" = "Disable Double Tap To like";
 "SHOW_CONFIRM" = "Show Confirmation";
 "SHOW_CONFIRM_DISC" = "confirm on like photos/videos, comments ext..";
-"USE_COMPACT" = "compact Explore tab";
-"USE_COMPACT_DISC" = "hide all videos & keep search bar only!";
+
 
 /* Stories section */
 "NO_STORY_AD" = "No stories promo Ad";
 "HIDE_SEEN_MANUALLY" = "Seen stories Manually";
 "HIDE_SEEN_MANUALLY_DISC" = "add a button inside the stories view";
+"HIDE_SEEN_MANUALLY2" = "Seen stories Manually 2";
+"HIDE_SEEN_MANUALLY_DISC2" = "add a button inside the stories view manually on and off";
 "HIDE_QUICK_REACTION" = "Hide Quick Reactions";
 
+
+/* reels section */
+"reels" = "Reels";
+
+/* messages section */
+"message" = "message";
+"unsend_message" = "Keep Unsend Message";
+"unsed" = "Unsend!";
+"unsend_disc" = "This action will refresh all message data and delete the unsend messages also!\n\n message are synced automaticlly not need to refresh in order otherwise!";
+"refresh" = "Refresh";
 
 /* Profile section */
 "SPOOF" = "Spoofing..";
@@ -67,7 +78,8 @@
 "NO_NEWS" = "Hide activaty Tab";
 "NO_PROFILE" = "Hide Profile Tab";
 "HIDE_ALL_TAB" = "Hide All Tabs";
-
+"USE_COMPACT" = "compact Explore tab";
+"USE_COMPACT_DISC" = "hide all contents & keep search bar only!";
 
 /* General section */
 "ENABLE_MUSIC" = "Enable Music";
@@ -81,13 +93,9 @@
 "COPY_TEXT" = "Copy variuos Text";
 "COPY_TEXT_DISC" = "long press to copy description/comments/bio ext..";
 
-"unsend_message" = "Keep Unsend Message";
-
-"unsed" = "Unsend!";
-"unsend_disc" = "This action will refresh all message data and delete the unsend messages also!\n\n message are synced automaticlly not need to refresh in order otherwise!";
-"refresh" = "Refresh";
 
 /* global action title */
+"WELCOME_ALERT" = "to enter the settings long press on instagram text logo .";
 "inkplus_settings" = "iNKPlus Settings";
 "OK" = "OK";
 "YES" = "Yes";
@@ -119,13 +127,17 @@
 
 /* other || credits translation & links */
 "OTHER_TWEAKS" = "Other Projects";
-"CREDITS" = "Credits";
+"CREDITS" = "Contributors";
 "SPECIAL_THANK" = "Special Thanks";
 "icon_by" = "icon by";
 "LOCALIZATION" = "Localizations";
 "DEVELOPER" = "Developer";
-"WELCOME_ALERT" = "to enter the settings long press on instagram text logo .";
 
+/* checkForUpdates */
+"the_changelog" = "The Changelog";
+"skip_version" = "Skip This Version";
+"updates_available" = "Update Available";
+"new_version_available" = "A new version of iNKillerPlus (%@) is available. It's recommended to always stay updated to the latest version.";
 
 /* promptForActivation */
 "license_option" = "License Options";

@@ -35,6 +35,8 @@
 "HIDE_SEEN_DM_DISC"="Mesajlar içine görüldü butonu ekle";
 "HIDE_SEEN_MANUALLY"="Hikayeleri Manuel olarak görüldü yap";
 "HIDE_SEEN_MANUALLY_DISC"="Hikayelere görüldü butonu ekle";
+"HIDE_SEEN_MANUALLY2" = "Seen stories Manually 2";
+"HIDE_SEEN_MANUALLY_DISC2" = "add a button inside the stories view manually on and off";
 "HIDE_TABS"="Sekmeleri Gizle";
 "INSIGHT_POST"="Gönderi içeriğini göster";
 "LIKING"="Beğenilsin mi?";
@@ -96,6 +98,11 @@
 "unsend_message" = "Keep Unsend Message";
 "unsed"="Gönderilmedi!";
 "unsend_disc"="Bu eylem tüm mesaj verilerini yenileyecek ve gönderilmemiş mesajları da silecektir!\n\nMesaj otomatik olarak senkronize edilir, aksi takdirde sırayla yenilenmesine gerek yoktur!";
+
+"the_changelog" = "Değişiklik Günlüğü";
+"skip_version" = "Bu Sürümü Atla";
+"updates_available" = "Güncelleme Mevcut";
+"new_version_available" = "iNKillerPlus'un yeni bir sürümü (%@) mevcut. Her zaman en son sürümde kalmanız tavsiye edilir.";
 
 /* promptForActivation */
 "license_option" = "License Options";

@@ -61,6 +61,8 @@
 "NO_STORY_AD" = "Werbung in Stories ausblenden";
 "HIDE_SEEN_MANUALLY" = "Stories manuell als gesehen markieren";
 "HIDE_SEEN_MANUALLY_DISC" = "Fügt einen Button innerhalb der Stories-Ansicht hinzu";
+"HIDE_SEEN_MANUALLY2" = "Seen stories Manually 2";
+"HIDE_SEEN_MANUALLY_DISC2" = "add a button inside the stories view manually on and off";
 "HIDE_QUICK_REACTION" = "Reaktionen ausblenden";
 
 /* TAB_BAR section */
@@ -108,6 +110,11 @@
 "CANCEL_HUD" = "Abbrechen";
 "SAVED" = "Gespeichert";
 "SUCCESS" = "Erfolgreich";
+
+"the_changelog" = "Änderungsprotokoll";
+"skip_version" = "Diese Version überspringen";
+"updates_available" = "Update verfügbar";
+"new_version_available" = "Eine neue Version von iNKillerPlus (%@) ist verfügbar. Es wird empfohlen, immer die neueste Version zu verwenden.";
 
 /* promptForActivation */
 "license_option" = "License Options";

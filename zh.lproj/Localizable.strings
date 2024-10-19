@@ -61,6 +61,8 @@
 "NO_STORY_AD" = "无推荐广告";
 "HIDE_SEEN_MANUALLY" = "手动查看已读快拍";
 "HIDE_SEEN_MANUALLY_DISC" = "在快拍视图中添加一个按钮";
+"HIDE_SEEN_MANUALLY2" = "手动查看已读快拍 2";
+"HIDE_SEEN_MANUALLY_DISC2" = "在快拍视图中添加一个按钮 2";
 "HIDE_QUICK_REACTION" = "隐藏快速回应";
 
 /* TAB_BAR section */
@@ -121,6 +123,11 @@
 "CANCEL_HUD" = "取消";
 "SAVED" = "已保存";
 "SUCCESS" = "成功";
+
+"the_changelog" = "更新日志";
+"skip_version" = "跳过此版本";
+"updates_available" = "有可用更新";
+"new_version_available" = "iNKillerPlus (%@) 的新版本已可用。建议始终保持更新到最新版本。";
 
 /* promptForActivation */
 "license_option" = "许可证选项";

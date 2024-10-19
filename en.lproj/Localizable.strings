@@ -43,6 +43,8 @@
 "NO_STORY_AD" = "No stories promo Ad";
 "HIDE_SEEN_MANUALLY" = "Seen stories Manually";
 "HIDE_SEEN_MANUALLY_DISC" = "add a button inside the stories view";
+"HIDE_SEEN_MANUALLY2" = "Seen stories Manually 2";
+"HIDE_SEEN_MANUALLY_DISC2" = "add a button inside the stories view manually on and off";
 "HIDE_QUICK_REACTION" = "Hide Quick Reactions";
 
 
@@ -125,12 +127,17 @@
 
 /* other || credits translation & links */
 "OTHER_TWEAKS" = "Other Projects";
-"CREDITS" = "Contribution";
+"CREDITS" = "Contributors";
 "SPECIAL_THANK" = "Special Thanks";
 "icon_by" = "icon by";
 "LOCALIZATION" = "Localizations";
 "DEVELOPER" = "Developer";
 
+/* checkForUpdates */
+"the_changelog" = "The Changelog";
+"skip_version" = "Skip This Version";
+"updates_available" = "Update Available";
+"new_version_available" = "A new version of iNKillerPlus (%@) is available. It's recommended to always stay updated to the latest version.";
 
 /* promptForActivation */
 "license_option" = "License Options";
