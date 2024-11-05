@@ -95,7 +95,7 @@
 
 
 /* global action title */
-"WELCOME_ALERT" = "to enter the settings long press on instagram text logo .";
+"WELCOME_ALERT" = "To enter the settings, either long press on home button in tabbar or Instagram text logo.";
 "inkplus_settings" = "iNKPlus Settings";
 "OK" = "OK";
 "YES" = "Yes";

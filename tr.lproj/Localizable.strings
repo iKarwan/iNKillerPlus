@@ -89,7 +89,7 @@
 "USE_COMPACT"="Kompakt Keşfet sekmesi";
 "USE_COMPACT_DISC"="Tüm videoları gizle ve sadece arama çubuğunu sakla!";
 "VIDEO_OPTIONS"="Medya Ayarları";
-"WELCOME_ALERT"="Ayarlara girmek için instagram metin logosuna uzun basın.";
+"WELCOME_ALERT" = "Ayarlara girmek için, alt çubuktaki ana sayfa düğmesine veya Instagram yazı logosuna uzun basın.";
 "WHO_FOLLOWING"="Takipçi Durumunu Belirle";
 "WHO_FOLLOWING_DISC"="Kimin takip edip kimin takip etmediğini öğren!";
 "YES"="Evet";

@@ -23,7 +23,7 @@
 "icon_by" = "图标设计";
 "LOCALIZATION" = "本地化翻译";
 "DEVELOPER" = "开发者";
-"WELCOME_ALERT" = "通过长按左上角“Instagram”标志进入插件设置";
+"WELCOME_ALERT" = "要进入设置，请长按底部导航栏中的主页按钮或Instagram文字标志。";
 
 /* MAIN_UI section */
 "LOCK_APP" = "锁定App";

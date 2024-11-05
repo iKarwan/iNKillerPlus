@@ -28,7 +28,7 @@
 "icon_by" = "icon by";
 "LOCALIZATION" = "Lokalisierungen";
 "DEVELOPER" = "Entwickler";
-"WELCOME_ALERT" = "Um die Einstellungen zu öffnen, halte das Instagram-Logo länger gedrückt.";
+"WELCOME_ALERT" = "Um zu den Einstellungen zu gelangen, drücken Sie entweder lange auf die Home-Taste in der Tableiste oder auf das Instagram-Textlogo.";
 
 /* MAIN_UI section */
 "LOCK_APP" = "Instagram mit Passwort schützen";
