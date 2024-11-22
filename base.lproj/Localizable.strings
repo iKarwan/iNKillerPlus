@@ -133,6 +133,13 @@
 "LOCALIZATION" = "Localizations";
 "DEVELOPER" = "Developer";
 
+/* clearCaches */
+"clearonstartup" = "Clear on startup";
+"clearcache" = "Clear cache";
+"On" = "On";
+"Off" = "Off";
+
+
 /* checkForUpdates */
 "the_changelog" = "The Changelog";
 "skip_version" = "Skip This Version";

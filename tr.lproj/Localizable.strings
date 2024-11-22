@@ -15,6 +15,12 @@
 "CREDITS"="Destekleyenler";
 "DELETED"="Silindi";
 "DEVELOPER"="Geliştirici";
+
+"clearonstartup" = "Başlangıçta Temizle"; // Turkish (tr)
+"clearcache" = "Önbelleği Temizle";
+"On" = "Açık";
+"Off" = "Kapalı";
+
 "DIRECT_MESSG"="Doğrudan Mesaj";
 "DISMISS"="Yoksay";
 "DOWNLOAD"="Kütüphaneye İndir";

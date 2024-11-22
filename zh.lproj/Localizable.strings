@@ -25,6 +25,11 @@
 "DEVELOPER" = "开发者";
 "WELCOME_ALERT" = "要进入设置，请长按底部导航栏中的主页按钮或Instagram文字标志。";
 
+"clearonstartup" = "启动时清除"; // Chinese (Simplified, zh)
+"clearcache" = "清除缓存";
+"On" = "开";
+"Off" = "关";
+
 /* MAIN_UI section */
 "LOCK_APP" = "锁定App";
 "LOCK_APP_DESC" = "通过“面容/密码”锁定应用程序";

@@ -30,6 +30,12 @@
 "DEVELOPER" = "Entwickler";
 "WELCOME_ALERT" = "Um zu den Einstellungen zu gelangen, drücken Sie entweder lange auf die Home-Taste in der Tableiste oder auf das Instagram-Textlogo.";
 
+/* clearCaches */
+"clearonstartup" = "Beim Start löschen"; // German (de)
+"clearcache" = "Cache löschen";
+"On" = "Ein";
+"Off" = "Aus";
+
 /* MAIN_UI section */
 "LOCK_APP" = "Instagram mit Passwort schützen";
 "LOCK_APP_DESC" = "App über FaceID/TouchID sperren.";
