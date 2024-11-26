@@ -76,6 +76,7 @@
 "HIDE_TABS" = "Tabs ausblenden";
 "HIDE_ALL_TAB" = "Alle Tabs ausblenden";
 
+"hide_reels_ui" = "Hide ui";
 
 /* Miscellaneous section */
 "ENABLE_MUSIC" = "Musik aktivieren";

@@ -134,6 +134,8 @@
 "updates_available" = "有可用更新";
 "new_version_available" = "iNKillerPlus (%@) 的新版本已可用。建议始终保持更新到最新版本。";
 
+"hide_reels_ui" = "隐藏用户界面";
+
 /* promptForActivation */
 "license_option" = "许可证选项";
 "license_option_disc" = "选择一个选项：";

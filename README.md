@@ -26,8 +26,8 @@
     1. Download IPA file from here and follow the instructions below to sign and install the app from your computer for one week
         | Application | Bundle | Version | iNKillerPlus | File Type |
         | ------------------ |:---------:|:------:|:------:|:------:|
-        | [Instagram](https://ikghd.site/ipa/Instagram_358.0_iNKillerPlus_2.4.27.ipa) | com.burbn.instagram | 358.0 | 2.4.27 | IPA |
-        | [TrollStore](https://ikghd.site/ipa/Instagram_358.0_iNKillerPlus_2.4.27_TrollStore.tipa) | com.burbn.instagram | 358.0 | 2.4.27 | tipa |
+        | [Instagram](https://ikghd.site/ipa/Instagram_359.0_iNKillerPlus_2.4.29.ipa) | com.burbn.instagram | 359.0 | 2.4.29 | IPA |
+        | [TrollStore](https://ikghd.site/ipa/Instagram_359.0_iNKillerPlus_2.4.29_TrollStore.tipa) | com.burbn.instagram | 359.0 | 2.4.29 | tipa |
 
 
 ## How to Sideload on non-jailbroken devices
@@ -43,7 +43,7 @@
 * Right click on the AltServer icon with your phone connected and choose "Install Altstore", then the name of your phone. When prompted sign in with your Apple ID. Two-factor Authentication is supported, app-specific passwords are not.
 
     * install via AltStore.
-    * [Open In AltStore iNKillerPlus v358.0](https://tinyurl.com/yj9ve2uf) this will take some time as it altstore need to download the iPA and it depending on the internet connection speed .
+    * [Open In AltStore iNKillerPlus v359.0](https://tinyurl.com/7dska4ra) this will take some time as it altstore need to download the iPA and it depending on the internet connection speed .
 
 
 
@@ -55,7 +55,7 @@
 
 ### TrollStore TIPA
 * Download and install TrollStore from [here](https://github.com/opa334/TrollStore).
-* Copy this link [here](https://ikghd.site/ipa/Instagram_358.0_iNKillerPlus_2.4.27_TrollStore.tipa) and paste it into the "Install from URL" option in TrollStore.
+* Copy this link [here](https://ikghd.site/ipa/Instagram_359.0_iNKillerPlus_2.4.29_TrollStore.tipa) and paste it into the "Install from URL" option in TrollStore.
 
 
 ### Telegram Channel

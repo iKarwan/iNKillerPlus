@@ -20,6 +20,7 @@
 "clearcache" = "Önbelleği Temizle";
 "On" = "Açık";
 "Off" = "Kapalı";
+"hide_reels_ui" = "Hide ui";
 
 "DIRECT_MESSG"="Doğrudan Mesaj";
 "DISMISS"="Yoksay";
