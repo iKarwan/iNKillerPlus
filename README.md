@@ -40,11 +40,14 @@
 ### AltStore
 * Download and install AltServer from [here](https://altstore.io).
 
-* Right click on the AltServer icon with your phone connected and choose "Install Altstore", then the name of your phone. When prompted sign in with your Apple ID. Two-factor Authentication is supported, app-specific passwords are not.
+    * You can copy and add this source to your source list in AltStore ..
+    * [ https://ikghd.site/repo.json
 
-    * install via AltStore.
-    * [Open In AltStore iNKillerPlus v359.0](https://tinyurl.com/7dska4ra) this will take some time as it altstore need to download the iPA and it depending on the internet connection speed .
 
+### Installing with third party AppStore
+*
+    * You can copy and add this source to your source list AltStore, Esign, Gbox, etc ..
+    * [ https://ikghd.site/repo.json
 
 
 ### Sideloadly
