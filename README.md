@@ -26,8 +26,8 @@
     1. Download IPA file from here and follow the instructions below to sign and install the app from your computer for one week
         | Application | Bundle | Version | iNKillerPlus | File Type |
         | ------------------ |:---------:|:------:|:------:|:------:|
-        | [Instagram](https://ikghd.site/ipa/Instagram_359.0_iNKillerPlus_2.4.29.ipa) | com.burbn.instagram | 359.0 | 2.4.29 | IPA |
-        | [TrollStore](https://ikghd.site/ipa/Instagram_359.0_iNKillerPlus_2.4.29_TrollStore.tipa) | com.burbn.instagram | 359.0 | 2.4.29 | tipa |
+        | [Instagram](https://ikghd.site/ipa/Instagram_360.1_iNKillerPlus_2.4.32.ipa) | com.burbn.instagram | 360.1 | 2.4.32 | IPA |
+        | [TrollStore](https://ikghd.site/ipa/Instagram_360.1_iNKillerPlus_2.4.32_TrollStore.tipa) | com.burbn.instagram | 360.1 | 2.4.32 | tipa |
 
 
 ## How to Sideload on non-jailbroken devices
@@ -44,21 +44,21 @@
     * [ https://ikghd.site/repo.json
 
 
-### Installing with third party AppStore
-*
-    * You can copy and add this source to your source list AltStore, Esign, Gbox, etc ..
-    * [ https://ikghd.site/repo.json
-
-
 ### Sideloadly
 * Download and install Sideloadly from [here](https://sideloadly.io).
 
 * Download the YouTube app from the link above, drag the Instagram app into the Sideloadly app, enter your Apple ID account, and sign it.
 
 
+### Installing with third party AppStore
+*
+    * You can copy and add this source to your source list AltStore, Feather, Esign, Gbox, etc ..
+    * [ https://ikghd.site/repo.json
+
+
 ### TrollStore TIPA
 * Download and install TrollStore from [here](https://github.com/opa334/TrollStore).
-* Copy this link [here](https://ikghd.site/ipa/Instagram_359.0_iNKillerPlus_2.4.29_TrollStore.tipa) and paste it into the "Install from URL" option in TrollStore.
+* Copy this link [here](https://ikghd.site/ipa/Instagram_360.1_iNKillerPlus_2.4.32_TrollStore.tipa) and paste it into the "Install from URL" option in TrollStore.
 
 
 ### Telegram Channel
