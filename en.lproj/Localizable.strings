@@ -50,7 +50,7 @@
 
 
 /* reels section */
-"reels" = "Reels";
+"hide_reels_ui" = "Hide ui";
 
 /* messages section */
 "message" = "message";
@@ -81,6 +81,7 @@
 "HIDE_ALL_TAB" = "Hide all tabs";
 "USE_COMPACT" = "Compact explore tab";
 "USE_COMPACT_DISC" = "Hide all contents but the search bar.";
+
 
 /* General section */
 "ENABLE_MUSIC" = "Enable music";
@@ -134,6 +135,13 @@
 "icon_by" = "Icon by";
 "LOCALIZATION" = "Localizations";
 "DEVELOPER" = "Developer";
+
+/* clearCaches */
+"clearonstartup" = "Clear on startup";
+"clearcache" = "Clear cache";
+"On" = "On";
+"Off" = "Off";
+
 
 /* checkForUpdates */
 "the_changelog" = "Changelog";

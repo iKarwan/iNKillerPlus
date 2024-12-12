@@ -49,7 +49,7 @@
 
 
 /* reels section */
-"reels" = "Reels";
+"hide_reels_ui" = "Hide ui";
 
 /* messages section */
 "message" = "message";
@@ -73,8 +73,8 @@
 /* Interface section */
 "NO_LONG_PRESS" = "Disable Long Press on Tabs";
 "HIDE_TABS" = "Hide Tabs";
-"NO_EXPLORE" = "Hide Explorer Tab";
-"NO_REEL" = "Hide Post/Reels Tab";
+"NO_EXPLORE" = "Hide Create Tab";
+"NO_REEL" = "Hide Reels Tab";
 "NO_NEWS" = "Hide activaty Tab";
 "NO_PROFILE" = "Hide Profile Tab";
 "HIDE_ALL_TAB" = "Hide All Tabs";
@@ -132,6 +132,13 @@
 "icon_by" = "icon by";
 "LOCALIZATION" = "Localizations";
 "DEVELOPER" = "Developer";
+
+/* clearCaches */
+"clearonstartup" = "Clear on startup";
+"clearcache" = "Clear cache";
+"On" = "On";
+"Off" = "Off";
+
 
 /* checkForUpdates */
 "the_changelog" = "The Changelog";
