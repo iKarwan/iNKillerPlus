@@ -26,8 +26,8 @@
     1. Download IPA file from here and follow the instructions below to sign and install the app from your computer for one week
         | Application | Bundle | Version | iNKillerPlus | File Type |
         | ------------------ |:---------:|:------:|:------:|:------:|
-        | [Instagram](https://ikghd.site/ipa/Instagram_367.0_iNKillerPlus_2.4.45.ipa) | com.burbn.instagram | 367.0 | 2.4.45 | IPA |
-        | [TrollStore](https://ikghd.site/ipa/Instagram_367.0_iNKillerPlus_2.4.45_TrollStore.tipa) | com.burbn.instagram | 367.0 | 2.4.45 | tipa |
+        | [Instagram](https://ikghd.site/ipa/Instagram_367.0_iNKillerPlus_2.4.45.ipa) | com.burbn.instagram | 367.0 | 2.4.46 | IPA |
+        | [TrollStore](https://ikghd.site/ipa/Instagram_367.0_iNKillerPlus_2.4.45_TrollStore.tipa) | com.burbn.instagram | 367.0 | 2.4.46 | tipa |
 
 
 ## How to Sideload on non-jailbroken devices

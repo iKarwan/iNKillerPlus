@@ -6,8 +6,8 @@
 /* NOTE 2 !!! Please after translation add your country specific like.  en - ar - zh ext... */
 
 /* iNKillerPlus global switch */
-"GLOB_ENABLED" = "Global Killswitch";
-"GLOBAL_ENABLED_SWITCH" = "Enables / disables INKillerPlus. Tap the top-right button to save changes.";
+"GLOB_ENABLED" = "Global Enabled";
+"GLOBAL_ENABLED_SWITCH" = "Tap the top-right button to apply changes.";
 
 /* downloding global switch */
 "DOWNLOADING" = "Enable Download Feature";
@@ -23,30 +23,29 @@
 "MISCELLANEOUS" = "General";
 
 /* Feed section */
-"LOCK_APP" = "Biometric lock";
-"LOCK_APP_DESC" = "Lock the app via FaceID / TouchID.";
+"LOCK_APP" = "Lock The App";
+"LOCK_APP_DESC" = "lock the app via face/id touch/id.";
 "POST_DISC" = "Post";
-"NO_ADS" = "Hide promotional ads";
-"NO_SUGGEST" = "Hide suggestions";
-"NO_SUGGEST_DISC" = "Hide suggested posts & reels on feed.";
-"no_suggesation" = "Hide suggestions";
-"no_suggesation_disc" = "Hide suggested posts & reels on feed.";
-"R_IMAGE_POSTED_CORNER" = "Round corners";
-"R_IMAGE_POSTED_CORNER_disc" = "Rounds corners when viewing user's posts."
-"NO_SINGLE_TAP" = "Disable tap to mute";
-"NO_SINGLE_TAP_DISC" = "";
-"NO_DOUBLE_TAP_LIKE" = "Disable double tap to like";
-"SHOW_CONFIRM" = "Confirm interactions";
-"SHOW_CONFIRM_DISC" = "Confirm when liking posts, commenting etc.";
+"NO_ADS" = "No promo ads";
+"NO_SUGGEST" = "Hide Suggests";
+"NO_SUGGEST_DISC" = "hide suggested posts & reels on feed!";
+"no_suggesation" = "No Suggesation";
+"no_suggesation_disc" = "remove feed suggested posts reels!";
+"R_IMAGE_POSTED_CORNER" = "Round Posted image/video Corners";
+"NO_SINGLE_TAP" = "Disable Single Tap";
+"NO_SINGLE_TAP_DISC" = "affect posted video images go to fullscreen!";
+"NO_DOUBLE_TAP_LIKE" = "Disable Double Tap To like";
+"SHOW_CONFIRM" = "Show Confirmation";
+"SHOW_CONFIRM_DISC" = "confirm on like photos/videos, comments ext..";
 
 
 /* Stories section */
-"NO_STORY_AD" = "No promotional ads";
-"HIDE_SEEN_MANUALLY" = "Manually mark stories as seen";
-"HIDE_SEEN_MANUALLY_DISC" = "Adds a button inside stories";
-"HIDE_SEEN_MANUALLY2" = "Toggle stories as seen";
-"HIDE_SEEN_MANUALLY_DISC2" = "Adds a button inside stories to toggle seen status";
-"HIDE_QUICK_REACTION" = "Hide quick reactions";
+"NO_STORY_AD" = "No stories promo Ad";
+"HIDE_SEEN_MANUALLY" = "Seen stories Manually";
+"HIDE_SEEN_MANUALLY_DISC" = "add a button inside the stories view";
+"HIDE_SEEN_MANUALLY2" = "Seen stories Manually 2";
+"HIDE_SEEN_MANUALLY_DISC2" = "add a button inside the stories view manually on and off";
+"HIDE_QUICK_REACTION" = "Hide Quick Reactions";
 
 
 /* reels section */
@@ -54,85 +53,85 @@
 
 /* messages section */
 "message" = "message";
-"unsend_message" = "Keep unsent messages";
-"unsed" = "Unsend";
-"unsend_disc" = "This action will refresh all message data and delete the unsent messages.\n\n Messages are synced automatically.";
+"unsend_message" = "Keep Unsend Message";
+"unsed" = "Unsend!";
+"unsend_disc" = "This action will refresh all message data and delete the unsend messages also!\n\n message are synced automaticlly not need to refresh in order otherwise!";
 "refresh" = "Refresh";
+"unsend_at" = "Message Unsend at: %@!";
 
 /* Profile section */
-"SPOOF" = "Spoofing";
-"BOOST_POST" = "Enable boost post";
-"INSIGHT_POST" = "Show post insights";
-"ACCOUNT_VERIFIED" = "Verified account spoof";
-"ACCOUNT_BUISNESS" = "Business account spoof";
-"NO_DOUBLETAP_SWITCH" = "Disable double-tap switch";
-"NO_DOUBLETAP_SWITCH_DISC" = "Disable double tap to switch between accounts";
-"NO_SUGGESTED_PROFILE" = "No suggested profiles";
-"WHO_FOLLOWING" = "Show following status";
-"WHO_FOLLOWING_DISC" = "Shows if a user follows you.";
+"SPOOF" = "Spoofing..";
+"BOOST_POST" = "Enable Boost post";
+"INSIGHT_POST" = "Show Post Insights..";
+"ACCOUNT_VERIFIED" = "Account Verified";
+"ACCOUNT_BUISNESS" = "Account Business";
+"NO_DOUBLETAP_SWITCH" = "Disable DoubleTap Switch";
+"NO_DOUBLETAP_SWITCH_DISC" = "double tap to switching between accounts!";
+"NO_SUGGESTED_PROFILE" = "No Suggested Profile";
+"WHO_FOLLOWING" = "Determint Following Status";
+"WHO_FOLLOWING_DISC" = "know who following & who not!";
 
 /* Interface section */
-"NO_LONG_PRESS" = "Disable long press on tabs";
-"HIDE_TABS" = "Hide tabs";
-"NO_EXPLORE" = "Hide explorer tab";
-"NO_REEL" = "Hide post/reels tab";
-"NO_NEWS" = "Hide activity tab";
-"NO_PROFILE" = "Hide profile tab";
-"HIDE_ALL_TAB" = "Hide all tabs";
-"USE_COMPACT" = "Compact explore tab";
-"USE_COMPACT_DISC" = "Hide all contents but the search bar.";
-
+"NO_LONG_PRESS" = "Disable Long Press on Tabs";
+"HIDE_TABS" = "Hide Tabs";
+"NO_EXPLORE" = "Hide Create Tab";
+"NO_REEL" = "Hide Reels Tab";
+"NO_NEWS" = "Hide activaty Tab";
+"NO_PROFILE" = "Hide Profile Tab";
+"HIDE_ALL_TAB" = "Hide All Tabs";
+"USE_COMPACT" = "compact Explore tab";
+"USE_COMPACT_DISC" = "hide all contents & keep search bar only!";
 
 /* General section */
-"ENABLE_MUSIC" = "Enable music";
-"HIDE_SEEN_DM" = "Disable read receipts";
-"HIDE_SEEN_DM_DISC" = "Adds a button to manually confirm messages as read.";
-"NOTIFY_CALLING_DM" = "Confirm on call";
-"NOTIFY_CALLING_DM_DISC" = "Confirm when calling another use";
-"NOTIFY_SCREENSHOOT_DM" = "Prevent screenshot notification";
-"NOTIFY_SCREENSHOOT_DM_DISC" = "Disable screenshot notification";
-
+"ENABLE_MUSIC" = "Enable Music";
+"HIDE_SEEN_DM" = "Seen Dm Manually";
+"NOTIFY_CALLING_DM" = "Confirm On Call";
+"NOTIFY_CALLING_DM_DISC" = "confirm when tap calling button audio/video";
+"NOTIFY_SCREENSHOOT_DM" = "Prevent ScreenShoot Notify";
+"NOTIFY_SCREENSHOOT_DM_DISC" = "disable screen shooting notify when taken!";
+"HIDE_SEEN_DM_DISC" = "add a button inside the DM view";
 "COPY_TXT" = "Copy text";
-"COPY_TEXT" = "Copy various text";
-"COPY_TEXT_DISC" = "Long press to copy any text.";
+"COPY_TEXT" = "Copy variuos Text";
+"COPY_TEXT_DISC" = "long press to copy description/comments/bio ext..";
 
 
 /* global action title */
-"WELCOME_ALERT" = "To enter settings, press and hold on either the home button in the tab bar or the Instagram text logo.";
+"WELCOME_ALERT" = "To enter the settings, either long press on home button in tabbar or Instagram text logo.";
 "inkplus_settings" = "iNKPlus Settings";
-"OK" = "Ok";
+"OK" = "OK";
 "YES" = "Yes";
 "NO" = "No";
 "QUICK_LOOK" = "Expand";
-"DOWNLOAD" = "Download to library";
-"DOWNLOAD_SHARE" = "Download and share";
-"DOWNLOAD_AND_SHARE" = "Download and share";
+"DOWNLOAD" = "Download to Library";
+"DOWNLOAD_SHARE" = "Download and Share";
+"DOWNLOAD_AND_SHARE" = "Download and Share";
 "VIDEO_OPTIONS" = "Media options";
 "CHOOSE_QUALITY" = "Choose quality";
-"SAVE_IMG" = "Save image";
-"SAVE_PROFILE_IMG" = "Save profile image";
+"SAVE_IMG" = "Save Image";
+"SAVE_PROFILE_IMG" = "Save Profile Image";
 "HD" = "Download HD";
 "SD" = "Download SD";
 "COPIENG_TEXT" = "Copy text";
 "COPIED" = "Copied";
-"LIKING" = "Like?";
-"FOLLOW" = "Follow?";
-"CALL" = "Call?";
-"FOLLOWING" = "Following you";
-"NOT_FOLLOWING" = "Not following you";
+"LIKING" = "Liking?";
+"FOLLOW" = "Following?";
+"CALL" = "Calling?";
+"FOLLOWING" = "FOLLOWING YOU";
+"NOT_FOLLOWING" = "NOT FOLLOWING YOU";
 "CANCEL" = "Cancel";
 "DISMISS" = "Dismiss";
 "DELETED" = "Deleted";
 "DOWNLOADING_START" = "Downloading";
-"CANCEL_HUD" = "Cancel";
+"CANCEL_HUD" = "cancel";
 "SAVED" = "Saved";
 "SUCCESS" = "Success";
+"close" = "Close";
 
 /* other || credits translation & links */
 "OTHER_TWEAKS" = "Other Projects";
 "CREDITS" = "Contributors";
 "SPECIAL_THANK" = "Special Thanks";
-"icon_by" = "Icon by";
+"icon_by" = "icon by";
 "LOCALIZATION" = "Localizations";
 "DEVELOPER" = "Developer";
 
@@ -144,50 +143,55 @@
 
 
 /* checkForUpdates */
-"the_changelog" = "Changelog";
-"skip_version" = "Skip this version";
-"updates_available" = "Update available";
+"the_changelog" = "The Changelog";
+"skip_version" = "Skip This Version";
+"updates_available" = "Update Available";
 "new_version_available" = "A new version of iNKillerPlus (%@) is available. It's recommended to always stay updated to the latest version.";
 
 /* promptForActivation */
-"license_option" = "License options";
+"license_option" = "License Options";
 "license_option_disc" = "Choose an option:";
-"activate_new_license" = "Activate new license";
-"restore_license" = "Restore license";
-"renew_license" = "Renew license";
-"buy_license" = "Buy license";
+"activate_new_license" = "Activate New License";
+"restore_license" = "Restore License";
+"renew_license" = "Renew License";
+"buy_license" = "Buy License";
 "activate_new_license_disc" = "Please enter your email and license key.";
 "email" = "Email";
-"license_key" = "License key";
+"license_key" = "License Key";
 "activate" = "Activate";
-"invalid_email" = "Invalid email";
+"invalid_email" = "Invalid Email";
 "invalid_email_disc" = "Please enter a valid email address.";
-"invalid_license" = "Invalid license";
+"invalid_license" = "Invalid License";
 "license_key_empty" = "License key cannot be empty.";
-"license_key_length_wrong" = "License key length is wrong. \n Please enter a valid license key.";
+"license_key_length_wrong" = "License key length is wrong\nplease enter valid license key.";
 
 /* promptForRestore */
 "restore_license_disc" = "Please enter the email associated with your license.";
 "restore" = "Restore";
-"license_restored_successfully" = "License restored successfully.\nKey: %@\nExpires: %@";
-"license_restored" = "License restored";
-"restore_failed" = "Restore failed";
+"copy_license_key" = "Copy License Key";
+"license_key_copied_to_clipboard" = "License key copied to clipboard.";
+"license_details" = "License Details";
+"license_details_disc" = "License Key: %@\n\nExpiration: %@\n\n%@";
+"license_restored_successfully" = "License restored successfully.";
+"license_restored" = "License Restored";
+"restore_failed" = "Restore Failed";
+"copied_key" = "Copied to clipboard";
 
 /* enter license prompt */
-"enter_license_key" = "Enter license key";
-"enter_license_key_disc" = "Please enter your license key.";
+"enter_license_key" = "Enter License Key";
+"enter_license_key_disc" = "Please enter your license key to authenticate.";
 "license_key_authenticated" = "License key authenticated successfully. Expires on: %@";
-"authentication_successful" = "Authentication successful";
+"authentication_successful" = "Authentication Successful";
 "key_used_on_another_device" = "License already activated on another device";
 "key_is_in_use_on_another_device" = "This license is already in use on another device. Please use a different license key.";
 "email_associated_with_another_key" = "Email already associated with another license";
-"authentication_failed" = "Authentication failed";
+"authentication_failed" = "Authentication Failed";
 "email_associated_with_defferent_key" = "This email is already associated with a different license. Please use a different email or license key.";
 "key_expired" = "Key has expired";
-"license_expired" = "License expired";
+"license_expired" = "License Expired";
 "license_expired_disc" = "Your license key has expired. Please renew.";
-"license_verification_failed" = "License verification failed";
-"no_internet" = "No internet";
+"license_verification_failed" = "License Verification Failed";
+"no_internet" = "No Internet";
 "no_internet_disc" = "You need an internet connection to authenticate.";
 "license_disc" = "The license key you entered is not valid.";
 
