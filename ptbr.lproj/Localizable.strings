@@ -1,0 +1,192 @@
+/* created on 11/05/2025 */
+
+/* by iKarwan */
+
+/* pt-br by kreedyk  */
+/* nia.kreedy.net */
+
+/* iNKillerPlus global switch */
+"GLOB_ENABLED" = "Ativar globalmente";
+"GLOBAL_ENABLED_SWITCH" = "Toque no botão no canto superior direito para aplicar as alterações.";
+
+/* downloding global switch */
+"DOWNLOADING" = "Ativar download";
+"GLOBAL_DOWNLOADING_SWITCH" = "Adicione um botão ou pressione e segure uma postagem para fazer download.";
+
+/* general section */
+"MAIN_UI" = "Feed";
+"STORIES" = "Stories";
+"reels" = "Reels";
+"DIRECT_MESSG" = "Mensagens";
+"PROFILE" = "Perfil";
+"TAB_BAR_SECTION" = "Interface";
+"MISCELLANEOUS" = "Geral";
+
+/* Feed section */
+"LOCK_APP" = "Bloquear o app";
+"LOCK_APP_DESC" = "Bloqueie o app usando Face ID ou Touch ID.";
+"POST_DISC" = "Publicação";
+"NO_ADS" = "Sem anúncios patrocinados";
+"NO_SUGGEST" = "Ocultar sugestões";
+"NO_SUGGEST_DISC" = "Ocultar posts e reels sugeridos no feed!";
+"no_suggesation" = "Sem sugestões";
+"no_suggesation_disc" = "Remover posts e reels sugeridos do feed!";
+"R_IMAGE_POSTED_CORNER" = "Arredondar cantos de imagens e vídeos postados";
+"NO_SINGLE_TAP" = "Desativar toque único";
+"NO_SINGLE_TAP_DISC" = "Evita que vídeos e imagens postados abram em tela cheia com um toque.";
+"NO_DOUBLE_TAP_LIKE" = "Desativar duplo toque para curtir";
+"SHOW_CONFIRM" = "Exibir confirmação";
+"SHOW_CONFIRM_DISC" = "Confirmar ao curtir fotos, vídeos, comentários etc.";
+
+/* Stories section */
+"NO_STORY_AD" = "Sem anúncios em stories";
+"HIDE_SEEN_MANUALLY" = "Marcar stories como vistos manualmente";
+"HIDE_SEEN_MANUALLY_DISC" = "Adicione um botão na visualização de stories";
+"HIDE_SEEN_MANUALLY2" = "Marcar stories manualmente (modo 2)";
+"HIDE_SEEN_MANUALLY_DISC2" = "Adicione um botão nos stories para ativar/desativar manualmente";
+"HIDE_QUICK_REACTION" = "Ocultar reações rápidas";
+
+/* reels section */
+"hide_reels_ui" = "Ocultar interface dos reels";
+
+/* messages section */
+"message" = "mensagem";
+"unsend_message" = "Manter mensagens canceladas";
+"unsed" = "Cancelar envio!";
+"unsend_disc" = "Esta ação atualizará todos os dados de mensagem e apagará as não enviadas!\n\nElas são sincronizadas automaticamente, não é preciso atualizar manualmente!";
+"refresh" = "Atualizar";
+"unsend_at" = "Mensagem desfeita em: %@";
+
+/* Profile section */
+"SPOOF" = "Falsificando...";
+"BOOST_POST" = "Ativar impulsionamento de publicação";
+"INSIGHT_POST" = "Exibir estatísticas da publicação";
+"ACCOUNT_VERIFIED" = "Conta verificada";
+"ACCOUNT_BUISNESS" = "Conta comercial";
+"NO_DOUBLETAP_SWITCH" = "Desativar troca por duplo toque";
+"NO_DOUBLETAP_SWITCH_DISC" = "Use duplo toque para alternar entre contas!";
+"NO_SUGGESTED_PROFILE" = "Sem perfis sugeridos";
+"WHO_FOLLOWING" = "Ver status de seguidores";
+"WHO_FOLLOWING_DISC" = "Veja quem você segue e quem não segue!";
+
+/* Interface section */
+"NO_LONG_PRESS" = "Desativar pressão longa nas abas";
+"HIDE_TABS" = "Ocultar abas";
+"NO_EXPLORE" = "Ocultar aba Criar";
+"NO_REEL" = "Ocultar aba Reels";
+"NO_NEWS" = "Ocultar aba Atividade";
+"NO_PROFILE" = "Ocultar aba Perfil";
+"HIDE_ALL_TAB" = "Ocultar todas as abas";
+"USE_COMPACT" = "Modo compacto na aba Explorar";
+"USE_COMPACT_DISC" = "Ocultar conteúdo e manter só a barra de pesquisa!";
+
+/* General section */
+"ENABLE_MUSIC" = "Ativar música";
+"HIDE_SEEN_DM" = "Marcar DMs como vistos manualmente";
+"NOTIFY_CALLING_DM" = "Confirmar antes de ligar";
+"NOTIFY_CALLING_DM_DISC" = "Peça confirmação ao tocar no botão de chamada de áudio/vídeo";
+"NOTIFY_SCREENSHOOT_DM" = "Impedir notificação de captura de tela";
+"NOTIFY_SCREENSHOOT_DM_DISC" = "Desative a notificação ao tirar screenshot!";
+"HIDE_SEEN_DM_DISC" = "Adicione um botão na visualização de DM";
+"COPY_TXT" = "Copiar texto";
+"COPY_TEXT" = "Copiar vários textos";
+"COPY_TEXT_DISC" = "Pressione e segure para copiar descrição, comentários, bio etc.";
+
+/* global action title */
+"WELCOME_ALERT" = "Para acessar as configurações, pressione e segure o botão ‘Home’ na barra de abas ou o logo do Instagram.";
+"inkplus_settings" = "Configurações iNKPlus";
+"OK" = "OK";
+"YES" = "Sim";
+"NO" = "Não";
+"QUICK_LOOK" = "Visualização rápida";
+"DOWNLOAD" = "Salvar na biblioteca";
+"DOWNLOAD_SHARE" = "Salvar e compartilhar";
+"DOWNLOAD_AND_SHARE" = "Salvar e compartilhar";
+"VIDEO_OPTIONS" = "Opções de mídia";
+"CHOOSE_QUALITY" = "Selecionar qualidade";
+"SAVE_IMG" = "Salvar imagem";
+"SAVE_PROFILE_IMG" = "Salvar foto de perfil";
+"HD" = "Baixar em HD";
+"SD" = "Baixar em SD";
+"COPIENG_TEXT" = "Copiando texto";
+"COPIED" = "Copiado";
+"LIKING" = "Curtindo?";
+"FOLLOW" = "Seguindo?";
+"CALL" = "Ligando?";
+"FOLLOWING" = "SEGUINDO VOCÊ";
+"NOT_FOLLOWING" = "NÃO SEGUE VOCÊ";
+"CANCEL" = "Cancelar";
+"DISMISS" = "Fechar";
+"DELETED" = "Deletado";
+"DOWNLOADING_START" = "Baixando...";
+"CANCEL_HUD" = "Cancelar";
+"SAVED" = "Salvo";
+"SUCCESS" = "Sucesso";
+"close" = "Fechar";
+
+/* other || credits translation & links */
+"OTHER_TWEAKS" = "Outros projetos";
+"CREDITS" = "Contribuidores";
+"SPECIAL_THANK" = "Agradecimentos especiais";
+"icon_by" = "ícone por";
+"LOCALIZATION" = "Localizações";
+"DEVELOPER" = "Desenvolvedor";
+
+/* clearCaches */
+"clearonstartup" = "Limpar ao iniciar";
+"clearcache" = "Limpar cache";
+"On" = "Ligado";
+"Off" = "Desligado";
+
+/* checkForUpdates */
+"the_changelog" = "Registro de alterações";
+"skip_version" = "Pular esta versão";
+"updates_available" = "Atualização disponível";
+"new_version_available" = "Uma nova versão do iNKillerPlus (%@) está disponível. Recomendamos manter sempre a versão mais recente.";
+
+/* promptForActivation */
+"license_option" = "Opções de licença";
+"license_option_disc" = "Escolha uma opção:";
+"activate_new_license" = "Ativar nova licença";
+"restore_license" = "Restaurar licença";
+"renew_license" = "Renovar licença";
+"buy_license" = "Comprar licença";
+"activate_new_license_disc" = "Insira seu e-mail e a chave de licença.";
+"email" = "E-mail";
+"license_key" = "Chave de licença";
+"activate" = "Ativar";
+"invalid_email" = "E-mail inválido";
+"invalid_email_disc" = "Por favor, insira um endereço de e-mail válido.";
+"invalid_license" = "Licença inválida";
+"license_key_empty" = "A chave de licença não pode ficar vazia.";
+"license_key_length_wrong" = "Tamanho da chave inválido\npor favor, insira uma chave válida.";
+
+/* promptForRestore */
+"restore_license_disc" = "Insira o e-mail associado à sua licença.";
+"restore" = "Restaurar";
+"copy_license_key" = "Copiar chave de licença";
+"license_key_copied_to_clipboard" = "Chave copiada para a área de transferência.";
+"license_details" = "Detalhes da licença";
+"license_details_disc" = "Chave: %@\n\nExpira em: %@\n\n%@";
+"license_restored_successfully" = "Licença restaurada com sucesso.";
+"license_restored" = "Licença restaurada";
+"restore_failed" = "Falha ao restaurar";
+"copied_key" = "Copiado para a área de transferência";
+
+/* enter license prompt */
+"enter_license_key" = "Inserir chave de licença";
+"enter_license_key_disc" = "Insira sua chave de licença para autenticar.";
+"license_key_authenticated" = "Chave autenticada! Expira em: %@";
+"authentication_successful" = "Autenticação bem-sucedida";
+"key_used_on_another_device" = "Licença já ativada em outro dispositivo";
+"key_is_in_use_on_another_device" = "Esta licença está em uso em outro dispositivo. Use outra chave.";
+"email_associated_with_another_key" = "E-mail já associado a outra licença";
+"authentication_failed" = "Falha na autenticação";
+"email_associated_with_defferent_key" = "Este e-mail está associado a outra licença. Use e-mail ou chave diferentes.";
+"key_expired" = "Chave expirada";
+"license_expired" = "Licença expirada";
+"license_expired_disc" = "Sua licença expirou. Renove-a, por favor.";
+"license_verification_failed" = "Falha na verificação da licença";
+"no_internet" = "Sem internet";
+"no_internet_disc" = "É necessária conexão com a internet para autenticar.";
+"license_disc" = "A chave informada não é válida.";
