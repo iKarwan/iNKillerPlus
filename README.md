@@ -62,7 +62,7 @@
 
 
 ### Telegram Channel
-* You can always download the IPA from our Telegram channel using the link [here](https://t.me/ikgworks).
+* You can always download the IPA from our Telegram channel using the link [here](https://t.me/ikgipa).
 
 
 ## Localization
