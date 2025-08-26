@@ -11,8 +11,8 @@
 ## Recommended iOS Firmware & Instagram App Versions?
 * iOS 15.1 / iOS 26.x ...
 * Instagram v350.0 and newer ...
-
 * Instagram IOS 15 v314.0 ...
+[visit telegram fr older version](https://t.me/ikgipa)
 
 ## Depiction Page
 [Click here to read more about iNKillerPlus](https://repo.ikghd.me/depictions/?p=me.ikghd.inkplus)
