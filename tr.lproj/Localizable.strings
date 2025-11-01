@@ -1,156 +1,191 @@
 /* turkish by orhan aslan */
+/* turkish by Batuhan Orhan */
+/* tr localization update 01/11/2025 */
 
-"ACCOUNT_BUISNESS"="Hesap Durumu";
-"ACCOUNT_VERIFIED"="Hesap Doğrulandı";
-"BOOST_POST"="Boost Gönderisini Etkinleştir";
-"CALL"="Arıyor musun?";
-"CANCEL"="İptal";
-"CANCEL_HUD"="İptal";
-"CHOOSE_QUALITY"="Kaliteyi Seçin";
-"COPIED"="Kopyalandı";
-"COPIENG_TEXT"="Metni Kopyala";
-"COPY_TEXT"="Çeşitli Metinleri Kopyala";
-"COPY_TEXT_DISC"="Açıklama\/yorumlar\/biyo vb.. Kopyalamak için uzun basın";
-"COPY_TXT"="Metni Kopyala";
-"CREDITS"="Destekleyenler";
-"DELETED"="Silindi";
-"DEVELOPER"="Geliştirici";
+/* iNKillerPlus global switch */
+"GLOB_ENABLED" = "Genel Etkinleştir";
+"GLOBAL_ENABLED_SWITCH" = "Değişiklikleri uygulamak için sağ üstteki düğmeye dokunun.";
 
-"clearonstartup" = "Başlangıçta Temizle"; // Turkish (tr)
+/* downloding global switch */
+"DOWNLOADING" = "İndirme Özelliğini Etkinleştir";
+"GLOBAL_DOWNLOADING_SWITCH" = "İndirmek için bir düğme ekleyin veya gönderiye uzun basın.";
+
+/* general section */
+"MAIN_UI" = "Akış Ayarları";
+"STORIES" = "Hikaye Ayarları";
+"reels" = "Reels Ayarları";
+"DIRECT_MESSG" = "Mesaj Ayarları";
+"PROFILE" = "Profil Ayarları";
+"TAB_BAR_SECTION" = "Sekme Çubuğu Ayarları";
+"MISCELLANEOUS" = "Çeşitli Ayarlar";
+
+/* Feed section */
+"LOCK_APP" = "Uygulamayı Kilitle";
+"LOCK_APP_DESC" = "Uygulamayı Face ID veya Touch ID ile kilitleyin.";
+"POST_DISC" = "Gönderi";
+"NO_ADS" = "Promosyon Reklamlarını Gizle";
+"NO_SUGGEST" = "Önerileri Gizle";
+"NO_SUGGEST_DISC" = "Akıştaki önerilen gönderi ve reelleri gizle!";
+"no_suggesation" = "Öneri Yok";
+"no_suggesation_disc" = "Akıştaki önerilen gönderi ve reelleri kaldır!";
+"R_IMAGE_POSTED_CORNER" = "Gönderilerde Yuvarlatılmış Köşeler";
+"NO_SINGLE_TAP" = "Tek Dokunuşu Devre Dışı Bırak";
+"NO_SINGLE_TAP_DISC" = "Gönderilen görseller/videolar tam ekrana geçer!";
+"NO_DOUBLE_TAP_LIKE" = "Beğenmek İçin Çift Dokunmayı Devre Dışı Bırak";
+"SHOW_CONFIRM" = "Onay Kutusunu Göster";
+"SHOW_CONFIRM_DISC" = "Fotoğraf, video, yorum vb. beğenmeden önce onay iste.";
+
+/* Stories section */
+"NO_STORY_AD" = "Hikaye Reklamlarını Gizle";
+"HIDE_SEEN_MANUALLY" = "Hikayeleri Manuel Görüldü Yap";
+"HIDE_SEEN_MANUALLY_DISC" = "Hikaye ekranına görüldü butonu ekle.";
+"HIDE_SEEN_MANUALLY2" = "Hikayeleri Manuel Görüldü Yap 2";
+"HIDE_SEEN_MANUALLY_DISC2" = "Hikaye ekranına manuel aç/kapat butonu ekle.";
+"HIDE_QUICK_REACTION" = "Hızlı Tepkileri Gizle";
+
+/* reels section */
+"hide_reels_ui" = "Reels Arayüzünü Gizle";
+
+/* messages section */
+"message" = "Mesaj";
+"unsend_message" = "Gönderilmeyen Mesajları Tut";
+"unsed" = "Gönderilmedi!";
+"unsend_disc" = "Bu işlem mesaj verilerini yeniler ve gönderilmemiş mesajları da siler!\n\nMesajlar otomatik olarak senkronize edilir, manuel yenilemeye gerek yoktur!";
+"refresh" = "Yenile";
+"unsend_at" = "Mesaj gönderilmedi: %@!";
+
+/* Profile section */
+"SPOOF" = "Sahte İstatistik";
+"BOOST_POST" = "Gönderi Boostunu Etkinleştir";
+"INSIGHT_POST" = "Gönderi İstatistiklerini Göster";
+"ACCOUNT_VERIFIED" = "Hesap Doğrulandı";
+"ACCOUNT_BUISNESS" = "İşletme Hesabı";
+"NO_DOUBLETAP_SWITCH" = "Çift Dokunarak Hesap Değiştirmeyi Devre Dışı Bırak";
+"NO_DOUBLETAP_SWITCH_DISC" = "Hesaplar arasında çift dokunarak geçiş yapmayı kapatır.";
+"NO_SUGGESTED_PROFILE" = "Önerilen Profilleri Gizle";
+"WHO_FOLLOWING" = "Takip Durumunu Göster";
+"WHO_FOLLOWING_DISC" = "Kimin sizi takip edip etmediğini görün.";
+
+/* Interface section */
+"NO_LONG_PRESS" = "Sekmelere Uzun Basmayı Devre Dışı Bırak";
+"HIDE_TABS" = "Sekmeleri Gizle";
+"NO_EXPLORE" = "Keşfet Sekmesini Gizle";
+"NO_REEL" = "Reels Sekmesini Gizle";
+"NO_NEWS" = "Aktivite Sekmesini Gizle";
+"NO_PROFILE" = "Profil Sekmesini Gizle";
+"HIDE_ALL_TAB" = "Tüm Sekmeleri Gizle";
+"USE_COMPACT" = "Kompakt Keşfet Sekmesi";
+"USE_COMPACT_DISC" = "Tüm içerikleri gizle, sadece arama çubuğunu bırak.";
+
+/* General section */
+"ENABLE_MUSIC" = "Müziği Etkinleştir";
+"HIDE_SEEN_DM" = "Mesajları Manuel Görüldü Yap";
+"HIDE_SEEN_DM_DISC" = "Mesaj ekranına görüldü butonu ekle.";
+"NOTIFY_CALLING_DM" = "Aramada Onay Sor";
+"NOTIFY_CALLING_DM_DISC" = "Sesli/görüntülü arama yaparken onay iste.";
+"NOTIFY_SCREENSHOOT_DM" = "Ekran Görüntüsü Bildirimini Engelle";
+"NOTIFY_SCREENSHOOT_DM_DISC" = "Ekran görüntüsü alındığında bildirim göndermeyi engelle.";
+"COPY_TXT" = "Metni Kopyala";
+"COPY_TEXT" = "Metinleri Kopyala";
+"COPY_TEXT_DISC" = "Açıklama, yorum veya biyografiyi kopyalamak için uzun basın.";
+
+/* global action title */
+"WELCOME_ALERT" = "Ayarlar menüsüne girmek için alt çubuktaki ana sayfa butonuna veya Instagram yazısına uzun basın.";
+"inkplus_settings" = "iNKPlus Ayarları";
+"OK" = "Tamam";
+"YES" = "Evet";
+"NO" = "Hayır";
+"QUICK_LOOK" = "Genişlet";
+"DOWNLOAD" = "Kütüphaneye İndir";
+"DOWNLOAD_SHARE" = "İndir ve Paylaş";
+"DOWNLOAD_AND_SHARE" = "İndir ve Paylaş";
+"VIDEO_OPTIONS" = "Medya Ayarları";
+"CHOOSE_QUALITY" = "Kalite Seçin";
+"SAVE_IMG" = "Görseli Kaydet";
+"SAVE_PROFILE_IMG" = "Profil Fotoğrafını Kaydet";
+"HD" = "HD Olarak İndir";
+"SD" = "SD Olarak İndir";
+"COPIENG_TEXT" = "Metin Kopyalanıyor";
+"COPIED" = "Kopyalandı";
+"LIKING" = "Beğenilsin mi?";
+"FOLLOW" = "Takip Edilsin mi?";
+"CALL" = "Arama Başlatılsın mı?";
+"FOLLOWING" = "Seni Takip Ediyor";
+"NOT_FOLLOWING" = "Seni Takip Etmiyor";
+"CANCEL" = "İptal";
+"DISMISS" = "Kapat";
+"DELETED" = "Silindi";
+"DOWNLOADING_START" = "İndiriliyor";
+"CANCEL_HUD" = "İptal";
+"SAVED" = "Kaydedildi";
+"SUCCESS" = "Başarılı";
+"close" = "Kapat";
+
+/* other || credits translation & links */
+"OTHER_TWEAKS" = "Diğer Projeler";
+"CREDITS" = "Katkıda Bulunanlar";
+"SPECIAL_THANK" = "Özel Teşekkürler";
+"icon_by" = "Simge tasarımı:";
+"LOCALIZATION" = "Yerelleştirmeler";
+"DEVELOPER" = "Geliştirici";
+
+/* clearCaches */
+"clearonstartup" = "Başlangıçta Temizle";
 "clearcache" = "Önbelleği Temizle";
 "On" = "Açık";
 "Off" = "Kapalı";
-"hide_reels_ui" = "Hide ui";
 
-"DIRECT_MESSG"="Doğrudan Mesaj";
-"DISMISS"="Yoksay";
-"DOWNLOAD"="Kütüphaneye İndir";
-"DOWNLOADING"="İndirme Özelliğini Etkinleştir";
-"DOWNLOADING_START"="İndiriliyor..";
-"DOWNLOAD_AND_SHARE"="İndir ve Paylaş";
-"DOWNLOAD_SHARE"="İndir ve Paylaş";
-"ENABLE_MUSIC"="Müziği Etkinleştir";
-"FOLLOW"="Takip Edilsin mi?";
-"FOLLOWING"="Seni Takip Ediyor";
-"GLOBAL_DOWNLOADING_SWITCH"="İndirmek için bir düğme ekleyin veya gönderiye uzun basın.";
-"GLOBAL_ENABLED_SWITCH"="Değişiklikleri uygulamak için sağ üst düğmeye dokunun.";
-"GLOB_ENABLED"="Global Etkinleştirildi";
-"HD"="HD Kalitede İndir";
-"HIDE_ALL_TAB"="Tüm Sekmeleri Gizle";
-"HIDE_QUICK_REACTION"="Hızlı Tepkileri Gizle";
-"HIDE_SEEN_DM"="Mesajları Manuel Olarak Görüldü işaretle";
-"HIDE_SEEN_DM_DISC"="Mesajlar içine görüldü butonu ekle";
-"HIDE_SEEN_MANUALLY"="Hikayeleri Manuel olarak görüldü yap";
-"HIDE_SEEN_MANUALLY_DISC"="Hikayelere görüldü butonu ekle";
-"HIDE_SEEN_MANUALLY2" = "Seen stories Manually 2";
-"HIDE_SEEN_MANUALLY_DISC2" = "add a button inside the stories view manually on and off";
-"HIDE_TABS"="Sekmeleri Gizle";
-"INSIGHT_POST"="Gönderi içeriğini göster";
-"LIKING"="Beğenilsin mi?";
-"LOCALIZATION"="Yerelleştirmeler";
-"LOCK_APP"="Uygulamayı Kilitle";
-"LOCK_APP_DESC"="FaceID ve ya TouchID ile uygulamayı kilitle";
-"MAIN_UI"="Akış Seçenekleri";
-"MISCELLANEOUS"="Çeşitli";
-"NO"="Hayır";
-"NOTIFY_CALLING_DM"="Aramada Onay";
-"NOTIFY_CALLING_DM_DISC"="Ses\/video arama düğmesine dokunduğunda aramayı onayla";
-"NOTIFY_SCREENSHOOT_DM"="Ekranresmi Bildirimlerini Önle";
-"NOTIFY_SCREENSHOOT_DM_DISC"="Ekran Resmi Çekildiğinde ekran çekimi bildirimini devre dışı bırak!";
-"NOT_FOLLOWING"="Sizi Takip Etmiyor";
-"NO_ADS"="Promosyon Reklamlarını Engelle";
-"NO_DOUBLETAP_SWITCH"="Çift Tıklama Anahtarını Devre Dışı Bırak";
-"NO_DOUBLETAP_SWITCH_DISC"="Hesaplar arasında geçiş yapmak için çift dokunun!";
-"NO_DOUBLE_TAP_LIKE"="Beğenmek için Çift Dokunmayı Devre Dışı Bırak";
-"NO_EXPLORE"="Keşfeti Gizle";
-"NO_LONG_PRESS"="Sekmelerde Uzun Basmayı Devre Dışı Bırak";
-"NO_NEWS"="Aktivite Sekmesini gizle";
-"NO_PROFILE"="Profil Sekmesini Gizle";
-"NO_REEL"="Gönderi\/Reels Tuşunu Gizle";
-"NO_SINGLE_TAP"="Tek Dokunuşu Devre Dışı Bırak";
-"NO_SINGLE_TAP_DISC"="Gönderilen video görüntüleri tam ekrana geçsin! ";
-"NO_STORY_AD"="Hikayelerde tanıtım reklamı olmasın";
-"NO_SUGGEST"="Önerileri Gizle";
-"NO_SUGGESTED_PROFILE"="Önerilen Profiller olmasın";
-"NO_SUGGEST_DISC"="Akışta önerilen gönderileri ve reelleri gizle!";
-"no_suggesation" = "No Suggesation";
-"no_suggesation_disc" = "remove feed suggested posts reels!";
-"OK"="Tamam";
-"OTHER_TWEAKS"="Diğer Projeler";
-"POST_DISC"="Gönderi";
-"PROFILE"="Profil Ayarları";
-"QUICK_LOOK"="Genişletmek";
-"R_IMAGE_POSTED_CORNER"="Video Resim gönderilerinde yuvarlak köşeler";
-"SAVED"="Kaydedildi";
-"SAVE_IMG"="Fotoğrafı Kaydet";
-"SAVE_PROFILE_IMG"="Profil Fotoğrafını Kaydet";
-"SD"="SD kalitede indir";
-"SHOW_CONFIRM"="Açıklamayı Göster";
-"SHOW_CONFIRM_DISC"="fotoğraflar\/videolar, yorumlar vb.. beğenmeyi onayla";
-"SPECIAL_THANK"="Özel Teşekkür";
-"icon_by" = "icon by";
-"SPOOF"="Dolandırma";
-"STORIES"="Hikaye Ayarları";
-"SUCCESS"="Başarılı";
-"TAB_BAR_SECTION"="Sekme Çubuğu Ayarları";
-"USE_COMPACT"="Kompakt Keşfet sekmesi";
-"USE_COMPACT_DISC"="Tüm videoları gizle ve sadece arama çubuğunu sakla!";
-"VIDEO_OPTIONS"="Medya Ayarları";
-"WELCOME_ALERT" = "Ayarlara girmek için, alt çubuktaki ana sayfa düğmesine veya Instagram yazı logosuna uzun basın.";
-"WHO_FOLLOWING"="Takipçi Durumunu Belirle";
-"WHO_FOLLOWING_DISC"="Kimin takip edip kimin takip etmediğini öğren!";
-"YES"="Evet";
-"inkplus_settings"="iNKPlus Ayarları";
-"refresh"="Yenile";
-"unsend_message" = "Keep Unsend Message";
-"unsed"="Gönderilmedi!";
-"unsend_disc"="Bu eylem tüm mesaj verilerini yenileyecek ve gönderilmemiş mesajları da silecektir!\n\nMesaj otomatik olarak senkronize edilir, aksi takdirde sırayla yenilenmesine gerek yoktur!";
-
+/* checkForUpdates */
 "the_changelog" = "Değişiklik Günlüğü";
 "skip_version" = "Bu Sürümü Atla";
 "updates_available" = "Güncelleme Mevcut";
-"new_version_available" = "iNKillerPlus'un yeni bir sürümü (%@) mevcut. Her zaman en son sürümde kalmanız tavsiye edilir.";
+"new_version_available" = "iNKillerPlus’un yeni bir sürümü (%@) mevcut. En son sürümde kalmanız önerilir.";
 
 /* promptForActivation */
-"license_option" = "License Options";
-"license_option_disc" = "Choose an option:";
-"activate_new_license" = "Activate New License";
-"restore_license" = "Restore License";
-"renew_license" = "Renew License";
-"buy_license" = "Buy License";
-"activate_new_license_disc" = "Please enter your email and license key.";
-"email" = "Email";
-"license_key" = "License Key";
-"activate" = "Activate";
-"invalid_email" = "Invalid Email";
-"invalid_email_disc" = "Please enter a valid email address.";
-"invalid_license" = "Invalid License";
-"license_key_empty" = "License key cannot be empty.";
-"license_key_length_wrong" = "License key length is wrong\nplease enter valid license key.";
+"license_option" = "Lisans Seçenekleri";
+"license_option_disc" = "Bir seçenek belirleyin:";
+"activate_new_license" = "Yeni Lisansı Etkinleştir";
+"restore_license" = "Lisansı Geri Yükle";
+"renew_license" = "Lisansı Yenile";
+"buy_license" = "Lisans Satın Al";
+"activate_new_license_disc" = "Lütfen e-posta adresinizi ve lisans anahtarınızı girin.";
+"email" = "E-posta";
+"license_key" = "Lisans Anahtarı";
+"activate" = "Etkinleştir";
+"invalid_email" = "Geçersiz E-posta";
+"invalid_email_disc" = "Lütfen geçerli bir e-posta adresi girin.";
+"invalid_license" = "Geçersiz Lisans";
+"license_key_empty" = "Lisans anahtarı boş olamaz.";
+"license_key_length_wrong" = "Lisans anahtarı uzunluğu hatalı.\nLütfen geçerli bir anahtar girin.";
 
 /* promptForRestore */
-"restore_license_disc" = "Please enter the email associated with your license.";
-"restore" = "Restore";
-"license_restored_successfully" = "License restored successfully.\nKey: %@\nExpires: %@";
-"license_restored" = "License Restored";
-"restore_failed" = "Restore Failed";
+"restore_license_disc" = "Lisansınıza bağlı e-posta adresini girin.";
+"restore" = "Geri Yükle";
+"copy_license_key" = "Lisans Anahtarını Kopyala";
+"license_key_copied_to_clipboard" = "Lisans anahtarı panoya kopyalandı.";
+"license_details" = "Lisans Detayları";
+"license_details_disc" = "Lisans Anahtarı: %@\n\nSon Kullanma: %@\n\n%@";
+"license_restored_successfully" = "Lisans başarıyla geri yüklendi.";
+"license_restored" = "Lisans Geri Yüklendi";
+"restore_failed" = "Geri Yükleme Başarısız";
+"copied_key" = "Anahtar Panoya Kopyalandı";
 
 /* enter license prompt */
-"enter_license_key" = "Enter License Key";
-"enter_license_key_disc" = "Please enter your license key to authenticate.";
-"license_key_authenticated" = "License key authenticated successfully. Expires on: %@";
-"authentication_successful" = "Authentication Successful";
-"key_used_on_another_device" = "License already activated on another device";
-"key_is_in_use_on_another_device" = "This license is already in use on another device. Please use a different license key.";
-"email_associated_with_another_key" = "Email already associated with another license";
-"authentication_failed" = "Authentication Failed";
-"email_associated_with_defferent_key" = "This email is already associated with a different license. Please use a different email or license key.";
-"key_expired" = "Key has expired";
-"license_expired" = "License Expired";
-"license_expired_disc" = "Your license key has expired. Please renew.";
-"license_verification_failed" = "License Verification Failed";
-"no_internet" = "No Internet";
-"no_internet_disc" = "You need an internet connection to authenticate.";
-"license_disc" = "The license key you entered is not valid.";
+"enter_license_key" = "Lisans Anahtarını Girin";
+"enter_license_key_disc" = "Kimlik doğrulamak için lisans anahtarınızı girin.";
+"license_key_authenticated" = "Lisans anahtarı başarıyla doğrulandı. Son kullanma: %@";
+"authentication_successful" = "Doğrulama Başarılı";
+"key_used_on_another_device" = "Bu lisans başka bir cihazda etkinleştirilmiş.";
+"key_is_in_use_on_another_device" = "Bu lisans anahtarı başka bir cihazda kullanılıyor. Lütfen farklı bir anahtar girin.";
+"email_associated_with_another_key" = "Bu e-posta başka bir lisansla ilişkili.";
+"authentication_failed" = "Doğrulama Başarısız";
+"email_associated_with_defferent_key" = "Bu e-posta farklı bir lisansla ilişkili. Lütfen farklı bir e-posta veya lisans anahtarı kullanın.";
+"key_expired" = "Lisans Anahtarı Süresi Doldu";
+"license_expired" = "Lisans Süresi Doldu";
+"license_expired_disc" = "Lisans süreniz doldu. Lütfen yenileyin.";
+"license_verification_failed" = "Lisans Doğrulaması Başarısız";
+"no_internet" = "İnternet Yok";
+"no_internet_disc" = "Kimlik doğrulama için internet bağlantısı gereklidir.";
+"license_disc" = "Girdiğiniz lisans anahtarı geçerli değil.";
 
 /* other stuff */
