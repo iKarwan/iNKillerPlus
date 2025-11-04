@@ -23,7 +23,7 @@
         | Application | Bundle | Version | iNKillerPlus | File Type |
         | ------------------ |:---------:|:------:|:------:|:------:|
         | [Instagram](https://ikghd.site/ipa/Instagram_405.1_iNKillerPlus_2.4.94.ipa) | com.burbn.instagram | 405.1 | 2.4.94 | IPA |
-        | [TrollStore](https://ikghd.site/ipa/Instagram_405.1_iNKillerPlus_2.4.94_TrollStore. tipa) | com.burbn.instagram | 405.1 | 2.4.94 | tipa |
+        | [TrollStore](https://ikghd.site/ipa/Instagram_405.1_iNKillerPlus_2.4.94_TrollStore.tipa) | com.burbn.instagram | 405.1 | 2.4.94 | tipa |
 
 
 ## How to Sideload on non-jailbroken devices
