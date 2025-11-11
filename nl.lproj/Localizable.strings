@@ -1,19 +1,15 @@
-/* Created on 21/02/2023 */
-/* By iKarwan */
-
-/* NOTE!!! You have the right to request a copy of iNKillerPlus after translation and add to credits. */
-
-/* NOTE 2!!! Please add your country-specific language code after translation, e.g., en, ar, zh, etc. */
+/* created on 21/02/2023 */
+/* by iKarwan */
 
 /* iNKillerPlus global switch */
 "GLOB_ENABLED" = "Globaal ingeschakeld";
-"GLOBAL_ENABLED_SWITCH" = "Tik op de knop rechtsboven om wijzigingen toe te passen.";
+"GLOBAL_ENABLED_SWITCH" = "Tik rechtsboven om wijzigingen toe te passen.";
 
-/* Downloading global switch */
+/* downloding global switch */
 "DOWNLOADING" = "Downloadfunctie inschakelen";
 "GLOBAL_DOWNLOADING_SWITCH" = "Voeg een knop toe of houd een bericht ingedrukt om te downloaden.";
 
-/* General section */
+/* general section */
 "MAIN_UI" = "Feed";
 "STORIES" = "Verhalen";
 "reels" = "Reels";
@@ -23,104 +19,117 @@
 "MISCELLANEOUS" = "Algemeen";
 
 /* Feed section */
-"LOCK_APP" = "Vergrendel de app";
-"LOCK_APP_DESC" = "Vergrendel de app via Face ID/Touch ID.";
 "POST_DISC" = "Bericht";
-"NO_ADS" = "Geen promotionele advertenties";
-"NO_SUGGEST" = "Suggesties verbergen";
-"NO_SUGGEST_DISC" = "Verberg voorgestelde berichten en reels in de feed!";
+"NO_ADS" = "Geen promotie-advertenties";
+"disable_refresh_feed" = "Vernieuwen van feed uitschakelen";
+"disable_refresh_feed_disc" = "Automatische feedvernieuwingen uitschakelen";
 "no_suggesation" = "Geen suggesties";
-"no_suggesation_disc" = "Verwijder voorgestelde berichten en reels uit de feed!";
-"R_IMAGE_POSTED_CORNER" = "Afgeronde hoeken voor afbeeldingen/video's";
-"NO_SINGLE_TAP" = "Enkele tik uitschakelen";
-"NO_SINGLE_TAP_DISC" = "Voorkomt dat afbeeldingen en video's in volledig scherm openen!";
-"NO_DOUBLE_TAP_LIKE" = "Dubbele tik om te liken uitschakelen";
+"no_suggesation_disc" = "Maak je feed schoon – verwijder AI, reels, threads en voorgestelde berichten.";
+"R_IMAGE_POSTED_CORNER" = "Afgeronde hoeken bij berichten";
+"NO_SINGLE_TAP" = "Enkel tikken uitschakelen";
+"NO_SINGLE_TAP_DISC" = "Voorkomt dat video’s met één tik volledig scherm openen.";
+"NO_DOUBLE_TAP_LIKE" = "Dubbel tikken om te liken uitschakelen";
 "SHOW_CONFIRM" = "Bevestiging tonen";
-"SHOW_CONFIRM_DISC" = "Bevestiging vragen voordat je foto's/video's leuk vindt of commentaar plaatst.";
+"SHOW_CONFIRM_DISC" = "Vraagt bevestiging voordat je foto’s of video’s leuk vindt.";
+"confirm_like_comment" = "Bevestig like op reacties";
+"confirm_on_repost" = "Bevestig bij herplaatsen";
 
 /* Stories section */
-"NO_STORY_AD" = "Geen promotionele advertenties in verhalen";
-"HIDE_SEEN_MANUALLY" = "Verhalen handmatig als bekeken markeren";
-"HIDE_SEEN_MANUALLY_DISC" = "Voeg een knop toe in de verhalenweergave.";
-"HIDE_SEEN_MANUALLY2" = "Verhalen handmatig als bekeken markeren 2";
-"HIDE_SEEN_MANUALLY_DISC2" = "Voeg een handmatige aan/uit-knop toe in de verhalenweergave.";
+"NO_STORY_AD" = "Geen verhaal-advertenties";
+"HIDE_SEEN_MANUALLY" = "Verhalen handmatig gemarkeerd";
+"HIDE_SEEN_MANUALLY_DISC" = "Voegt een knop toe in de verhaalweergave om als bekeken te markeren.";
+"HIDE_SEEN_MANUALLY2" = "Verhalen handmatig 2";
+"HIDE_SEEN_MANUALLY_DISC2" = "Voegt een handmatige schakelaar toe in de verhaalweergave.";
 "HIDE_QUICK_REACTION" = "Snelle reacties verbergen";
+"auto_advance" = "Automatisch Doorgaan Stoppen";
+"auto_advance_disc" = "Automatisch doorgaan naar het volgende verhaal stoppen";
 
 /* reels section */
-"hide_reels_ui" = "UI verbergen";
+"disable_scroll" = "Scrollen uitschakelen";
 
 /* messages section */
 "message" = "Bericht";
-"unsend_message" = "Onverzonden bericht behouden";
-"unsed" = "Onverzenden!";
-"unsend_disc" = "Deze actie ververst alle berichtgegevens en verwijdert ook de onverzonden berichten!\n\nBerichten worden automatisch gesynchroniseerd en hoeven niet handmatig te worden vernieuwd.";
+"unsend_message" = "Verwijderde berichten behouden";
+"unsend_message_disc" = "Voorkomt dat Instagram berichten verwijdert en voegt een unsend-icoon toe in de chat.";
+"unsed" = "Verwijderen!";
+"unsend_disc" = "Vernieuwen verwijdert ongestuurde berichten en laadt opnieuw.\n\nBerichten worden automatisch gesynchroniseerd, geen handmatige vernieuwing nodig.";
 "refresh" = "Vernieuwen";
+"unsend_at" = "Bericht verwijderd op: %@!";
+"downloading_disc_dm" = "Voegt een downloadknop toe rechtsonder in het gesprek.";
+"hide_typing" = "Typen verbergen…";
+"hide_typing_disc" = "Verbergt de typindicator in chats.";
+"unlimit_replay" = "Onbeperkt afspelen";
+"unlimit_replay_disc" = "Bekijk foto’s en video’s onbeperkt.";
 
 /* Profile section */
-"SPOOF" = "Spoofing..";
-"BOOST_POST" = "Boost-bericht inschakelen";
-"INSIGHT_POST" = "Toon berichtinzichten";
+"SPOOF" = "Spoofen…";
 "ACCOUNT_VERIFIED" = "Account geverifieerd";
-"ACCOUNT_BUISNESS" = "Zakelijk account";
-"NO_DOUBLETAP_SWITCH" = "Dubbele tik om te wisselen uitschakelen";
-"NO_DOUBLETAP_SWITCH_DISC" = "Voorkomt wisselen tussen accounts met een dubbele tik!";
-"NO_SUGGESTED_PROFILE" = "Geen voorgestelde profielen";
-"WHO_FOLLOWING" = "Volgstatus bepalen";
-"WHO_FOLLOWING_DISC" = "Weet wie je volgt en wie niet!";
+"NO_DOUBLETAP_SWITCH" = "Dubbel-tik wissel uitschakelen";
+"NO_DOUBLETAP_SWITCH_DISC" = "Voorkomt wisselen van account met dubbel tikken.";
+"NO_SUGGESTED_PROFILE" = "Ontdek-mensen verbergen";
+"WHO_FOLLOWING" = "Volgstatus";
+"WHO_FOLLOWING_DISC" = "Zie wie jou terugvolgt.";
+"confirm_follow" = "Bevestig volgen";
+"confirm_follow_disc" = "Toont een bevestiging voordat je iemand volgt.";
 
 /* Interface section */
-"NO_LONG_PRESS" = "Lang indrukken op tabbladen uitschakelen";
-"HIDE_TABS" = "Tabbladen verbergen";
-"NO_EXPLORE" = "Tabblad 'Maken' verbergen";
-"NO_REEL" = "Reels-tabblad verbergen";
-"NO_NEWS" = "Activiteitstabblad verbergen";
-"NO_PROFILE" = "Profieltabblad verbergen";
-"HIDE_ALL_TAB" = "Alle tabbladen verbergen";
-"USE_COMPACT" = "Compacte verkenningstab";
-"USE_COMPACT_DISC" = "Verberg alle inhoud en houd alleen de zoekbalk zichtbaar.";
+"NO_LONG_PRESS" = "Lang indrukken op tabs uitschakelen";
+"HIDE_TABS" = "Tabs verbergen";
+"NO_EXPLORE" = "Verken-tab verbergen";
+"NO_CREATE" = "Maak-tab verbergen";
+"NO_REEL" = "Reels-tab verbergen";
+"HIDE_ALL_TAB" = "Alle tabs verbergen";
+"USE_COMPACT" = "Compacte verkenweergave";
+"USE_COMPACT_DISC" = "Toont alleen de zoekbalk in Verkennen.";
 
 /* General section */
-"ENABLE_MUSIC" = "Muziek inschakelen";
-"HIDE_SEEN_DM" = "Berichten handmatig als gezien markeren";
-"NOTIFY_CALLING_DM" = "Bevestiging bij oproep";
-"NOTIFY_CALLING_DM_DISC" = "Bevestiging vragen voordat je een audio-/video-oproep start.";
-"NOTIFY_SCREENSHOOT_DM" = "Screenshotmelding voorkomen";
-"NOTIFY_SCREENSHOOT_DM_DISC" = "Meldingen voor schermafbeeldingen uitschakelen.";
-"HIDE_SEEN_DM_DISC" = "Voeg een knop toe in de DM-weergave.";
+"HIDE_SEEN_DM" = "Berichten handmatig gelezen";
+"NOTIFY_CALLING_DM" = "Bevestig bij bellen";
+"NOTIFY_CALLING_DM_DISC" = "Vraagt bevestiging voor audio- of videogesprekken.";
+"NOTIFY_SCREENSHOOT_DM" = "Screenshot-beveiliging";
+"NOTIFY_SCREENSHOOT_DM_DISC" = "Schakelt detectie van schermafbeeldingen in media uit.";
+"HIDE_SEEN_DM_DISC" = "Voegt een knop toe om berichten handmatig als gelezen te markeren.";
 "COPY_TXT" = "Tekst kopiëren";
-"COPY_TEXT" = "Verschillende teksten kopiëren";
-"COPY_TEXT_DISC" = "Houd ingedrukt om beschrijvingen, opmerkingen, biografieën, enz. te kopiëren.";
+"COPY_TEXT" = "Teksten kopiëren";
+"COPY_TEXT_DISC" = "Houd ingedrukt om beschrijvingen of reacties te kopiëren.";
 
-/* Global action title */
-"WELCOME_ALERT" = "Om de instellingen te openen, houd je de home-knop in de tabblak ingedrukt of tik je op het Instagram-logo.";
-"inkplus_settings" = "iNKPlus instellingen";
+/* global action title */
+"WELCOME_ALERT" = "Ga naar je profiel en tik op het tandwiel-icoon, of houd de homeknop of het Instagram-logo ingedrukt om instellingen te openen.";
+"inkplus_settings" = "iNKPlus-instellingen";
 "OK" = "OK";
 "YES" = "Ja";
 "NO" = "Nee";
 "QUICK_LOOK" = "Uitvouwen";
-"DOWNLOAD" = "Downloaden naar bibliotheek";
-"DOWNLOAD_SHARE" = "Downloaden en delen";
-"DOWNLOAD_AND_SHARE" = "Downloaden en delen";
+"DOWNLOADING_IGPP" = "Bezig met downloaden…";
+"PLEASE_WAIT" = "Even geduld";
+"DOWNLOAD" = "Download naar bibliotheek";
+"DOWNLOAD_SHARE" = "Download en deel";
+"DOWNLOAD_AND_SHARE" = "Download en deel";
 "VIDEO_OPTIONS" = "Media-opties";
 "CHOOSE_QUALITY" = "Kies kwaliteit";
+"SAVE_TO_PHOTO" = "Opslaan in foto’s";
 "SAVE_IMG" = "Afbeelding opslaan";
 "SAVE_PROFILE_IMG" = "Profielfoto opslaan";
-"HD" = "Download HD";
-"SD" = "Download SD";
+"HD" = "Download in HD";
+"SD" = "Download in SD";
 "COPIENG_TEXT" = "Tekst kopiëren";
 "COPIED" = "Gekopieerd";
-"LIKING" = "Leuk vinden?";
+"LIKING" = "Liken?";
 "FOLLOW" = "Volgen?";
 "CALL" = "Bellen?";
-"FOLLOWING" = "VOLGT JE";
-"NOT_FOLLOWING" = "VOLGT JE NIET";
+"FOLLOWING" = "Volgt jou";
+"NOT_FOLLOWING" = "Volgt jou niet";
 "CANCEL" = "Annuleren";
 "DISMISS" = "Sluiten";
 "DELETED" = "Verwijderd";
-"DOWNLOADING_START" = "Downloaden";
+"DOWNLOADING_START" = "Downloaden gestart";
 "CANCEL_HUD" = "Annuleren";
 "SAVED" = "Opgeslagen";
-"SUCCESS" = "Succes";
+"SUCCESS" = "Gelukt";
+"close" = "Sluiten";
+"Reposting" = "Opnieuw plaatsen?";
+"SELECT_LANGUAGE" = "Taal selecteren";
+"FAQ" = "Veelgestelde vragen";
 
 /* other || credits translation & links */
 "OTHER_TWEAKS" = "Andere projecten";
@@ -131,33 +140,63 @@
 "DEVELOPER" = "Ontwikkelaar";
 
 /* clearCaches */
-"clearonstartup" = "Cache wissen bij opstarten";
+"clearonstartup" = "Wissen bij opstarten";
 "clearcache" = "Cache wissen";
 "On" = "Aan";
 "Off" = "Uit";
+"calculating" = "Berekenen…";
 
 /* checkForUpdates */
-"the_changelog" = "Wijzigingslogboek";
+"the_changelog" = "Wijzigingslog";
 "skip_version" = "Deze versie overslaan";
 "updates_available" = "Update beschikbaar";
-"new_version_available" = "Er is een nieuwe versie van iNKillerPlus (%@) beschikbaar. Het is aanbevolen om altijd de nieuwste versie te gebruiken.";
+"new_version_available" = "Een nieuwe versie van iNKillerPlus (%@) is beschikbaar. Blijf altijd up-to-date.";
 
 /* promptForActivation */
 "license_option" = "Licentie-opties";
 "license_option_disc" = "Kies een optie:";
 "activate_new_license" = "Nieuwe licentie activeren";
 "restore_license" = "Licentie herstellen";
-"renew_license" = "Licentie verlengen";
+"renew_license" = "Licentie vernieuwen";
 "buy_license" = "Licentie kopen";
-"activate_new_license_disc" = "Voer je e-mailadres en licentiesleutel in.";
+"activate_new_license_disc" = "Voer je e-mail en licentiesleutel in.";
 "email" = "E-mail";
 "license_key" = "Licentiesleutel";
 "activate" = "Activeren";
 "invalid_email" = "Ongeldig e-mailadres";
+"invalid_email_disc" = "Voer een geldig e-mailadres in.";
 "invalid_license" = "Ongeldige licentie";
 "license_key_empty" = "Licentiesleutel mag niet leeg zijn.";
+"license_key_length_wrong" = "Ongeldige lengte van de licentiesleutel.\nVoer een geldige sleutel in.";
 
 /* promptForRestore */
-"restore_license_disc" = "Voer het e-mailadres in dat bij je licentie hoort.";
+"restore_license_disc" = "Voer het e-mailadres in dat aan je licentie is gekoppeld.";
 "restore" = "Herstellen";
+"copy_license_key" = "Licentiesleutel kopiëren";
+"license_key_copied_to_clipboard" = "Licentiesleutel gekopieerd naar klembord.";
+"license_details" = "Licentie-details";
+"license_details_disc" = "Licentiesleutel: %@\n\nVerloopt op: %@\n\n%@";
+"license_restored_successfully" = "Licentie succesvol hersteld.";
+"license_restored" = "Licentie hersteld";
 "restore_failed" = "Herstellen mislukt";
+"copied_key" = "Gekopieerd";
+
+/* enter license prompt */
+"enter_license_key" = "Voer licentiesleutel in";
+"enter_license_key_disc" = "Voer je licentiesleutel in om te verifiëren.";
+"license_key_authenticated" = "Licentie geverifieerd. Verloopt op: %@";
+"authentication_successful" = "Verificatie geslaagd";
+"key_used_on_another_device" = "Licentie al geactiveerd op ander apparaat.";
+"key_is_in_use_on_another_device" = "Deze licentie is al in gebruik. Gebruik een andere sleutel.";
+"email_associated_with_another_key" = "E-mail is gekoppeld aan een andere licentie.";
+"authentication_failed" = "Verificatie mislukt";
+"email_associated_with_defferent_key" = "E-mail is gekoppeld aan een andere sleutel. Gebruik een andere e-mail of sleutel.";
+"key_expired" = "Sleutel verlopen";
+"license_expired" = "Licentie verlopen";
+"license_expired_disc" = "Je licentie is verlopen. Vernieuw alstublieft.";
+"license_verification_failed" = "Licentieverificatie mislukt";
+"no_internet" = "Geen internet";
+"no_internet_disc" = "Internetverbinding vereist voor verificatie.";
+"license_disc" = "De ingevoerde licentiesleutel is ongeldig.";
+
+/* other stuff */

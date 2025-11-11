@@ -22,8 +22,8 @@
     1. Download IPA file from here and follow the instructions below to sign and install the app from your computer for one week
         | Application | Bundle | Version | iNKillerPlus | File Type |
         | ------------------ |:---------:|:------:|:------:|:------:|
-        | [Instagram](https://ikghd.site/ipa/Instagram_405.1_iNKillerPlus_2.4.95.ipa) | com.burbn.instagram | 405.1 | 2.4.95 | IPA |
-        | [TrollStore](https://ikghd.site/ipa/Instagram_405.1_iNKillerPlus_2.4.95_TrollStore.tipa) | com.burbn.instagram | 405.1 | 2.4.95 | tipa |
+        | [Instagram](https://ikghd.site/ipa/Instagram_406.0_iNKillerPlus_2.4.97.ipa) | com.burbn.instagram | 406.0 | 2.4.97 | IPA |
+        | [TrollStore](https://ikghd.site/ipa/Instagram_406.0_iNKillerPlus_2.4.97_TrollStore.tipa) | com.burbn.instagram | 406.0 | 2.4.97 | tipa |
 
 
 ## How to Sideload on non-jailbroken devices
@@ -54,7 +54,7 @@
 
 ### TrollStore TIPA
 * Download and install TrollStore from [here](https://github.com/opa334/TrollStore).
-* Copy this link [here](https://ikghd.site/ipa/Instagram_405.1_iNKillerPlus_2.4.95_TrollStore.tipa) and paste it into the "Install from URL" option in TrollStore.
+* Copy this link [here](https://ikghd.site/ipa/Instagram_406.0_iNKillerPlus_2.4.97_TrollStore.tipa) and paste it into the "Install from URL" option in TrollStore.
 
 
 ### Telegram Channel
@@ -62,8 +62,7 @@
 
 
 ## Localization
-* iNKillerPlus fully supports localization. If you'd like to add your language, please download the base file, translate it completely, then open a pull request or send it via email to (ikghd3@gmail) to be added in a future update.
-**NOTE:** You have the right to request a copy of iNKillerPlus after translation and be credited.
+* iNKillerPlus fully supports localization. If you'd like to add your language, please download the English file, translate it completely, then open a pull request or send it via email to (ikghd3@gmail) to be added in a future update.
 
 ### Donations
 * Donations are always appreciated to keep the project going!

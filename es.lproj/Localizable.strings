@@ -1,0 +1,203 @@
+/* created on 21/02/2023 */
+/* by iKarwan */
+/* by ChatGPT */
+
+/* iNKillerPlus global switch */
+"GLOB_ENABLED" = "Activar globalmente";
+"GLOBAL_ENABLED_SWITCH" = "Toca el botón superior derecho para aplicar los cambios.";
+
+/* downloding global switch */
+"DOWNLOADING" = "Habilitar función de descarga";
+"GLOBAL_DOWNLOADING_SWITCH" = "Agrega un botón o mantén presionado un post para descargar.";
+
+/* general section */
+"MAIN_UI" = "Inicio";
+"STORIES" = "Historias";
+"reels" = "Reels";
+"DIRECT_MESSG" = "Mensajes";
+"PROFILE" = "Perfil";
+"TAB_BAR_SECTION" = "Interfaz";
+"MISCELLANEOUS" = "General";
+
+/* Feed section */
+"POST_DISC" = "Publicación";
+"NO_ADS" = "Sin anuncios";
+"disable_refresh_feed" = "Desactivar actualización del feed";
+"disable_refresh_feed_disc" = "Desactivar actualizaciones automáticas del feed";
+"no_suggesation" = "Sin sugerencias";
+"no_suggesation_disc" = "Limpia tu feed y elimina anuncios, IA, reels y sugerencias.";
+"R_IMAGE_POSTED_CORNER" = "Bordes redondeados en publicaciones";
+"NO_SINGLE_TAP" = "Desactivar toque único";
+"NO_SINGLE_TAP_DISC" = "Evita que los videos se abran en pantalla completa al tocar.";
+"NO_DOUBLE_TAP_LIKE" = "Desactivar doble toque para me gusta";
+"SHOW_CONFIRM" = "Mostrar confirmación";
+"SHOW_CONFIRM_DISC" = "Pide confirmación antes de dar me gusta a fotos o videos.";
+"confirm_like_comment" = "Confirmar me gusta en comentarios";
+"confirm_on_repost" = "Confirmar al republicar";
+
+/* Stories section */
+"NO_STORY_AD" = "Sin anuncios en historias";
+"HIDE_SEEN_MANUALLY" = "Marcar historias manualmente";
+"HIDE_SEEN_MANUALLY_DISC" = "Agrega un botón en las historias para marcarlas como vistas.";
+"HIDE_SEEN_MANUALLY2" = "Marcar historias manualmente 2";
+"HIDE_SEEN_MANUALLY_DISC2" = "Agrega un interruptor manual dentro de las historias.";
+"HIDE_QUICK_REACTION" = "Ocultar reacciones rápidas";
+"auto_advance" = "Detener avance automático";
+"auto_advance_disc" = "Detener avance automático a la siguiente historia";
+
+/* reels section */
+"disable_scroll" = "Desactivar desplazamiento";
+
+/* messages section */
+"message" = "Mensaje";
+"unsend_message" = "Mantener mensajes eliminados";
+"unsend_message_disc" = "Evita que Instagram elimine mensajes y agrega un icono de anulación en el chat.";
+"unsed" = "Anular envío!";
+"unsend_disc" = "Actualizar eliminará mensajes anulados y recargará los datos.\n\nLos mensajes se sincronizan automáticamente; no necesitas refrescar manualmente.";
+"refresh" = "Actualizar";
+"unsend_at" = "Mensaje anulado en: %@!";
+"downloading_disc_dm" = "Agrega un botón de descarga en la esquina inferior derecha.";
+"hide_typing" = "Ocultar escribiendo...";
+"hide_typing_disc" = "Oculta el indicador de escritura en los chats.";
+"unlimit_replay" = "Repetir sin límite";
+"unlimit_replay_disc" = "Mira fotos y videos sin restricciones.";
+
+/* Profile section */
+"SPOOF" = "Suplantando...";
+"ACCOUNT_VERIFIED" = "Cuenta verificada";
+"NO_DOUBLETAP_SWITCH" = "Desactivar cambio con doble toque";
+"NO_DOUBLETAP_SWITCH_DISC" = "Evita cambiar entre cuentas con doble toque.";
+"NO_SUGGESTED_PROFILE" = "Ocultar descubrir personas";
+"WHO_FOLLOWING" = "Estado de seguimiento";
+"WHO_FOLLOWING_DISC" = "Muestra quién te sigue de vuelta.";
+"confirm_follow" = "Confirmar al seguir";
+"confirm_follow_disc" = "Muestra un aviso antes de seguir a alguien.";
+
+/* Interface section */
+"NO_LONG_PRESS" = "Desactivar presión prolongada en pestañas";
+"HIDE_TABS" = "Ocultar pestañas";
+"NO_EXPLORE" = "Ocultar pestaña Explorar";
+"NO_CREATE" = "Ocultar pestaña Crear";
+"NO_REEL" = "Ocultar pestaña Reels";
+"HIDE_ALL_TAB" = "Ocultar todas las pestañas";
+"USE_COMPACT" = "Explorar compacto";
+"USE_COMPACT_DISC" = "Muestra solo la barra de búsqueda en Explorar.";
+
+/* General section */
+"HIDE_SEEN_DM" = "Marcar mensajes manualmente";
+"NOTIFY_CALLING_DM" = "Confirmar al llamar";
+"NOTIFY_CALLING_DM_DISC" = "Pide confirmación antes de realizar llamadas de audio o video.";
+"NOTIFY_SCREENSHOOT_DM" = "Evitar capturas de pantalla";
+"NOTIFY_SCREENSHOOT_DM_DISC" = "Desactiva la detección de capturas de pantalla en medios.";
+"HIDE_SEEN_DM_DISC" = "Agrega un botón para marcar mensajes como vistos.";
+"COPY_TXT" = "Copiar texto";
+"COPY_TEXT" = "Copiar textos";
+"COPY_TEXT_DISC" = "Mantén presionado para copiar descripciones, comentarios o biografías.";
+
+/* global action title */
+"WELCOME_ALERT" = "Para abrir la configuración, ve a tu perfil y toca el ícono de engranaje o mantén presionado el botón de inicio o el logotipo de Instagram.";
+"inkplus_settings" = "Ajustes de iNKPlus";
+"OK" = "OK";
+"YES" = "Sí";
+"NO" = "No";
+"QUICK_LOOK" = "Expandir";
+"DOWNLOADING_IGPP" = "Descargando...";
+"PLEASE_WAIT" = "Por favor espera";
+"DOWNLOAD" = "Descargar a la biblioteca";
+"DOWNLOAD_SHARE" = "Descargar y compartir";
+"DOWNLOAD_AND_SHARE" = "Descargar y compartir";
+"VIDEO_OPTIONS" = "Opciones de medios";
+"CHOOSE_QUALITY" = "Elegir calidad";
+"SAVE_TO_PHOTO" = "Guardar en fotos";
+"SAVE_IMG" = "Guardar imagen";
+"SAVE_PROFILE_IMG" = "Guardar imagen de perfil";
+"HD" = "Descargar HD";
+"SD" = "Descargar SD";
+"COPIENG_TEXT" = "Copiando texto";
+"COPIED" = "Copiado";
+"LIKING" = "¿Dando me gusta?";
+"FOLLOW" = "¿Siguiendo?";
+"CALL" = "¿Llamando?";
+"FOLLOWING" = "Te sigue";
+"NOT_FOLLOWING" = "No te sigue";
+"CANCEL" = "Cancelar";
+"DISMISS" = "Cerrar";
+"DELETED" = "Eliminado";
+"DOWNLOADING_START" = "Iniciando descarga";
+"CANCEL_HUD" = "Cancelar";
+"SAVED" = "Guardado";
+"SUCCESS" = "Éxito";
+"close" = "Cerrar";
+"Reposting" = "¿Re-publicar?";
+"SELECT_LANGUAGE" = "Seleccionar idioma";
+"FAQ" = "Preguntas frecuentes";
+
+/* other || credits translation & links */
+"OTHER_TWEAKS" = "Otros proyectos";
+"CREDITS" = "Colaboradores";
+"SPECIAL_THANK" = "Agradecimiento especial";
+"icon_by" = "Icono por";
+"LOCALIZATION" = "Traducciones";
+"DEVELOPER" = "Desarrollador";
+
+/* clearCaches */
+"clearonstartup" = "Limpiar al iniciar";
+"clearcache" = "Borrar caché";
+"On" = "Activado";
+"Off" = "Desactivado";
+"calculating" = "Calculando...";
+
+/* checkForUpdates */
+"the_changelog" = "Registro de cambios";
+"skip_version" = "Saltar esta versión";
+"updates_available" = "Actualización disponible";
+"new_version_available" = "Hay una nueva versión de iNKillerPlus (%@). Se recomienda mantenerla actualizada.";
+
+/* promptForActivation */
+"license_option" = "Opciones de licencia";
+"license_option_disc" = "Elige una opción:";
+"activate_new_license" = "Activar nueva licencia";
+"restore_license" = "Restaurar licencia";
+"renew_license" = "Renovar licencia";
+"buy_license" = "Comprar licencia";
+"activate_new_license_disc" = "Ingresa tu correo electrónico y clave de licencia.";
+"email" = "Correo electrónico";
+"license_key" = "Clave de licencia";
+"activate" = "Activar";
+"invalid_email" = "Correo inválido";
+"invalid_email_disc" = "Por favor ingresa un correo válido.";
+"invalid_license" = "Licencia inválida";
+"license_key_empty" = "La clave de licencia no puede estar vacía.";
+"license_key_length_wrong" = "La longitud de la clave es incorrecta.\nPor favor ingresa una válida.";
+
+/* promptForRestore */
+"restore_license_disc" = "Ingresa el correo asociado a tu licencia.";
+"restore" = "Restaurar";
+"copy_license_key" = "Copiar clave de licencia";
+"license_key_copied_to_clipboard" = "Clave de licencia copiada al portapapeles.";
+"license_details" = "Detalles de licencia";
+"license_details_disc" = "Clave: %@\n\nExpira: %@\n\n%@";
+"license_restored_successfully" = "Licencia restaurada exitosamente.";
+"license_restored" = "Licencia restaurada";
+"restore_failed" = "Error al restaurar";
+"copied_key" = "Copiado";
+
+/* enter license prompt */
+"enter_license_key" = "Ingresar clave de licencia";
+"enter_license_key_disc" = "Ingresa tu clave de licencia para autenticar.";
+"license_key_authenticated" = "Licencia verificada. Expira el: %@";
+"authentication_successful" = "Autenticación exitosa";
+"key_used_on_another_device" = "Licencia ya activada en otro dispositivo.";
+"key_is_in_use_on_another_device" = "Esta licencia ya se usa en otro dispositivo. Usa una diferente.";
+"email_associated_with_another_key" = "Correo asociado a otra licencia.";
+"authentication_failed" = "Autenticación fallida";
+"email_associated_with_defferent_key" = "Correo asociado a otra clave. Usa un correo o clave diferente.";
+"key_expired" = "Clave expirada";
+"license_expired" = "Licencia expirada";
+"license_expired_disc" = "Tu licencia ha expirado. Por favor, renuévala.";
+"license_verification_failed" = "Verificación de licencia fallida";
+"no_internet" = "Sin internet";
+"no_internet_disc" = "Se requiere conexión a internet para autenticar.";
+"license_disc" = "La clave de licencia ingresada no es válida.";
+
+/* other stuff */

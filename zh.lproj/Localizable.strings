@@ -1,181 +1,203 @@
+/* created on 21/02/2023 */
 /* by iKarwan */
-/* Simplified Chinese By Stalker(YaoDao) */
+/* Simplified Chinese By Stalker(YaoDao) & ChatGPT */
 
 /* iNKillerPlus global switch */
 "GLOB_ENABLED" = "全局启用";
-"GLOBAL_ENABLED_SWITCH" = "点击右上角的按钮应用更改";
+"GLOBAL_ENABLED_SWITCH" = "点击右上角按钮以应用更改。";
 
 /* downloding global switch */
-"DOWNLOADING" = "启用下载";
-"GLOBAL_DOWNLOADING_SWITCH" = "添加下载按钮或长按帖子即可下载";
+"DOWNLOADING" = "启用下载功能";
+"GLOBAL_DOWNLOADING_SWITCH" = "添加按钮或长按帖子即可下载。";
 
 /* general section */
-"MAIN_UI" = "常规设置";
-"PROFILE" = "个人设置";
-"STORIES" = "快拍设置";
-"TAB_BAR_SECTION" = "底栏设置";
-"MISCELLANEOUS" = "其他设置";
+"MAIN_UI" = "主页";
+"STORIES" = "快拍";
+"reels" = "Reels";
+"DIRECT_MESSG" = "消息";
+"PROFILE" = "个人资料";
+"TAB_BAR_SECTION" = "界面";
+"MISCELLANEOUS" = "通用";
 
-/* other || credits translation & links */
-"OTHER_TWEAKS" = "查看作品";
-"CREDITS" = "致谢名单";
-"SPECIAL_THANK" = "特别鸣谢";
-"icon_by" = "图标设计";
-"LOCALIZATION" = "本地化翻译";
-"DEVELOPER" = "开发者";
-"WELCOME_ALERT" = "要进入设置，请长按底部导航栏中的主页按钮或Instagram文字标志。";
-
-"clearonstartup" = "启动时清除"; // Chinese (Simplified, zh)
-"clearcache" = "清除缓存";
-"On" = "开";
-"Off" = "关";
-
-/* MAIN_UI section */
-"LOCK_APP" = "锁定App";
-"LOCK_APP_DESC" = "通过“面容/密码”锁定应用程序";
+/* Feed section */
 "POST_DISC" = "帖子";
-"NO_ADS" = "无促销广告";
-"NO_SUGGEST" = "隐藏推荐";
-"NO_SUGGEST_DISC" = "隐藏推荐的帖子和短视频";
-"no_suggesation" = "删除推荐";
-"no_suggesation_disc" = "删除推荐的帖子和短视频";
-"R_IMAGE_POSTED_CORNER" = "“图片/视频”圆角";
+"NO_ADS" = "无推广广告";
+"disable_refresh_feed" = "禁用动态刷新";
+"disable_refresh_feed_disc" = "禁用自动动态刷新";
+"no_suggesation" = "无推荐内容";
+"no_suggesation_disc" = "清理动态，移除AI、推荐、Reels和广告。";
+"R_IMAGE_POSTED_CORNER" = "圆角帖子";
 "NO_SINGLE_TAP" = "禁用单击";
-"NO_SINGLE_TAP_DISC" = "影响发布的视频图像全屏显示";
+"NO_SINGLE_TAP_DISC" = "防止单击视频进入全屏。";
 "NO_DOUBLE_TAP_LIKE" = "禁用双击点赞";
 "SHOW_CONFIRM" = "显示确认";
-"SHOW_CONFIRM_DISC" = "确认喜欢照片/视频、评论等";
-"USE_COMPACT" = "紧凑的“探索”标签";
-"USE_COMPACT_DISC" = "隐藏所有视频并仅保留搜索栏";
-
-
-/* Profile section */
-"SPOOF" = "伪造";
-"BOOST_POST" = "启用高级帖子";
-"INSIGHT_POST" = "显示帖子见解..";
-"ACCOUNT_VERIFIED" = "账户已验证";
-"ACCOUNT_BUISNESS" = "商业账户";
-"NO_DOUBLETAP_SWITCH" = "禁用双击切换";
-"NO_DOUBLETAP_SWITCH_DISC" = "双击即可在账户之间切换";
-"NO_SUGGESTED_PROFILE" = "无推荐的用户";
-"WHO_FOLLOWING" = "确定关注状态";
-"WHO_FOLLOWING_DISC" = "知道谁关注了，谁没有关注！";
-
+"SHOW_CONFIRM_DISC" = "点赞前显示确认提示。";
+"confirm_like_comment" = "确认点赞评论";
+"confirm_on_repost" = "确认转发";
 
 /* Stories section */
-"NO_STORY_AD" = "无推荐广告";
-"HIDE_SEEN_MANUALLY" = "手动查看已读快拍";
-"HIDE_SEEN_MANUALLY_DISC" = "在快拍视图中添加一个按钮";
-"HIDE_SEEN_MANUALLY2" = "手动查看已读快拍 2";
-"HIDE_SEEN_MANUALLY_DISC2" = "在快拍视图中添加一个按钮 2";
-"HIDE_QUICK_REACTION" = "隐藏快速回应";
+"NO_STORY_AD" = "无快拍广告";
+"HIDE_SEEN_MANUALLY" = "手动标记已看";
+"HIDE_SEEN_MANUALLY_DISC" = "在快拍中添加按钮手动标记为已看。";
+"HIDE_SEEN_MANUALLY2" = "手动标记已看 2";
+"HIDE_SEEN_MANUALLY_DISC2" = "在快拍界面添加开关手动切换。";
+"HIDE_QUICK_REACTION" = "隐藏快速反应";
+"auto_advance" = "停止自动播放";
+"auto_advance_disc" = "停止自动跳到下一个故事";
 
-/* TAB_BAR section */
-"NO_LONG_PRESS" = "禁用长按标签";
-"HIDE_TABS" = "隐藏底部标签";
-"NO_EXPLORE" = "隐藏探索标签";
-"NO_REEL" = "隐藏“帖子/短视频”标签";
-"NO_NEWS" = "隐藏活动标签";
-"NO_PROFILE" = "隐藏个人标签";
-"HIDE_ALL_TAB" = "隐藏全部标签";
+/* reels section */
+"disable_scroll" = "禁用滑动";
 
-
-/* Miscellaneous section */
-"ENABLE_MUSIC" = "启用音乐";
-"DIRECT_MESSG" = "消息留言";
-"HIDE_SEEN_DM" = "手动查看私信";
-"NOTIFY_CALLING_DM" = "通话确认";
-"NOTIFY_CALLING_DM_DISC" = "点击“音频/视频”呼叫按钮时确认";
-"NOTIFY_SCREENSHOOT_DM" = "阻止截屏通知";
-"NOTIFY_SCREENSHOOT_DM_DISC" = "禁用截屏时的通知";
-"HIDE_SEEN_DM_DISC" = "在私信视图中添加一个按钮";
-"COPY_TXT" = "复制文本";
-"COPY_TEXT" = "复制各种文本";
-"COPY_TEXT_DISC" = "长按复制描述/评论等内容";
-
-"unsend_message" = "保留未发消息";
-
-"unsed" = "取消发送！";
-"unsend_disc" = "此操作将刷新所有消息数据并删除未发送的消息！\n\n消息会自动同步，否则无需刷新！";
+/* messages section */
+"message" = "消息";
+"unsend_message" = "保留撤回消息";
+"unsend_message_disc" = "阻止Instagram删除消息并在聊天中添加撤回图标。";
+"unsed" = "撤回！";
+"unsend_disc" = "刷新将删除所有已撤回消息并重新加载。\n\n消息会自动同步，无需手动刷新。";
 "refresh" = "刷新";
+"unsend_at" = "消息撤回时间：%@！";
+"downloading_disc_dm" = "在聊天右下角添加下载按钮。";
+"hide_typing" = "隐藏正在输入…";
+"hide_typing_disc" = "隐藏聊天中的输入状态。";
+"unlimit_replay" = "无限重播";
+"unlimit_replay_disc" = "可无限次查看照片和视频。";
+
+/* Profile section */
+"SPOOF" = "伪装中…";
+"ACCOUNT_VERIFIED" = "账户已验证";
+"NO_DOUBLETAP_SWITCH" = "禁用双击切换账户";
+"NO_DOUBLETAP_SWITCH_DISC" = "防止通过双击切换账户。";
+"NO_SUGGESTED_PROFILE" = "隐藏发现人物";
+"WHO_FOLLOWING" = "关注状态";
+"WHO_FOLLOWING_DISC" = "查看谁关注了你。";
+"confirm_follow" = "确认关注";
+"confirm_follow_disc" = "关注前显示确认提示。";
+
+/* Interface section */
+"NO_LONG_PRESS" = "禁用长按标签";
+"HIDE_TABS" = "隐藏标签";
+"NO_EXPLORE" = "隐藏探索页";
+"NO_CREATE" = "隐藏创建页";
+"NO_REEL" = "隐藏Reels页";
+"HIDE_ALL_TAB" = "隐藏所有标签";
+"USE_COMPACT" = "精简探索页";
+"USE_COMPACT_DISC" = "仅保留搜索栏，清理探索内容。";
+
+/* General section */
+"HIDE_SEEN_DM" = "手动标记消息已读";
+"NOTIFY_CALLING_DM" = "通话前确认";
+"NOTIFY_CALLING_DM_DISC" = "拨打音频或视频前显示确认。";
+"NOTIFY_SCREENSHOOT_DM" = "防截图";
+"NOTIFY_SCREENSHOOT_DM_DISC" = "禁用媒体截图检测。";
+"HIDE_SEEN_DM_DISC" = "在聊天中添加按钮以手动标记已读。";
+"COPY_TXT" = "复制文字";
+"COPY_TEXT" = "复制文本";
+"COPY_TEXT_DISC" = "长按复制说明、评论或简介。";
 
 /* global action title */
+"WELCOME_ALERT" = "打开个人资料并点击齿轮图标，或长按主页按钮或Instagram标志进入设置。";
 "inkplus_settings" = "iNKPlus 设置";
-"OK" = "好的";
+"OK" = "确定";
 "YES" = "是";
-"NO" = "不";
+"NO" = "否";
 "QUICK_LOOK" = "展开";
-"DOWNLOAD" = "下载至库";
-"DOWNLOAD_SHARE" = "下载和分享";
-"DOWNLOAD_AND_SHARE" = "下载和分享";
+"DOWNLOADING_IGPP" = "正在下载…";
+"PLEASE_WAIT" = "请稍候";
+"DOWNLOAD" = "下载到资料库";
+"DOWNLOAD_SHARE" = "下载并分享";
+"DOWNLOAD_AND_SHARE" = "下载并分享";
 "VIDEO_OPTIONS" = "媒体选项";
-"CHOOSE_QUALITY" = "选择画质";
+"CHOOSE_QUALITY" = "选择质量";
+"SAVE_TO_PHOTO" = "保存到相册";
 "SAVE_IMG" = "保存图片";
-"SAVE_PROFILE_IMG" = "保存个人图像";
-"HD" = "下载HD";
-"SD" = "下载SD";
-"COPIENG_TEXT" = "复制文本";
+"SAVE_PROFILE_IMG" = "保存头像";
+"HD" = "下载高清";
+"SD" = "下载标清";
+"COPIENG_TEXT" = "复制文字";
 "COPIED" = "已复制";
-"LIKING" = "喜欢？";
+"LIKING" = "点赞？";
 "FOLLOW" = "关注？";
-"CALL" = "拨打？";
-"FOLLOWING" = "关注你";
+"CALL" = "通话？";
+"FOLLOWING" = "已关注你";
 "NOT_FOLLOWING" = "未关注你";
 "CANCEL" = "取消";
-"DISMISS" = "解除";
+"DISMISS" = "关闭";
 "DELETED" = "已删除";
-"DOWNLOADING_START" = "下载中";
+"DOWNLOADING_START" = "开始下载";
 "CANCEL_HUD" = "取消";
 "SAVED" = "已保存";
 "SUCCESS" = "成功";
+"close" = "关闭";
+"Reposting" = "转发？";
+"SELECT_LANGUAGE" = "选择语言";
+"FAQ" = "常见问题";
 
+/* other || credits translation & links */
+"OTHER_TWEAKS" = "其他项目";
+"CREDITS" = "贡献者";
+"SPECIAL_THANK" = "特别感谢";
+"icon_by" = "图标设计";
+"LOCALIZATION" = "本地化";
+"DEVELOPER" = "开发者";
+
+/* clearCaches */
+"clearonstartup" = "启动时清理";
+"clearcache" = "清理缓存";
+"On" = "开";
+"Off" = "关";
+"calculating" = "计算中…";
+
+/* checkForUpdates */
 "the_changelog" = "更新日志";
 "skip_version" = "跳过此版本";
 "updates_available" = "有可用更新";
-"new_version_available" = "iNKillerPlus (%@) 的新版本已可用。建议始终保持更新到最新版本。";
-
-"hide_reels_ui" = "隐藏用户界面";
+"new_version_available" = "发现新版本 iNKillerPlus (%@)。建议保持最新以获得最佳体验。";
 
 /* promptForActivation */
 "license_option" = "许可证选项";
-"license_option_disc" = "选择一个选项：";
+"license_option_disc" = "请选择：";
 "activate_new_license" = "激活新许可证";
 "restore_license" = "恢复许可证";
 "renew_license" = "续订许可证";
 "buy_license" = "购买许可证";
-"activate_new_license_disc" = "请输入您的电子邮件和许可证密钥。";
-"email" = "电子邮件";
+"activate_new_license_disc" = "请输入邮箱和许可证密钥。";
+"email" = "邮箱";
 "license_key" = "许可证密钥";
 "activate" = "激活";
-"invalid_email" = "电子邮件无效";
-"invalid_email_disc" = "请输入有效的电子邮件地址。";
-"invalid_license" = "许可证密钥无效";
+"invalid_email" = "邮箱无效";
+"invalid_email_disc" = "请输入有效的邮箱地址。";
+"invalid_license" = "许可证无效";
 "license_key_empty" = "许可证密钥不能为空。";
-"license_key_length_wrong" = "许可证密钥长度错误\n请输入有效的许可证密钥。";
+"license_key_length_wrong" = "密钥长度错误。\n请输入有效的许可证密钥。";
 
 /* promptForRestore */
-"restore_license_disc" = "输入与您的许可证关联的电子邮件。";
+"restore_license_disc" = "请输入与许可证关联的邮箱。";
 "restore" = "恢复";
-"license_restored_successfully" = "许可证恢复成功。\n密钥：%@\n有效期：%@";
-"license_restored" = "许可证已恢复";
+"copy_license_key" = "复制许可证密钥";
+"license_key_copied_to_clipboard" = "许可证密钥已复制。";
+"license_details" = "许可证详情";
+"license_details_disc" = "许可证密钥：%@\n\n到期时间：%@\n\n%@";
+"license_restored_successfully" = "许可证恢复成功。";
+"license_restored" = "已恢复";
 "restore_failed" = "恢复失败";
+"copied_key" = "已复制";
 
 /* enter license prompt */
 "enter_license_key" = "输入许可证密钥";
-"enter_license_key_disc" = "请输入您的许可证密钥进行验证。";
-"license_key_authenticated" = "许可证密钥已成功验证。到期日期：%@";
-"authentication_successful" = "身份验证成功";
-"key_used_on_another_device" = "许可证已在另一台设备上激活";
-"key_is_in_use_on_another_device" = "此许可证已在其他设备上使用。请使用其他许可证密钥。";
-"email_associated_with_another_key" = "电子邮件已经与另一个许可证关联";
-"authentication_failed" = "身份验证失败";
-"email_associated_with_defferent_key" = "此电子邮件已与其他许可证关联。请使用其他电子邮件或许可证密钥。";
+"enter_license_key_disc" = "请输入许可证密钥进行验证。";
+"license_key_authenticated" = "许可证验证成功。到期时间：%@";
+"authentication_successful" = "验证成功";
+"key_used_on_another_device" = "许可证已在其他设备激活。";
+"key_is_in_use_on_another_device" = "此许可证已在其他设备使用，请更换密钥。";
+"email_associated_with_another_key" = "邮箱已绑定其他许可证。";
+"authentication_failed" = "验证失败";
+"email_associated_with_defferent_key" = "邮箱绑定了不同的密钥，请更换邮箱或密钥。";
 "key_expired" = "密钥已过期";
 "license_expired" = "许可证已过期";
-"license_expired_disc" = "您的许可证密钥已过期。请续订。";
+"license_expired_disc" = "您的许可证已过期，请续订。";
 "license_verification_failed" = "许可证验证失败";
-"no_internet" = "无法联网";
-"no_internet_disc" = "您需要互联网连接来进行身份验证。";
-"license_disc" = "您输入的许可证密钥无效。";
+"no_internet" = "无网络连接";
+"no_internet_disc" = "需要网络连接以进行验证。";
+"license_disc" = "输入的许可证密钥无效。";
 
 /* other stuff */

@@ -1,0 +1,202 @@
+/* created on 21/02/2023 */
+/* by iKarwan */
+
+/* iNKillerPlus global switch */
+"GLOB_ENABLED" = "تفعيل عام";
+"GLOBAL_ENABLED_SWITCH" = "اضغط على الزر بالأعلى لتطبيق التغييرات.";
+
+/* downloding global switch */
+"DOWNLOADING" = "تفعيل ميزة التحميل";
+"GLOBAL_DOWNLOADING_SWITCH" = "أضف زرًا أو اضغط مطولًا على المنشور لتنزيله.";
+
+/* general section */
+"MAIN_UI" = "المنشورات";
+"STORIES" = "القصص";
+"reels" = "ريلز";
+"DIRECT_MESSG" = "الرسائل";
+"PROFILE" = "الملف الشخصي";
+"TAB_BAR_SECTION" = "الواجهة";
+"MISCELLANEOUS" = "عام";
+
+/* Feed section */
+"POST_DISC" = "منشور";
+"NO_ADS" = "بدون إعلانات ترويجية";
+"disable_refresh_feed" = "إيقاف تحديث الخلاصة";
+"disable_refresh_feed_disc" = "تعطيل التحديث التلقائي للخلاصة";
+"no_suggesation" = "بدون اقتراحات";
+"no_suggesation_disc" = "نظّف الصفحة وأزل الإعلانات، المقترحات، الريلز والذكاء الاصطناعي.";
+"R_IMAGE_POSTED_CORNER" = "زوايا المنشورات دائرية";
+"NO_SINGLE_TAP" = "تعطيل النقر مرة واحدة";
+"NO_SINGLE_TAP_DISC" = "يمنع فتح الفيديو بوضع ملء الشاشة عند النقر.";
+"NO_DOUBLE_TAP_LIKE" = "تعطيل الإعجاب بالنقر المزدوج";
+"SHOW_CONFIRM" = "إظهار تأكيد";
+"SHOW_CONFIRM_DISC" = "يطلب تأكيد قبل الإعجاب بالصور أو الفيديو.";
+"confirm_like_comment" = "تأكيد إعجاب بالتعليقات";
+"confirm_on_repost" = "تأكيد عند إعادة النشر";
+
+/* Stories section */
+"NO_STORY_AD" = "بدون إعلانات القصص";
+"HIDE_SEEN_MANUALLY" = "تحديد القصص يدويًا كمشاهدة";
+"HIDE_SEEN_MANUALLY_DISC" = "يضيف زرًا داخل عرض القصة لتحديدها كمشاهدة.";
+"HIDE_SEEN_MANUALLY2" = "تحديد القصص يدويًا 2";
+"HIDE_SEEN_MANUALLY_DISC2" = "يضيف مفتاح تشغيل يدوي داخل القصص.";
+"HIDE_QUICK_REACTION" = "إخفاء التفاعلات السريعة";
+"auto_advance" = "إيقاف التقدم التلقائي";
+"auto_advance_disc" = "إيقاف الانتقال التلقائي إلى القصة التالية";
+
+/* reels section */
+"disable_scroll" = "تعطيل التمرير";
+
+/* messages section */
+"message" = "رسالة";
+"unsend_message" = "الاحتفاظ بالرسائل المحذوفة";
+"unsend_message_disc" = "يمنع إنستغرام من حذف الرسائل ويضيف أيقونة إلغاء الإرسال.";
+"unsed" = "إلغاء الإرسال!";
+"unsend_disc" = "سيؤدي التحديث إلى حذف الرسائل الملغاة وإعادة تحميل البيانات.\n\nيتم المزامنة تلقائيًا ولا حاجة للتحديث اليدوي.";
+"refresh" = "تحديث";
+"unsend_at" = "تم إلغاء الإرسال في: %@!";
+"downloading_disc_dm" = "يضيف زر تحميل في أسفل المحادثة.";
+"hide_typing" = "إخفاء الكتابة...";
+"hide_typing_disc" = "يخفي مؤشر الكتابة داخل المحادثات.";
+"unlimit_replay" = "إعادة عرض غير محدودة";
+"unlimit_replay_disc" = "عرض الصور والفيديوهات بلا حدود.";
+
+/* Profile section */
+"SPOOF" = "تغيير الهوية...";
+"ACCOUNT_VERIFIED" = "حساب موثّق";
+"NO_DOUBLETAP_SWITCH" = "تعطيل التبديل بالنقر المزدوج";
+"NO_DOUBLETAP_SWITCH_DISC" = "يمنع التبديل بين الحسابات بالنقر المزدوج.";
+"NO_SUGGESTED_PROFILE" = "إخفاء اكتشف الأشخاص";
+"WHO_FOLLOWING" = "حالة المتابعة";
+"WHO_FOLLOWING_DISC" = "اعرف من يتابعك ومن لا.";
+"confirm_follow" = "تأكيد المتابعة";
+"confirm_follow_disc" = "يظهر تنبيه تأكيد قبل المتابعة.";
+
+/* Interface section */
+"NO_LONG_PRESS" = "تعطيل الضغط المطوّل على التبويبات";
+"HIDE_TABS" = "إخفاء التبويبات";
+"NO_EXPLORE" = "إخفاء تبويب الاستكشاف";
+"NO_CREATE" = "إخفاء تبويب الإنشاء";
+"NO_REEL" = "إخفاء تبويب الريلز";
+"HIDE_ALL_TAB" = "إخفاء جميع التبويبات";
+"USE_COMPACT" = "وضع استكشاف مضغوط";
+"USE_COMPACT_DISC" = "يُظهر فقط شريط البحث في تبويب الاستكشاف.";
+
+/* General section */
+"HIDE_SEEN_DM" = "تحديد الرسائل كمقروءة يدويًا";
+"NOTIFY_CALLING_DM" = "تأكيد عند الاتصال";
+"NOTIFY_CALLING_DM_DISC" = "يطلب تأكيد قبل إجراء مكالمة صوتية أو فيديو.";
+"NOTIFY_SCREENSHOOT_DM" = "منع لقطات الشاشة";
+"NOTIFY_SCREENSHOOT_DM_DISC" = "يعطل اكتشاف لقطات الشاشة في الوسائط.";
+"HIDE_SEEN_DM_DISC" = "يضيف زرًا داخل الرسائل لتحديدها كمقروءة.";
+"COPY_TXT" = "نسخ النص";
+"COPY_TEXT" = "نسخ النصوص";
+"COPY_TEXT_DISC" = "اضغط مطولًا لنسخ الوصف أو التعليقات أو النبذة.";
+
+/* global action title */
+"WELCOME_ALERT" = "لدخول الإعدادات، افتح ملفك واضغط على أيقونة الإعدادات أو اضغط مطولًا على زر الصفحة الرئيسية أو شعار إنستغرام.";
+"inkplus_settings" = "إعدادات iNKPlus";
+"OK" = "موافق";
+"YES" = "نعم";
+"NO" = "لا";
+"QUICK_LOOK" = "توسيع";
+"DOWNLOADING_IGPP" = "جارٍ التحميل...";
+"PLEASE_WAIT" = "يرجى الانتظار";
+"DOWNLOAD" = "تنزيل إلى المكتبة";
+"DOWNLOAD_SHARE" = "تنزيل ومشاركة";
+"DOWNLOAD_AND_SHARE" = "تنزيل ومشاركة";
+"VIDEO_OPTIONS" = "خيارات الوسائط";
+"CHOOSE_QUALITY" = "اختر الجودة";
+"SAVE_TO_PHOTO" = "حفظ في الصور";
+"SAVE_IMG" = "حفظ الصورة";
+"SAVE_PROFILE_IMG" = "حفظ صورة الملف الشخصي";
+"HD" = "تنزيل بجودة عالية";
+"SD" = "تنزيل بجودة عادية";
+"COPIENG_TEXT" = "نسخ النص";
+"COPIED" = "تم النسخ";
+"LIKING" = "إعجاب؟";
+"FOLLOW" = "متابعة؟";
+"CALL" = "اتصال؟";
+"FOLLOWING" = "يتابعك";
+"NOT_FOLLOWING" = "لا يتابعك";
+"CANCEL" = "إلغاء";
+"DISMISS" = "إغلاق";
+"DELETED" = "تم الحذف";
+"DOWNLOADING_START" = "جارٍ التنزيل";
+"CANCEL_HUD" = "إلغاء";
+"SAVED" = "تم الحفظ";
+"SUCCESS" = "تم بنجاح";
+"close" = "إغلاق";
+"Reposting" = "إعادة نشر؟";
+"SELECT_LANGUAGE" = "اختر اللغة";
+"FAQ" = "الأسئلة الشائعة";
+
+/* other || credits translation & links */
+"OTHER_TWEAKS" = "مشاريع أخرى";
+"CREDITS" = "المساهمون";
+"SPECIAL_THANK" = "شكر خاص";
+"icon_by" = "الأيقونة من تصميم";
+"LOCALIZATION" = "الترجمات";
+"DEVELOPER" = "المطور";
+
+/* clearCaches */
+"clearonstartup" = "مسح عند التشغيل";
+"clearcache" = "مسح الذاكرة المؤقتة";
+"On" = "تشغيل";
+"Off" = "إيقاف";
+"calculating" = "جارٍ الحساب...";
+
+/* checkForUpdates */
+"the_changelog" = "سجل التغييرات";
+"skip_version" = "تخطي هذا الإصدار";
+"updates_available" = "تحديث متاح";
+"new_version_available" = "يتوفر إصدار جديد من iNKillerPlus (%@). يُنصح بالبقاء محدثًا دائمًا.";
+
+/* promptForActivation */
+"license_option" = "خيارات الترخيص";
+"license_option_disc" = "اختر خيارًا:";
+"activate_new_license" = "تفعيل ترخيص جديد";
+"restore_license" = "استعادة الترخيص";
+"renew_license" = "تجديد الترخيص";
+"buy_license" = "شراء ترخيص";
+"activate_new_license_disc" = "أدخل بريدك الإلكتروني ورمز الترخيص.";
+"email" = "البريد الإلكتروني";
+"license_key" = "رمز الترخيص";
+"activate" = "تفعيل";
+"invalid_email" = "بريد غير صالح";
+"invalid_email_disc" = "يرجى إدخال بريد إلكتروني صالح.";
+"invalid_license" = "ترخيص غير صالح";
+"license_key_empty" = "رمز الترخيص لا يمكن أن يكون فارغًا.";
+"license_key_length_wrong" = "طول رمز الترخيص غير صحيح.\nيرجى إدخال رمز صالح.";
+
+/* promptForRestore */
+"restore_license_disc" = "أدخل البريد الإلكتروني المرتبط بالترخيص.";
+"restore" = "استعادة";
+"copy_license_key" = "نسخ رمز الترخيص";
+"license_key_copied_to_clipboard" = "تم نسخ رمز الترخيص.";
+"license_details" = "تفاصيل الترخيص";
+"license_details_disc" = "رمز الترخيص: %@\n\nانتهاء الصلاحية: %@\n\n%@";
+"license_restored_successfully" = "تمت استعادة الترخيص بنجاح.";
+"license_restored" = "تمت الاستعادة";
+"restore_failed" = "فشلت الاستعادة";
+"copied_key" = "تم النسخ";
+
+/* enter license prompt */
+"enter_license_key" = "أدخل رمز الترخيص";
+"enter_license_key_disc" = "أدخل رمز الترخيص للتحقق.";
+"license_key_authenticated" = "تم التحقق من الترخيص. ينتهي في: %@";
+"authentication_successful" = "تم التحقق بنجاح";
+"key_used_on_another_device" = "الترخيص مستخدم على جهاز آخر.";
+"key_is_in_use_on_another_device" = "هذا الترخيص قيد الاستخدام على جهاز آخر. استخدم رمزًا مختلفًا.";
+"email_associated_with_another_key" = "البريد مرتبط بترخيص آخر.";
+"authentication_failed" = "فشل التحقق";
+"email_associated_with_defferent_key" = "البريد مرتبط برمز مختلف. استخدم بريدًا أو رمزًا آخر.";
+"key_expired" = "انتهت صلاحية الرمز";
+"license_expired" = "الترخيص منتهي";
+"license_expired_disc" = "انتهت صلاحية الترخيص. يرجى التجديد.";
+"license_verification_failed" = "فشل التحقق من الترخيص";
+"no_internet" = "لا يوجد إنترنت";
+"no_internet_disc" = "الاتصال بالإنترنت مطلوب للتحقق.";
+"license_disc" = "رمز الترخيص الذي أدخلته غير صالح.";
+
+/* other stuff */
