@@ -11,7 +11,7 @@
 
 /* downloding global switch */
 "DOWNLOADING" = "Enable Download Feature";
-"GLOBAL_DOWNLOADING_SWITCH" = "Add a button or long-press on post to download.";
+"GLOBAL_DOWNLOADING_SWITCH" = "Add a button or long-press on a post.";
 
 /* general section */
 "MAIN_UI" = "Feed";
@@ -132,8 +132,35 @@
 "SUCCESS" = "Success";
 "close" = "Close";
 "Reposting" = "Reposting?";
+"AUTO_LANGUAGE" = "Auto";
 "SELECT_LANGUAGE" = "Select Language";
 "FAQ" = "FAQ";
+
+/* icon themes */
+"icon_changed" = "You have changed the\nicon for \"Instagram\".";
+"select_icon_theme" = "Select Icon Theme";
+
+/* fake location */
+"fake_location" = "Fake Location";
+"save" = "Save";
+"location_name" = "Location Name";
+"enter_location_name" = "Country: %@\nEnter a name for this location";
+"unknown" = "Unknown";
+"save_location" = "Save Location";
+"getting_location_info" = "Getting location info...";
+"loading" = "Loading...";
+"selected_location" = "Selected Location";
+"delete" = "Delete";
+"saved_location_disc" = "Manage your saved locations and set one as your active location. Swipe to remove any saved entry.";
+"enable_fake_location_disc" = "Simulate a custom location within Instagram instead of your actual one. Adds a convenient button on the Friends Map to quickly switch locations.";
+"SAVED_LOCATIONS" = "SAVED LOCATIONS";
+"search_places" = "Search places";
+"select_location" = "Select Location";
+"custom_location" = "Custom Location";
+"system_default" = "System Default";
+"current_location" = "Current Location";
+"enable_fake_location" = "Enable Fake Location";
+
 
 /* other || credits translation & links */
 "OTHER_TWEAKS" = "Other Projects";

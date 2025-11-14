@@ -129,8 +129,34 @@
 "SUCCESS" = "Başarılı";
 "close" = "Kapat";
 "Reposting" = "Yeniden paylaşılıyor?";
+"AUTO_LANGUAGE" = "Otomatik";
 "SELECT_LANGUAGE" = "Dil seç";
 "FAQ" = "SSS";
+
+/* icon themes */
+"icon_changed" = "“Instagram” için\noù değiştirildi.";
+"select_icon_theme" = "Simge temasını seç";
+
+/* fake location */
+"fake_location" = "Sahte Konum";
+"save" = "Kaydet";
+"location_name" = "Konum Adı";
+"enter_location_name" = "Ülke: %@\nBu konum için bir ad girin";
+"unknown" = "Bilinmiyor";
+"save_location" = "Konumu Kaydet";
+"getting_location_info" = "Konum bilgisi alınıyor...";
+"loading" = "Yükleniyor...";
+"selected_location" = "Seçilen Konum";
+"delete" = "Sil";
+"saved_location_disc" = "Kaydedilen konumlarını yönet ve birini aktif konum olarak ayarla. Silmek için kaydır.";
+"enable_fake_location_disc" = "Gerçek konumun yerine Instagram içinde özel bir konum simüle eder. Arkadaş Haritasına hızlı geçiş için bir buton ekler.";
+"SAVED_LOCATIONS" = "KAYDEDİLEN KONUMLAR";
+"search_places" = "Yer ara";
+"select_location" = "Konum seç";
+"custom_location" = "Özel Konum";
+"system_default" = "Sistem Varsayılanı";
+"current_location" = "Mevcut Konum";
+"enable_fake_location" = "Sahte Konumu Etkinleştir";
 
 /* other || credits translation & links */
 "OTHER_TWEAKS" = "Diğer projeler";

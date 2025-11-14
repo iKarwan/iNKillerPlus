@@ -129,8 +129,34 @@
 "SUCCESS" = "Éxito";
 "close" = "Cerrar";
 "Reposting" = "¿Re-publicar?";
+"AUTO_LANGUAGE" = "Automático";
 "SELECT_LANGUAGE" = "Seleccionar idioma";
 "FAQ" = "Preguntas frecuentes";
+
+/* icon themes */
+"icon_changed" = "Has cambiado el ícono\npara \"Instagram\".";
+"select_icon_theme" = "Seleccionar tema de ícono";
+
+/* fake location */
+"fake_location" = "Ubicación falsa";
+"save" = "Guardar";
+"location_name" = "Nombre de la ubicación";
+"enter_location_name" = "País: %@\nIngresa un nombre para esta ubicación";
+"unknown" = "Desconocido";
+"save_location" = "Guardar ubicación";
+"getting_location_info" = "Obteniendo información de ubicación...";
+"loading" = "Cargando...";
+"selected_location" = "Ubicación seleccionada";
+"delete" = "Eliminar";
+"saved_location_disc" = "Administra tus ubicaciones guardadas y establece una como activa. Desliza para eliminar.";
+"enable_fake_location_disc" = "Simula una ubicación personalizada en Instagram en lugar de la real. Añade un botón en el mapa de amigos para cambiar rápidamente.";
+"SAVED_LOCATIONS" = "UBICACIONES GUARDADAS";
+"search_places" = "Buscar lugares";
+"select_location" = "Seleccionar ubicación";
+"custom_location" = "Ubicación personalizada";
+"system_default" = "Predeterminado del sistema";
+"current_location" = "Ubicación actual";
+"enable_fake_location" = "Activar ubicación falsa";
 
 /* other || credits translation & links */
 "OTHER_TWEAKS" = "Otros proyectos";

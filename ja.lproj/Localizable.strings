@@ -1,0 +1,229 @@
+/* Japanese (ja) */
+/* created on 21/02/2023 */
+/* by iKarwan */
+
+/* iNKillerPlus global switch */
+"GLOB_ENABLED" = "グローバル有効";
+"GLOBAL_ENABLED_SWITCH" = "右上のボタンをタップして変更を適用してください。";
+
+/* downloading global switch */
+"DOWNLOADING" = "ダウンロード機能を有効にする";
+"GLOBAL_DOWNLOADING_SWITCH" = "投稿上でボタンを追加または長押ししてください。";
+
+/* general section */
+"MAIN_UI" = "フィード";
+"STORIES" = "ストーリーズ";
+"reels" = "リール";
+"DIRECT_MESSG" = "メッセージ";
+"PROFILE" = "プロフィール";
+"TAB_BAR_SECTION" = "インターフェース";
+"MISCELLANEOUS" = "一般";
+
+/* Feed section */
+"POST_DISC" = "投稿";
+"NO_ADS" = "プロモ広告なし";
+"disable_refresh_feed" = "フィードの自動更新を無効にする";
+"disable_refresh_feed_disc" = "フィードの自動更新を停止します";
+"no_suggesation" = "おすすめ投稿なし";
+"no_suggesation_disc" = "フィードをクリーンにして AI、リール、スレッド、おすすめ投稿を削除します。";
+"R_IMAGE_POSTED_CORNER" = "投稿の角を丸くする";
+"NO_SINGLE_TAP" = "シングルタップ無効";
+"NO_SINGLE_TAP_DISC" = "シングルタップによる動画の全画面表示を防ぎます。";
+"NO_DOUBLE_TAP_LIKE" = "ダブルタップでいいねを無効";
+"SHOW_CONFIRM" = "確認を表示";
+"SHOW_CONFIRM_DISC" = "写真や動画に「いいね」する前に確認を促します。";
+"confirm_like_comment" = "コメントのいいねを確認";
+"confirm_on_repost" = "再投稿前に確認";
+
+/* Stories section */
+"NO_STORY_AD" = "ストーリー広告なし";
+"HIDE_SEEN_MANUALLY" = "ストーリーを手動で既読にする";
+"HIDE_SEEN_MANUALLY_DISC" = "ストーリー表示内に既読ボタンを追加します。";
+"HIDE_SEEN_MANUALLY2" = "ストーリーを手動で既読 2";
+"HIDE_SEEN_MANUALLY_DISC2" = "ストーリー表示内に手動オン／オフ切替を追加します。";
+"HIDE_QUICK_REACTION" = "クイックリアクションを非表示";
+"auto_advance" = "自動進行を停止";
+"auto_advance_disc" = "次のストーリーへの自動移動を停止します";
+
+/* reels section */
+"disable_scroll" = "スクロールを無効化";
+
+/* messages section */
+"message" = "メッセージ";
+"unsend_message" = "送信取り消しメッセージを保持";
+"unsend_message_disc" = "Instagram によるメッセージ削除を防ぎ、チャット内に未送信アイコンを追加します。";
+"unsed" = "取り消し！";
+"unsend_disc" = "リフレッシュすると未送信メッセージが削除され、データが再読み込みされます。\n\nメッセージは自動同期されるため、手動リフレッシュは必要ありません。";
+"refresh" = "更新";
+"unsend_at" = "メッセージ送信取消 at: %@!";
+"downloading_disc_dm" = "右下隅にダウンロードボタンを追加します。";
+"hide_typing" = "入力中を非表示…";
+"hide_typing_disc" = "チャットで「入力中」の表示を隠します。";
+"unlimit_replay" = "リプレイ無制限";
+"unlimit_replay_disc" = "写真・動画を制限なく視聴できます。";
+
+/* Profile section */
+"SPOOF" = "なりすまし中…";
+"ACCOUNT_VERIFIED" = "アカウント認証済み";
+"NO_DOUBLETAP_SWITCH" = "ダブルタップ切り替えを無効";
+"NO_DOUBLETAP_SWITCH_DISC" = "ダブルタップでアカウント切り替えを防ぎます。";
+"NO_SUGGESTED_PROFILE" = "フォロー発見を非表示";
+"WHO_FOLLOWING" = "フォロー状況";
+"WHO_FOLLOWING_DISC" = "あなたをフォローしているかを確認できます。";
+"confirm_follow" = "フォロー前に確認";
+"confirm_follow_disc" = "フォロー前に確認アラートを表示します。";
+
+/* Interface section */
+"NO_LONG_PRESS" = "タブのロングプレスを無効";
+"HIDE_TABS" = "タブを非表示";
+"NO_EXPLORE" = "探索タブを非表示";
+"NO_CREATE" = "作成タブを非表示";
+"NO_REEL" = "リールタブを非表示";
+"HIDE_ALL_TAB" = "全タブを非表示";
+"USE_COMPACT" = "コンパクト探索タブ";
+"USE_COMPACT_DISC" = "探索ビューをクリアし、検索バーのみを表示します。";
+
+/* General section */
+"HIDE_SEEN_DM" = "DMを手動で既読にする";
+"NOTIFY_CALLING_DM" = "通話時に確認";
+"NOTIFY_CALLING_DM_DISC" = "音声またはビデオ通話の前に確認を求めます。";
+"NOTIFY_SCREENSHOOT_DM" = "スクリーンショット防止";
+"NOTIFY_SCREENSHOOT_DM_DISC" = "メディアのスクリーンショット検出を無効にします。";
+"HIDE_SEEN_DM_DISC" = "DMビューに既読ボタンを追加します。";
+"COPY_TXT" = "テキストをコピー";
+"COPY_TEXT" = "テキストをコピー";
+"COPY_TEXT_DISC" = "長押しで説明・コメント・プロフィール文をコピーできます。";
+
+/* global action title */
+"WELCOME_ALERT" = "設定にアクセスするには、プロフィールを開いて歯車アイコンをタップ、またはホームボタン／Instagramロゴを長押ししてください。";
+"inkplus_settings" = "iNKPlus 設定";
+"OK" = "OK";
+"YES" = "はい";
+"NO" = "いいえ";
+"QUICK_LOOK" = "拡大表示";
+"DOWNLOADING_IGPP" = "ダウンロード中…";
+"PLEASE_WAIT" = "お待ちください";
+"DOWNLOAD" = "ライブラリにダウンロード";
+"DOWNLOAD_SHARE" = "ダウンロード＆シェア";
+"DOWNLOAD_AND_SHARE" = "ダウンロード＆シェア";
+"VIDEO_OPTIONS" = "メディアオプション";
+"CHOOSE_QUALITY" = "画質を選択";
+"SAVE_TO_PHOTO" = "写真に保存";
+"SAVE_IMG" = "画像を保存";
+"SAVE_PROFILE_IMG" = "プロフィール画像を保存";
+"HD" = "HDダウンロード";
+"SD" = "SDダウンロード";
+"COPIENG_TEXT" = "テキストをコピー";
+"COPIED" = "コピーしました";
+"LIKING" = "いいねしますか？";
+"FOLLOW" = "フォロー中？";
+"CALL" = "発信中？";
+"FOLLOWING" = "フォローされています";
+"NOT_FOLLOWING" = "フォローされていません";
+"CANCEL" = "キャンセル";
+"DISMISS" = "閉じる";
+"DELETED" = "削除済";
+"DOWNLOADING_START" = "ダウンロード開始";
+"CANCEL_HUD" = "キャンセル";
+"SAVED" = "保存済";
+"SUCCESS" = "成功";
+"close" = "閉じる";
+"Reposting" = "再投稿しますか？";
+"AUTO_LANGUAGE" = "自動";
+"SELECT_LANGUAGE" = "言語を選択";
+"FAQ" = "よくある質問";
+
+/* icon themes */
+"icon_changed" = "「Instagram」の\nアイコンを変更しました。";
+"select_icon_theme" = "アイコンテーマを選択";
+
+/* fake location */
+"fake_location" = "偽の位置情報";
+"save" = "保存";
+"location_name" = "場所名";
+"enter_location_name" = "国: %@\nこの場所の名前を入力してください";
+"unknown" = "不明";
+"save_location" = "場所を保存";
+"getting_location_info" = "位置情報を取得しています...";
+"loading" = "読み込み中...";
+"selected_location" = "選択した場所";
+"delete" = "削除";
+"saved_location_disc" = "保存した場所を管理し、アクティブな場所として設定できます。スワイプで削除できます。";
+"enable_fake_location_disc" = "実際の位置情報の代わりにInstagram内でカスタム位置情報を使用します。友達マップで素早く切り替えるボタンが追加されます。";
+"SAVED_LOCATIONS" = "保存された場所";
+"search_places" = "場所を検索";
+"select_location" = "場所を選択";
+"custom_location" = "カスタム場所";
+"system_default" = "システムデフォルト";
+"current_location" = "現在地";
+"enable_fake_location" = "偽の位置情報を有効にする";
+
+/* other || credits translation & links */
+"OTHER_TWEAKS" = "その他のプロジェクト";
+"CREDITS" = "貢献者";
+"SPECIAL_THANK" = "特別な感謝";
+"icon_by" = "アイコン制作";
+"LOCALIZATION" = "ローカリゼーション";
+"DEVELOPER" = "開発者";
+
+/* clearCaches */
+"clearonstartup" = "起動時にキャッシュをクリア";
+"clearcache" = "キャッシュをクリア";
+"On" = "オン";
+"Off" = "オフ";
+"calculating" = "計算中…";
+
+/* checkForUpdates */
+"the_changelog" = "変更履歴";
+"skip_version" = "このバージョンをスキップ";
+"updates_available" = "更新があります";
+"new_version_available" = "iNKillerPlus の新しいバージョン (%@) が利用可能です。常に最新にすることを推奨します。";
+
+/* promptForActivation */
+"license_option" = "ライセンスオプション";
+"license_option_disc" = "オプションを選択してください：";
+"activate_new_license" = "新しいライセンスを有効化";
+"restore_license" = "ライセンスを復元";
+"renew_license" = "ライセンスを更新";
+"buy_license" = "ライセンスを購入";
+"activate_new_license_disc" = "メールアドレスとライセンスキーを入力してください。";
+"email" = "メールアドレス";
+"license_key" = "ライセンスキー";
+"activate" = "有効化";
+"invalid_email" = "無効なメールアドレス";
+"invalid_email_disc" = "有効なメールアドレスを入力してください。";
+"invalid_license" = "無効なライセンス";
+"license_key_empty" = "ライセンスキーを空にできません。";
+"license_key_length_wrong" = "ライセンスキーの長さが不正です。\n有効なキーを入力してください。";
+
+/* promptForRestore */
+"restore_license_disc" = "ライセンスに関連するメールアドレスを入力してください。";
+"restore" = "復元";
+"copy_license_key" = "ライセンスキーをコピー";
+"license_key_copied_to_clipboard" = "ライセンスキーがクリップボードにコピーされました。";
+"license_details" = "ライセンス詳細";
+"license_details_disc" = "ライセンスキー: %@\n\n有効期限: %@\n\n%@";
+"license_restored_successfully" = "ライセンスが正常に復元されました。";
+"license_restored" = "ライセンス復元済";
+"restore_failed" = "復元に失敗しました";
+"copied_key" = "クリップボードにコピーされました";
+
+/* enter license prompt */
+"enter_license_key" = "ライセンスキーを入力してください";
+"enter_license_key_disc" = "認証のためにライセンスキーを入力してください。";
+"license_key_authenticated" = "ライセンスが認証されました。期限: %@";
+"authentication_successful" = "認証成功";
+"key_used_on_another_device" = "このライセンスは既に他のデバイスで使用されています。";
+"key_is_in_use_on_another_device" = "このライセンスは別のデバイスで使用中です。別のキーをご利用ください。";
+"email_associated_with_another_key" = "このメールアドレスは既に別のライセンスに紐づいています。";
+"authentication_failed" = "認証失敗";
+"email_associated_with_defferent_key" = "このメールアドレスは別のキーに関連付けられています。別のメールまたはキーをご使用ください。";
+"key_expired" = "キーが期限切れです";
+"license_expired" = "ライセンスが期限切れです";
+"license_expired_disc" = "ライセンスの有効期限が切れています。更新してください。";
+"license_verification_failed" = "ライセンス認証に失敗しました";
+"no_internet" = "インターネット未接続";
+"no_internet_disc" = "認証にはインターネット接続が必要です。";
+"license_disc" = "入力されたライセンスキーは無効です。";
+
+/* other stuff */

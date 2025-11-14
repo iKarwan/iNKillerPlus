@@ -128,8 +128,34 @@
 "SUCCESS" = "تم بنجاح";
 "close" = "إغلاق";
 "Reposting" = "إعادة نشر؟";
+"AUTO_LANGUAGE" = "تلقائي";
 "SELECT_LANGUAGE" = "اختر اللغة";
 "FAQ" = "الأسئلة الشائعة";
+
+/* icon themes */
+"icon_changed" = "لقد قمت بتغيير\nأيقونة \"Instagram\".";
+"select_icon_theme" = "اختر نمط الأيقونة";
+
+/* fake location */
+"fake_location" = "موقع وهمي";
+"save" = "حفظ";
+"location_name" = "اسم الموقع";
+"enter_location_name" = "الدولة: %@\nأدخل اسمًا لهذا الموقع";
+"unknown" = "غير معروف";
+"save_location" = "حفظ الموقع";
+"getting_location_info" = "جارٍ الحصول على معلومات الموقع...";
+"loading" = "جارٍ التحميل...";
+"selected_location" = "الموقع المحدد";
+"delete" = "حذف";
+"saved_location_disc" = "إدارة المواقع المحفوظة وتعيين أحدها كموقع نشط. اسحب لحذف أي موقع.";
+"enable_fake_location_disc" = "قم بمحاكاة موقع مخصص داخل إنستغرام بدلًا من موقعك الحقيقي. يضيف زرًا في خريطة الأصدقاء للتبديل السريع.";
+"SAVED_LOCATIONS" = "المواقع المحفوظة";
+"search_places" = "ابحث عن الأماكن";
+"select_location" = "اختر موقعًا";
+"custom_location" = "موقع مخصص";
+"system_default" = "إعدادات النظام";
+"current_location" = "الموقع الحالي";
+"enable_fake_location" = "تفعيل الموقع الوهمي";
 
 /* other || credits translation & links */
 "OTHER_TWEAKS" = "مشاريع أخرى";

@@ -128,8 +128,34 @@
 "SUCCESS" = "Gelukt";
 "close" = "Sluiten";
 "Reposting" = "Opnieuw plaatsen?";
+"AUTO_LANGUAGE" = "Automatisch";
 "SELECT_LANGUAGE" = "Taal selecteren";
 "FAQ" = "Veelgestelde vragen";
+
+/* icon themes */
+"icon_changed" = "Je hebt het pictogram\nvoor \"Instagram\" gewijzigd.";
+"select_icon_theme" = "Pictogramthema kiezen";
+
+/* fake location */
+"fake_location" = "Valse locatie";
+"save" = "Opslaan";
+"location_name" = "Locatienaam";
+"enter_location_name" = "Land: %@\nVoer een naam in voor deze locatie";
+"unknown" = "Onbekend";
+"save_location" = "Locatie opslaan";
+"getting_location_info" = "Locatie-informatie ophalen...";
+"loading" = "Laden...";
+"selected_location" = "Geselecteerde locatie";
+"delete" = "Verwijderen";
+"saved_location_disc" = "Beheer je opgeslagen locaties en stel er één in als actieve locatie. Veeg om te verwijderen.";
+"enable_fake_location_disc" = "Simuleer een aangepaste locatie in Instagram in plaats van je echte locatie. Er wordt een knop toegevoegd op de vriendenkaart om snel te wisselen.";
+"SAVED_LOCATIONS" = "OPGESLAGEN LOCATIES";
+"search_places" = "Plaatsen zoeken";
+"select_location" = "Locatie kiezen";
+"custom_location" = "Aangepaste locatie";
+"system_default" = "Systeemstandaard";
+"current_location" = "Huidige locatie";
+"enable_fake_location" = "Valse locatie inschakelen";
 
 /* other || credits translation & links */
 "OTHER_TWEAKS" = "Andere projecten";

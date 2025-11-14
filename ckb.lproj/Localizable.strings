@@ -67,10 +67,10 @@
 "NO_DOUBLETAP_SWITCH" = "قەدەغەکردنی دوو کرتە بۆ گۆڕینی ئەکاونت";
 "NO_DOUBLETAP_SWITCH_DISC" = "ڕێگادەگرێت لە گۆڕینی ئەکاونت بە دوو کرتە.";
 "NO_SUGGESTED_PROFILE" = "شاردنەوەی 'کەسانی پێشنیارکراو'";
-"WHO_FOLLOWING" = "بارودۆخی شوێندەوە";
-"WHO_FOLLOWING_DISC" = "بزانە کێ شوێنت کردووە و کێ نەکردووە.";
-"confirm_follow" = "دڵنیابوون لە شوێندنەوە";
-"confirm_follow_disc" = "پیشاندانی پەیامێکی دڵنیابوون پێش شوێندنەوە.";
+"WHO_FOLLOWING" = "بارودۆخی شوێن كه وتن";
+"WHO_FOLLOWING_DISC" = "بزانە کێ شوێنت که وتوه و کێ نە كوتوه.";
+"confirm_follow" = "دڵنیابوون لە شوێن كه وتن";
+"confirm_follow_disc" = "پیشاندانی پەیامێکی دڵنیابوون پێش شوێن كه وتن.";
 
 /* Interface section */
 "NO_LONG_PRESS" = "قەدەغەکردنی کرتەی درێژ لە سەر تابی نیشاندان";
@@ -128,8 +128,34 @@
 "SUCCESS" = "سەرکەوتوو";
 "close" = "داخستن";
 "Reposting" = "دووبارە بڵاو دەکەیتەوە؟";
+"AUTO_LANGUAGE" = "خۆکار";
 "SELECT_LANGUAGE" = "زمان هەڵبژێرە";
 "FAQ" = "پرسیار و وەڵام";
+
+/* icon themes */
+"icon_changed" = "تۆ ئایكۆنی\n\"Instagram\" گۆڕی.";
+"select_icon_theme" = "هەڵبژاردنی ڕووخساری ئایكۆن";
+
+/* fake location */
+"fake_location" = "شوێنی ساختە";
+"save" = "هەڵگرتن";
+"location_name" = "ناوی شوێن";
+"enter_location_name" = "وڵات: %@\nناوی ئەم شوێنە بنوسە";
+"unknown" = "نەزانراو";
+"save_location" = "هەڵگرتنی شوێن";
+"getting_location_info" = "وەرگرتنی زانیاری شوێن...";
+"loading" = "لە باركردن...";
+"selected_location" = "شوێنی هەڵبژێراو";
+"delete" = "سڕینەوە";
+"saved_location_disc" = "شوێنە هەڵگراوەکان بەڕێوەببە و یەكێکیان وەک شوێنی كارای خۆت دیاری بكە. بە سوور بچۆ سڕینەوە.";
+"enable_fake_location_disc" = "شوێنێكی ساختەت بخە ناو Instagram لەبری شوێنی ڕاستەقینە. دوگمەیەک زیاد دەکات بۆ گۆڕینی خێرا لە نەخشەی هاوڕێکان.";
+"SAVED_LOCATIONS" = "شوێنە هەڵگراوەکان";
+"search_places" = "گەڕان بۆ شوێن";
+"select_location" = "شوێن هەڵبژێرە";
+"custom_location" = "شوێنی تایبەت";
+"system_default" = "بنەڕەتی سیستەم";
+"current_location" = "شوێنی ئێستا";
+"enable_fake_location" = "چالاککردنی شوێنی ساختە";
 
 /* other || credits translation & links */
 "OTHER_TWEAKS" = "پڕۆژەی تر";
