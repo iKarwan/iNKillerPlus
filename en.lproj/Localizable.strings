@@ -139,6 +139,13 @@
 /* icon themes */
 "icon_changed" = "You have changed the\nicon for \"Instagram\".";
 "select_icon_theme" = "Select Icon Theme";
+"default" = "Default";
+"fire" = "Fire";
+"floral" = "Floral";
+"kpop" = "Kpop";
+"metal" = "Metal";
+"neon" = "Neon";
+"slime" = "Slime";
 
 /* fake location */
 "fake_location" = "Fake Location";

@@ -135,6 +135,13 @@
 /* icon themes */
 "icon_changed" = "تۆ ئایكۆنی\n\"Instagram\" گۆڕی.";
 "select_icon_theme" = "هەڵبژاردنی ڕووخساری ئایكۆن";
+"default" = "بنەڕەتی";
+"fire" = "ئاگر";
+"floral" = "گول";
+"kpop" = "K-Pop";
+"metal" = "مەتاڵ";
+"neon" = "نیۆن";
+"slime" = "سلایم";
 
 /* fake location */
 "fake_location" = "شوێنی ساختە";

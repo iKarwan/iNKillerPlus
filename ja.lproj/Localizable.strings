@@ -136,6 +136,13 @@
 /* icon themes */
 "icon_changed" = "「Instagram」の\nアイコンを変更しました。";
 "select_icon_theme" = "アイコンテーマを選択";
+"default" = "デフォルト";
+"fire" = "ファイア";
+"floral" = "フローラル";
+"kpop" = "K-POP";
+"metal" = "メタル";
+"neon" = "ネオン";
+"slime" = "スライム";
 
 /* fake location */
 "fake_location" = "偽の位置情報";

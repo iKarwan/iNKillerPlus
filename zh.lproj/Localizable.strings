@@ -136,6 +136,13 @@
 /* icon themes */
 "icon_changed" = "你已更改\n“Instagram”的图标。";
 "select_icon_theme" = "选择图标主题";
+"default" = "默认";
+"fire" = "火焰";
+"floral" = "花卉";
+"kpop" = "K-Pop";
+"metal" = "金属";
+"neon" = "霓虹";
+"slime" = "史莱姆";
 
 /* fake location */
 "fake_location" = "虚拟位置";

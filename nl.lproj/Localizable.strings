@@ -135,6 +135,13 @@
 /* icon themes */
 "icon_changed" = "Je hebt het pictogram\nvoor \"Instagram\" gewijzigd.";
 "select_icon_theme" = "Pictogramthema kiezen";
+"default" = "Standaard";
+"fire" = "Vuur";
+"floral" = "Floraal";
+"kpop" = "K-Pop";
+"metal" = "Metaal";
+"neon" = "Neon";
+"slime" = "Slijm";
 
 /* fake location */
 "fake_location" = "Valse locatie";

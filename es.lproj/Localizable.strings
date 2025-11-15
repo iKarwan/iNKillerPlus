@@ -136,6 +136,13 @@
 /* icon themes */
 "icon_changed" = "Has cambiado el ícono\npara \"Instagram\".";
 "select_icon_theme" = "Seleccionar tema de ícono";
+"default" = "Predeterminado";
+"fire" = "Fuego";
+"floral" = "Floral";
+"kpop" = "K-Pop";
+"metal" = "Metal";
+"neon" = "Neón";
+"slime" = "Slime";
 
 /* fake location */
 "fake_location" = "Ubicación falsa";

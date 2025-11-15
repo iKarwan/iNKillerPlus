@@ -136,6 +136,13 @@
 /* icon themes */
 "icon_changed" = "“Instagram” için\noù değiştirildi.";
 "select_icon_theme" = "Simge temasını seç";
+"default" = "Varsayılan";
+"fire" = "Ateş";
+"floral" = "Çiçek";
+"kpop" = "K-Pop";
+"metal" = "Metal";
+"neon" = "Neon";
+"slime" = "Slime";
 
 /* fake location */
 "fake_location" = "Sahte Konum";

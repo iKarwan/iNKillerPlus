@@ -135,6 +135,13 @@
 /* icon themes */
 "icon_changed" = "لقد قمت بتغيير\nأيقونة \"Instagram\".";
 "select_icon_theme" = "اختر نمط الأيقونة";
+"default" = "افتراضي";
+"fire" = "نار";
+"floral" = "زهور";
+"kpop" = "كي-بوب";
+"metal" = "معدن";
+"neon" = "نيون";
+"slime" = "سلايم";
 
 /* fake location */
 "fake_location" = "موقع وهمي";
