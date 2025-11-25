@@ -55,11 +55,12 @@
 "unsend_disc" = "Vernieuwen verwijdert ongestuurde berichten en laadt opnieuw.\n\nBerichten worden automatisch gesynchroniseerd, geen handmatige vernieuwing nodig.";
 "refresh" = "Vernieuwen";
 "unsend_at" = "Bericht verwijderd op: %@!";
-"downloading_disc_dm" = "Voegt een downloadknop toe rechtsonder in het gesprek.";
+"downloading_disc_dm" = "Voeg de lang-ingedrukt houden methode toe om te downloaden.";
 "hide_typing" = "Typen verbergen…";
 "hide_typing_disc" = "Verbergt de typindicator in chats.";
 "unlimit_replay" = "Onbeperkt afspelen";
-"unlimit_replay_disc" = "Bekijk foto’s en video’s onbeperkt.";
+"unlimit_replay_disc" = "Bekijk foto’s en video’s zonder beperkingen.\nvoeg een waarschuwing toe bij lang indrukken";
+"MARK_AS_SEEN" = "Markeren als bekeken";
 
 /* Profile section */
 "SPOOF" = "Spoofen…";

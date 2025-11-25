@@ -56,11 +56,12 @@
 "unsend_disc" = "刷新将删除所有已撤回消息并重新加载。\n\n消息会自动同步，无需手动刷新。";
 "refresh" = "刷新";
 "unsend_at" = "消息撤回时间：%@！";
-"downloading_disc_dm" = "在聊天右下角添加下载按钮。";
+"downloading_disc_dm" = "添加长按下载的方法。";
 "hide_typing" = "隐藏正在输入…";
 "hide_typing_disc" = "隐藏聊天中的输入状态。";
 "unlimit_replay" = "无限重播";
-"unlimit_replay_disc" = "可无限次查看照片和视频。";
+"unlimit_replay_disc" = "无限制查看照片和视频。\n长按时添加提醒标签";
+"MARK_AS_SEEN" = "标记为已查看";
 
 /* Profile section */
 "SPOOF" = "伪装中…";

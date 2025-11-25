@@ -59,11 +59,12 @@
 "unsend_disc" = "Refreshing will delete unsent messages and reload data.\n\nMessages sync automatically; no manual refresh needed.";
 "refresh" = "Refresh";
 "unsend_at" = "Message unsent at: %@!";
-"downloading_disc_dm" = "Adds a download button at the bottom-right corner.";
+"downloading_disc_dm" = "add long-press method to download.";
 "hide_typing" = "Hide Typing…";
 "hide_typing_disc" = "Hides the typing indicator in chats.";
 "unlimit_replay" = "Unlimited Replay";
-"unlimit_replay_disc" = "View photos and videos without limits.";
+"unlimit_replay_disc" = "View photos and videos without limits.\nadd an alert label to the long-Press";
+"MARK_AS_SEEN" = "Mark as Seen";
 
 /* Profile section */
 "SPOOF" = "Spoofing…";

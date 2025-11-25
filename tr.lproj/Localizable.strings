@@ -56,11 +56,12 @@
 "unsend_disc" = "Yenileme, silinen mesajları temizler ve verileri yeniler.\n\nMesajlar otomatik senkronize edilir, manuel yenilemeye gerek yok.";
 "refresh" = "Yenile";
 "unsend_at" = "Mesaj şu saatte silindi: %@!";
-"downloading_disc_dm" = "Sağ alt köşeye indirme düğmesi ekler.";
+"downloading_disc_dm" = "İndirmek için uzun basma yöntemini ekleyin.";
 "hide_typing" = "Yazıyor... gizle";
 "hide_typing_disc" = "Sohbette yazıyor göstergesini gizler.";
 "unlimit_replay" = "Sınırsız tekrar";
-"unlimit_replay_disc" = "Fotoğraf ve videoları sınırsız izle.";
+"unlimit_replay_disc" = "Fotoğrafları ve videoları limitsiz görüntüleyin.\nuzun basınca bir uyarı etiketi ekleyin";
+"MARK_AS_SEEN" = "Görüldü olarak işaretle";
 
 /* Profile section */
 "SPOOF" = "Kimlik değiştirme...";

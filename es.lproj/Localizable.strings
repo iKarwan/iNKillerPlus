@@ -56,11 +56,12 @@
 "unsend_disc" = "Actualizar eliminará mensajes anulados y recargará los datos.\n\nLos mensajes se sincronizan automáticamente; no necesitas refrescar manualmente.";
 "refresh" = "Actualizar";
 "unsend_at" = "Mensaje anulado en: %@!";
-"downloading_disc_dm" = "Agrega un botón de descarga en la esquina inferior derecha.";
+"downloading_disc_dm" = "Añade el método de pulsación prolongada para descargar.";
 "hide_typing" = "Ocultar escribiendo...";
 "hide_typing_disc" = "Oculta el indicador de escritura en los chats.";
 "unlimit_replay" = "Repetir sin límite";
-"unlimit_replay_disc" = "Mira fotos y videos sin restricciones.";
+"unlimit_replay_disc" = "Ver fotos y videos sin límites.\nagrega una alerta al mantener presionado";
+"MARK_AS_SEEN" = "Marcar como visto";
 
 /* Profile section */
 "SPOOF" = "Suplantando...";

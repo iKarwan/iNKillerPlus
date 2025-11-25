@@ -56,11 +56,12 @@
 "unsend_disc" = "リフレッシュすると未送信メッセージが削除され、データが再読み込みされます。\n\nメッセージは自動同期されるため、手動リフレッシュは必要ありません。";
 "refresh" = "更新";
 "unsend_at" = "メッセージ送信取消 at: %@!";
-"downloading_disc_dm" = "右下隅にダウンロードボタンを追加します。";
+"downloading_disc_dm" = "長押しでダウンロードする機能を追加。";
 "hide_typing" = "入力中を非表示…";
 "hide_typing_disc" = "チャットで「入力中」の表示を隠します。";
 "unlimit_replay" = "リプレイ無制限";
-"unlimit_replay_disc" = "写真・動画を制限なく視聴できます。";
+"unlimit_replay_disc" = "写真と動画を無制限で閲覧できます。\n長押しにアラートラベルを追加";
+"MARK_AS_SEEN" = "既読としてマーク";
 
 /* Profile section */
 "SPOOF" = "なりすまし中…";
