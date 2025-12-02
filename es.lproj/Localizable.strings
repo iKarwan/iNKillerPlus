@@ -58,7 +58,9 @@
 "unsend_at" = "Mensaje anulado en: %@!";
 "downloading_disc_dm" = "Añade el método de pulsación prolongada para descargar.";
 "hide_typing" = "Ocultar escribiendo...";
-"hide_typing_disc" = "Oculta el indicador de escritura en los chats.";
+"hide_typing_disc" = "Oculta el indicador de escritura en los chats.\nagrega un ícono en la barra superior.";
+"typing_off" = "Escritura desactivada – Otros no pueden ver cuando estás escribiendo";
+"typing_on" = "Escritura activada – Otros pueden ver cuando estás escribiendo";
 "unlimit_replay" = "Repetir sin límite";
 "unlimit_replay_disc" = "Ver fotos y videos sin límites.\nagrega una alerta al mantener presionado";
 "MARK_AS_SEEN" = "Marcar como visto";
@@ -93,6 +95,7 @@
 "HIDE_SEEN_DM_DISC" = "Agrega un botón para marcar mensajes como vistos.";
 "COPY_TXT" = "Copiar texto";
 "COPY_TEXT" = "Copiar textos";
+"open_url" = "Abrir URL";
 "COPY_TEXT_DISC" = "Mantén presionado para copiar descripciones, comentarios o biografías.";
 
 /* global action title */
@@ -133,6 +136,39 @@
 "AUTO_LANGUAGE" = "Automático";
 "SELECT_LANGUAGE" = "Seleccionar idioma";
 "FAQ" = "Preguntas frecuentes";
+
+"Video" = "Video";
+"Image" = "Imagen";
+"select_all" = "Seleccionar todo";
+"deselect_all" = "Deseleccionar todo";
+"no_selection" = "Sin selección";
+"no_selection_desc" = "Seleccione al menos un elemento";
+"download_title" = "Descargar";
+"download_all_selected" = "Descargar todo lo seleccionado";
+"download_and_merge_video" = "Descargar y unir videos";
+"downloading_title" = "Descargando";
+"please_wait" = "Por favor espera...";
+"successfully_saved_failed" = "Guardado correctamente: %ld\nFallido: %ld";
+"complete" = "Completado";
+"processing" = "Procesando";
+"download_videos" = "Descargando videos...";
+"select_at_least_2_videos" = "Seleccione al menos 2 videos para unir";
+"failed_2_download_videos" = "Error al descargar videos: %@";
+"merging_videos" = "Uniendo videos...";
+"failed_2_merge_videos" = "Error al unir videos: %@";
+"unkown_error" = "Error desconocido";
+"success_title" = "Éxito";
+"merged_video_saved_2_photos" = "Video unido guardado en Fotos";
+"failed_2_save" = "Error al guardar: %@";
+"permission_denied" = "Permiso denegado";
+"permission_denied_disc" = "Permita el acceso a la biblioteca de fotos en Configuración";
+"numer_of_video_images" = "%@ %ld de %ld";
+"quick_look" = "%@ • Vista rápida";
+"save_current" = "%@ • Guardar actual";
+"download_and_share" = "%@ • Descargar y compartir";
+"save_all_images_videos" = "Guardar todo (%ld imágenes, %ld videos)";
+"save_all_images" = "Guardar todas las imágenes (%ld)";
+"save_all_videos" = "Guardar todos los videos (%ld)";
 
 /* icon themes */
 "icon_changed" = "Has cambiado el ícono\npara \"Instagram\".";

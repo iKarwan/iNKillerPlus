@@ -57,7 +57,9 @@
 "unsend_at" = "Bericht verwijderd op: %@!";
 "downloading_disc_dm" = "Voeg de lang-ingedrukt houden methode toe om te downloaden.";
 "hide_typing" = "Typen verbergen…";
-"hide_typing_disc" = "Verbergt de typindicator in chats.";
+"hide_typing_disc" = "Verbergt de typindicator in chats.\nvoegt een pictogram toe in de navigatiebalk.";
+"typing_off" = "Typen uit – Anderen kunnen niet zien wanneer je typt";
+"typing_on" = "Typen aan – Anderen kunnen zien wanneer je typt";
 "unlimit_replay" = "Onbeperkt afspelen";
 "unlimit_replay_disc" = "Bekijk foto’s en video’s zonder beperkingen.\nvoeg een waarschuwing toe bij lang indrukken";
 "MARK_AS_SEEN" = "Markeren als bekeken";
@@ -92,6 +94,7 @@
 "HIDE_SEEN_DM_DISC" = "Voegt een knop toe om berichten handmatig als gelezen te markeren.";
 "COPY_TXT" = "Tekst kopiëren";
 "COPY_TEXT" = "Teksten kopiëren";
+"open_url" = "URL openen";
 "COPY_TEXT_DISC" = "Houd ingedrukt om beschrijvingen of reacties te kopiëren.";
 
 /* global action title */
@@ -132,6 +135,39 @@
 "AUTO_LANGUAGE" = "Automatisch";
 "SELECT_LANGUAGE" = "Taal selecteren";
 "FAQ" = "Veelgestelde vragen";
+
+"Video" = "Video";
+"Image" = "Afbeelding";
+"select_all" = "Alles selecteren";
+"deselect_all" = "Alles deselecteren";
+"no_selection" = "Geen selectie";
+"no_selection_desc" = "Selecteer minstens één item";
+"download_title" = "Downloaden";
+"download_all_selected" = "Alle geselecteerde downloaden";
+"download_and_merge_video" = "Video's downloaden en samenvoegen";
+"downloading_title" = "Bezig met downloaden";
+"please_wait" = "Even geduld...";
+"successfully_saved_failed" = "Succesvol opgeslagen: %ld\nMislukt: %ld";
+"complete" = "Voltooid";
+"processing" = "Bezig met verwerken";
+"download_videos" = "Video's aan het downloaden...";
+"select_at_least_2_videos" = "Selecteer minstens 2 video's om samen te voegen";
+"failed_2_download_videos" = "Kan video's niet downloaden: %@";
+"merging_videos" = "Bezig met samenvoegen van video's...";
+"failed_2_merge_videos" = "Kan video's niet samenvoegen: %@";
+"unkown_error" = "Onbekende fout";
+"success_title" = "Succes";
+"merged_video_saved_2_photos" = "Samengevoegde video opgeslagen in Foto's";
+"failed_2_save" = "Opslaan mislukt: %@";
+"permission_denied" = "Toestemming geweigerd";
+"permission_denied_disc" = "Sta toegang tot de fotobibliotheek toe via Instellingen";
+"numer_of_video_images" = "%@ %ld van %ld";
+"quick_look" = "%@ • Snel bekijken";
+"save_current" = "%@ • Huidige opslaan";
+"download_and_share" = "%@ • Downloaden en delen";
+"save_all_images_videos" = "Alles opslaan (%ld afbeeldingen, %ld video's)";
+"save_all_images" = "Alle afbeeldingen opslaan (%ld)";
+"save_all_videos" = "Alle video's opslaan (%ld)";
 
 /* icon themes */
 "icon_changed" = "Je hebt het pictogram\nvoor \"Instagram\" gewijzigd.";

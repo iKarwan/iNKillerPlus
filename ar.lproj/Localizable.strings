@@ -57,7 +57,9 @@
 "unsend_at" = "تم إلغاء الإرسال في: %@!";
 "downloading_disc_dm" = "أضف طريقة الضغط المطوّل للتنزيل.";
 "hide_typing" = "إخفاء الكتابة...";
-"hide_typing_disc" = "يخفي مؤشر الكتابة داخل المحادثات.";
+"hide_typing_disc" = "يخفي مؤشر الكتابة في الدردشة.\nيضيف أيقونة في شريط التنقل.";
+"typing_off" = "إيقاف الكتابة – الآخرون لن يروا أنك تكتب";
+"typing_on" = "تشغيل الكتابة – الآخرون سيستطيعون رؤية أنك تكتب";
 "unlimit_replay" = "إعادة عرض غير محدودة";
 "unlimit_replay_disc" = "عرض الصور والفيديوهات بدون حدود.\nأضف تنبيهًا عند الضغط المطوّل";
 "MARK_AS_SEEN" = "وضع كمشوهد";
@@ -92,6 +94,7 @@
 "HIDE_SEEN_DM_DISC" = "يضيف زرًا داخل الرسائل لتحديدها كمقروءة.";
 "COPY_TXT" = "نسخ النص";
 "COPY_TEXT" = "نسخ النصوص";
+"open_url" = "فتح الرابط";
 "COPY_TEXT_DISC" = "اضغط مطولًا لنسخ الوصف أو التعليقات أو النبذة.";
 
 /* global action title */
@@ -132,6 +135,39 @@
 "AUTO_LANGUAGE" = "تلقائي";
 "SELECT_LANGUAGE" = "اختر اللغة";
 "FAQ" = "الأسئلة الشائعة";
+
+"Video" = "فيديو";
+"Image" = "صورة";
+"select_all" = "تحديد الكل";
+"deselect_all" = "إلغاء تحديد الكل";
+"no_selection" = "لا يوجد تحديد";
+"no_selection_desc" = "يرجى تحديد عنصر واحد على الأقل";
+"download_title" = "تنزيل";
+"download_all_selected" = "تنزيل كل المحدد";
+"download_and_merge_video" = "تنزيل ودمج الفيديوهات";
+"downloading_title" = "جارٍ التنزيل";
+"please_wait" = "يرجى الانتظار...";
+"successfully_saved_failed" = "تم الحفظ بنجاح: %ld\nفشل: %ld";
+"complete" = "اكتمل";
+"processing" = "جارٍ المعالجة";
+"download_videos" = "جارٍ تنزيل الفيديوهات...";
+"select_at_least_2_videos" = "حدد ما لا يقل عن فيديوهين للدمج";
+"failed_2_download_videos" = "فشل تنزيل الفيديوهات: %@";
+"merging_videos" = "جارٍ دمج الفيديوهات...";
+"failed_2_merge_videos" = "فشل دمج الفيديوهات: %@";
+"unkown_error" = "خطأ غير معروف";
+"success_title" = "نجاح";
+"merged_video_saved_2_photos" = "تم حفظ الفيديو المدمج في الصور";
+"failed_2_save" = "فشل الحفظ: %@";
+"permission_denied" = "تم رفض الإذن";
+"permission_denied_disc" = "يرجى السماح بالوصول إلى مكتبة الصور من الإعدادات";
+"numer_of_video_images" = "%@ %ld من %ld";
+"quick_look" = "%@ • عرض سريع";
+"save_current" = "%@ • حفظ الحالي";
+"download_and_share" = "%@ • تنزيل ومشاركة";
+"save_all_images_videos" = "حفظ الكل (%ld صور، %ld فيديوهات)";
+"save_all_images" = "حفظ كل الصور (%ld)";
+"save_all_videos" = "حفظ كل الفيديوهات (%ld)";
 
 /* icon themes */
 "icon_changed" = "لقد قمت بتغيير\nأيقونة \"Instagram\".";

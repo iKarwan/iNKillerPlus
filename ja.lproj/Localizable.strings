@@ -58,7 +58,9 @@
 "unsend_at" = "メッセージ送信取消 at: %@!";
 "downloading_disc_dm" = "長押しでダウンロードする機能を追加。";
 "hide_typing" = "入力中を非表示…";
-"hide_typing_disc" = "チャットで「入力中」の表示を隠します。";
+"hide_typing_disc" = "チャットで入力中インジケーターを非表示にします。\nナビバーにアイコンを追加します。";
+"typing_off" = "入力オフ – 他の人には入力中が見えません";
+"typing_on" = "入力オン – 他の人に入力中が見えるようになります";
 "unlimit_replay" = "リプレイ無制限";
 "unlimit_replay_disc" = "写真と動画を無制限で閲覧できます。\n長押しにアラートラベルを追加";
 "MARK_AS_SEEN" = "既読としてマーク";
@@ -93,6 +95,7 @@
 "HIDE_SEEN_DM_DISC" = "DMビューに既読ボタンを追加します。";
 "COPY_TXT" = "テキストをコピー";
 "COPY_TEXT" = "テキストをコピー";
+"open_url" = "URLを開く";
 "COPY_TEXT_DISC" = "長押しで説明・コメント・プロフィール文をコピーできます。";
 
 /* global action title */
@@ -133,6 +136,39 @@
 "AUTO_LANGUAGE" = "自動";
 "SELECT_LANGUAGE" = "言語を選択";
 "FAQ" = "よくある質問";
+
+"Video" = "ビデオ";
+"Image" = "画像";
+"select_all" = "すべて選択";
+"deselect_all" = "選択を解除";
+"no_selection" = "選択なし";
+"no_selection_desc" = "少なくとも1つ選択してください";
+"download_title" = "ダウンロード";
+"download_all_selected" = "選択したすべてをダウンロード";
+"download_and_merge_video" = "動画をダウンロードして結合";
+"downloading_title" = "ダウンロード中";
+"please_wait" = "お待ちください...";
+"successfully_saved_failed" = "保存成功: %ld\n失敗: %ld";
+"complete" = "完了";
+"processing" = "処理中";
+"download_videos" = "動画をダウンロード中...";
+"select_at_least_2_videos" = "結合するには最低2つの動画を選択してください";
+"failed_2_download_videos" = "動画のダウンロードに失敗: %@";
+"merging_videos" = "動画を結合中...";
+"failed_2_merge_videos" = "動画の結合に失敗: %@";
+"unkown_error" = "不明なエラー";
+"success_title" = "成功";
+"merged_video_saved_2_photos" = "結合された動画を写真に保存しました";
+"failed_2_save" = "保存に失敗: %@";
+"permission_denied" = "許可拒否";
+"permission_denied_disc" = "設定で写真ライブラリへのアクセスを許可してください";
+"numer_of_video_images" = "%@ %ld / %ld";
+"quick_look" = "%@ • クイックルック";
+"save_current" = "%@ • 現在の項目を保存";
+"download_and_share" = "%@ • ダウンロードして共有";
+"save_all_images_videos" = "すべて保存 (%ld 画像, %ld 動画)";
+"save_all_images" = "すべての画像を保存 (%ld)";
+"save_all_videos" = "すべての動画を保存 (%ld)";
 
 /* icon themes */
 "icon_changed" = "「Instagram」の\nアイコンを変更しました。";

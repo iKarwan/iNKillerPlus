@@ -61,7 +61,9 @@
 "unsend_at" = "Message unsent at: %@!";
 "downloading_disc_dm" = "add long-press method to download.";
 "hide_typing" = "Hide Typing…";
-"hide_typing_disc" = "Hides the typing indicator in chats.";
+"hide_typing_disc" = "Hides the typing indicator in chats.\nadds an icon in navbar.";
+"typing_off" = "Typing Off – Others can't see when you're typing";
+"typing_on" = "Typing On – Others can see when you're typing";
 "unlimit_replay" = "Unlimited Replay";
 "unlimit_replay_disc" = "View photos and videos without limits.\nadd an alert label to the long-Press";
 "MARK_AS_SEEN" = "Mark as Seen";
@@ -96,6 +98,7 @@
 "HIDE_SEEN_DM_DISC" = "Adds a button inside DM view to mark as seen.";
 "COPY_TXT" = "Copy Text";
 "COPY_TEXT" = "Copy Texts";
+"open_url" = "Open URL";
 "COPY_TEXT_DISC" = "Long-press to copy captions, comments, or bios.";
 
 /* global action title */
@@ -104,12 +107,11 @@
 "OK" = "OK";
 "YES" = "Yes";
 "NO" = "No";
+"ERROR" = "Error";
 "QUICK_LOOK" = "Expand";
 "DOWNLOADING_IGPP" = "Downloading…";
-"PLEASE_WAIT" = "Please wait";
+"PLEASE_WAIT" = "Please wait...";
 "DOWNLOAD" = "Download to Library";
-"DOWNLOAD_SHARE" = "Download & Share";
-"DOWNLOAD_AND_SHARE" = "Download & Share";
 "VIDEO_OPTIONS" = "Media Options";
 "CHOOSE_QUALITY" = "Choose Quality";
 "SAVE_TO_PHOTO" = "Save to Photos";
@@ -136,6 +138,41 @@
 "AUTO_LANGUAGE" = "Auto";
 "SELECT_LANGUAGE" = "Select Language";
 "FAQ" = "FAQ";
+
+/* downloading...NEW */
+"Video" = "Video";
+"Image" = "Image";
+"select_all" = "Select all";
+"deselect_all" = "Deselect all";
+"no_selection" = "No Selection";
+"no_selection_desc" = "Please select at least one item";
+"download_title" = "Download";
+"download_all_selected" = "Download all selected";
+"download_and_merge_video" = "Download and merge videos";
+"downloading_title" = "Downloading";
+"please_wait" = "Please wait...";
+"successfully_saved_failed" = "Successfully saved: %ld\nFailed: %ld";
+"complete" = "Complete";
+"processing" = "Processing";
+"download_videos" = "Downloading videos...";
+"select_at_least_2_videos" = "Select at least 2 videos to merge";
+"failed_2_download_videos" = "Failed to download videos: %@";
+"merging_videos" = "Merging videos...";
+"failed_2_merge_videos" = "Failed to merge videos: %@";
+"unkown_error" = "Unknown error";
+"success_title" = "Success";
+"merged_video_saved_2_photos" = "Merged video saved to Photos";
+"failed_2_save" = "Failed to save: %@";
+"permission_denied" = "Permission Denied";
+"permission_denied_disc" = "Please allow photo library access in Settings";
+"numer_of_video_images" = "%@ %ld of %ld";
+"quick_look" = "%@ • Quick Look";
+"save_current" = "%@ • Save Current";
+"download_and_share" = "%@ • Download & Share";
+"save_all_images_videos" = "Save All (%ld images, %ld videos)";
+"save_all_images" = "Save All Images (%ld)";
+"save_all_videos" = "Save All Videos (%ld)";
+
 
 /* icon themes */
 "icon_changed" = "You have changed the\nicon for \"Instagram\".";

@@ -57,7 +57,9 @@
 "unsend_at" = "پەیام سڕا لە: %@!";
 "downloading_disc_dm" = "شێوازی پەنجە درێژکردن زیاد بکە بۆ داگرتن.";
 "hide_typing" = "شاردنەوەی 'نووسین…'";
-"hide_typing_disc" = "نیشانەی نووسینی تۆ لە چاتەکان شاردەوە.";
+"hide_typing_disc" = "نیشاندانی نووسین لە چات دا ده شاريته وه.\nئایکۆنێک لە نایڤباری سەربەخۆ زیاد دەکات.";
+"typing_off" = "نووسین ناچالاکە – کەسانی دیکە نایبین تۆ نووسدەکەیت";
+"typing_on" = "نووسین چالاکە – کەسانی دیکە دەتوانن ببینن تۆ نووسدەکەیت";
 "unlimit_replay" = "پێوانەی بێ سنوور";
 "unlimit_replay_disc" = "پشاندانی وێنە و ڤیدیۆ بێ سنوور.\nتێبینی زیاد بکە لە کاتی پەنجە درێژکردن";
 "MARK_AS_SEEN" = "نیشانکردن وەک بینراو";
@@ -92,6 +94,7 @@
 "HIDE_SEEN_DM_DISC" = "دوگمەیەک زیاددەکات لە نێو چات بۆ نیشاندانی بەدەستی بینراو.";
 "COPY_TXT" = "کۆپی نووسین";
 "COPY_TEXT" = "کۆپی نووسینەکان";
+"open_url" = "کردنەوەی بەستەر";
 "COPY_TEXT_DISC" = "کرتەی درێژ بکە بۆ کۆپی کردنەوەی وەسف، سەرنج، یان بایۆ.";
 
 /* global action title */
@@ -132,6 +135,39 @@
 "AUTO_LANGUAGE" = "خۆکار";
 "SELECT_LANGUAGE" = "زمان هەڵبژێرە";
 "FAQ" = "پرسیار و وەڵام";
+
+"Video" = "ڤیدیۆ";
+"Image" = "وێنە";
+"select_all" = "هەڵبژاردنی هەموو";
+"deselect_all" = "لابردنی هەڵبژاردنی هەموو";
+"no_selection" = "هیچ هەڵبژاردن نیە";
+"no_selection_desc" = "تکایە لانیکەم یەک شت هەڵبژێرە";
+"download_title" = "داگرتن";
+"download_all_selected" = "داگرتنی هەموو هەڵبژاردەکان";
+"download_and_merge_video" = "داگرتن و تێکەڵکردنى ڤیدیۆکان";
+"downloading_title" = "لە داگرتندایە";
+"please_wait" = "تکایە چاوەروان بن...";
+"successfully_saved_failed" = "بەسەرکەوتوویی پاشەکەوت کرا: %ld\n شکستی هێنا: %ld";
+"complete" = "تەواو";
+"processing" = "لە چالاکیدایە";
+"download_videos" = "لە داگرتنی ڤیدیۆکان...";
+"select_at_least_2_videos" = "تکایە لانیکەم ٢ ڤیدیۆ هەڵبژێرە بۆ تەواوکردن";
+"failed_2_download_videos" = "شکستی داگرتنی ڤیدیۆکان: %@";
+"merging_videos" = "لە تەواوکردنی ڤیدیۆکان...";
+"failed_2_merge_videos" = "شکستی تەواوکردنی ڤیدیۆکان: %@";
+"unkown_error" = "هەڵەی نەزانراو";
+"success_title" = "سەرکەوتوو";
+"merged_video_saved_2_photos" = "ڤیدیۆی تەواو کراو پاشەکەوت کرا لە وێنەکاندا";
+"failed_2_save" = "شکستی پاشەکەوتکردن: %@";
+"permission_denied" = "مەرج ڕەتکرایەوە";
+"permission_denied_disc" = "تکایە دەسەڵاتی گەیشتن بە ئەلبومی وێنەکان لە ڕێگەی ڕێکخستنەکانەوە بدە";
+"numer_of_video_images" = "%@ %ld لە %ld";
+"quick_look" = "%@ • پیشاندان";
+"save_current" = "%@ • پاشەکەوتکردنی ئێستا";
+"download_and_share" = "%@ • داگرتن و هاوبەشی";
+"save_all_images_videos" = "پاشەکەوتکردنی هەموو (%ld وێنە، %ld ڤیدیۆ)";
+"save_all_images" = "پاشەکەوتکردنی هەموو وێنەکان (%ld)";
+"save_all_videos" = "پاشەکەوتکردنی هەموو ڤیدیۆکان (%ld)";
 
 /* icon themes */
 "icon_changed" = "تۆ ئایكۆنی\n\"Instagram\" گۆڕی.";

@@ -58,7 +58,9 @@
 "unsend_at" = "Mesaj şu saatte silindi: %@!";
 "downloading_disc_dm" = "İndirmek için uzun basma yöntemini ekleyin.";
 "hide_typing" = "Yazıyor... gizle";
-"hide_typing_disc" = "Sohbette yazıyor göstergesini gizler.";
+"hide_typing_disc" = "Sohbetlerde yazıyor göstergesini gizler.\nüst menü çubuğuna bir simge ekler.";
+"typing_off" = "Yazma Kapalı – Diğerleri yazdığını göremez";
+"typing_on" = "Yazma Açık – Diğerleri yazdığını görebilir";
 "unlimit_replay" = "Sınırsız tekrar";
 "unlimit_replay_disc" = "Fotoğrafları ve videoları limitsiz görüntüleyin.\nuzun basınca bir uyarı etiketi ekleyin";
 "MARK_AS_SEEN" = "Görüldü olarak işaretle";
@@ -93,6 +95,7 @@
 "HIDE_SEEN_DM_DISC" = "DM ekranına okundu düğmesi ekler.";
 "COPY_TXT" = "Metni kopyala";
 "COPY_TEXT" = "Metinleri kopyala";
+"open_url" = "URL Aç";
 "COPY_TEXT_DISC" = "Açıklama, yorum veya biyografiyi kopyalamak için uzun bas.";
 
 /* global action title */
@@ -133,6 +136,39 @@
 "AUTO_LANGUAGE" = "Otomatik";
 "SELECT_LANGUAGE" = "Dil seç";
 "FAQ" = "SSS";
+
+"Video" = "Video";
+"Image" = "Görüntü";
+"select_all" = "Tümünü seç";
+"deselect_all" = "Tümünü kaldır";
+"no_selection" = "Seçim yok";
+"no_selection_desc" = "Lütfen en az bir öğe seçin";
+"download_title" = "İndir";
+"download_all_selected" = "Seçilenlerin hepsini indir";
+"download_and_merge_video" = "Videoları indir ve birleştir";
+"downloading_title" = "İndiriliyor";
+"please_wait" = "Lütfen bekleyin...";
+"successfully_saved_failed" = "Başarıyla kaydedildi: %ld\nBaşarısız: %ld";
+"complete" = "Tamamlandı";
+"processing" = "İşleniyor";
+"download_videos" = "Videolar indiriliyor...";
+"select_at_least_2_videos" = "Birleştirmek için en az 2 video seçin";
+"failed_2_download_videos" = "Videolar indirilemedi: %@";
+"merging_videos" = "Videolar birleştiriliyor...";
+"failed_2_merge_videos" = "Videolar birleştirilemedi: %@";
+"unkown_error" = "Bilinmeyen hata";
+"success_title" = "Başarılı";
+"merged_video_saved_2_photos" = "Birleştirilen video Fotoğraflar'a kaydedildi";
+"failed_2_save" = "Kaydedilemedi: %@";
+"permission_denied" = "İzin reddedildi";
+"permission_denied_disc" = "Ayarlar'dan fotoğraf erişimine izin verin";
+"numer_of_video_images" = "%@ %ld / %ld";
+"quick_look" = "%@ • Hızlı Bakış";
+"save_current" = "%@ • Mevcut olanı kaydet";
+"download_and_share" = "%@ • İndir ve Paylaş";
+"save_all_images_videos" = "Hepsini kaydet (%ld resim, %ld video)";
+"save_all_images" = "Tüm resimleri kaydet (%ld)";
+"save_all_videos" = "Tüm videoları kaydet (%ld)";
 
 /* icon themes */
 "icon_changed" = "“Instagram” için\noù değiştirildi.";
