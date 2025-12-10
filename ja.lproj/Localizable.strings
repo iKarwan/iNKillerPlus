@@ -241,6 +241,8 @@
 "license_key_length_wrong" = "ライセンスキーの長さが不正です。\n有効なキーを入力してください。";
 
 /* promptForRestore */
+"restore_notice" = "復元プロセスが更新されました";
+"restore_notice_desc" = "復元プロセスが変更されました。ライセンスを復元した後、キーをコピーして、再びメールとキーで有効化するためにアクティベーション画面に戻ってください。";
 "restore_license_disc" = "ライセンスに関連するメールアドレスを入力してください。";
 "restore" = "復元";
 "copy_license_key" = "ライセンスキーをコピー";

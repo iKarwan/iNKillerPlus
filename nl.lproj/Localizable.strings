@@ -240,6 +240,8 @@
 "license_key_length_wrong" = "Ongeldige lengte van de licentiesleutel.\nVoer een geldige sleutel in.";
 
 /* promptForRestore */
+"restore_notice" = "Herstelproces bijgewerkt";
+"restore_notice_desc" = "Het herstelproces is gewijzigd. Na het herstellen van je licentie moet je je sleutel kopiëren en terugkeren naar het activatiescherm om opnieuw te activeren met je e-mail en sleutel.";
 "restore_license_disc" = "Voer het e-mailadres in dat aan je licentie is gekoppeld.";
 "restore" = "Herstellen";
 "copy_license_key" = "Licentiesleutel kopiëren";
