@@ -209,6 +209,19 @@
 "LOCALIZATION" = "Vertalingen";
 "DEVELOPER" = "Ontwikkelaar";
 
+/* compatibility... */
+"compatible_legacy_ver" = "Compatibel (verouderde iOS)";
+"not_compatible_ver" = "Niet compatibel";
+"unknown_ver" = "Onbekend";
+"compatible_ver" = "Compatibel";
+
+/* reset the app completly */
+"clear_all_data" = "⚠️ Alle gegevens wissen";
+"clear_all_data_disc" = "Dit verwijdert ALLE appgegevens, inclusief sleutelhanger, voorkeuren en cachebestanden. Deze actie kan niet ongedaan worden gemaakt!";
+"delete_everything" = "Alles verwijderen";
+"data_cleared" = "✅ Gegevens gewist";
+"data_cleared_disc" = "Alle appgegevens zijn succesvol verwijderd. De app wordt nu opnieuw gestart.";
+
 /* clearCaches */
 "clearonstartup" = "Wissen bij opstarten";
 "clearcache" = "Cache wissen";
@@ -217,10 +230,6 @@
 "calculating" = "Berekenen…";
 
 /* checkForUpdates */
-"the_changelog" = "Wijzigingslog";
-"skip_version" = "Deze versie overslaan";
-"updates_available" = "Update beschikbaar";
-"new_version_available" = "Een nieuwe versie van iNKillerPlus (%@) is beschikbaar. Blijf altijd up-to-date.";
 
 /* promptForActivation */
 "license_option" = "Licentie-opties";

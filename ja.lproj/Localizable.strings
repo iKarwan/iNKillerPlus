@@ -210,6 +210,19 @@
 "LOCALIZATION" = "ローカリゼーション";
 "DEVELOPER" = "開発者";
 
+/* compatibility... */
+"compatible_legacy_ver" = "互換性あり（旧iOS）";
+"not_compatible_ver" = "互換性なし";
+"unknown_ver" = "不明";
+"compatible_ver" = "互換性あり";
+
+/* reset the app completly */
+"clear_all_data" = "⚠️ すべてのデータを消去";
+"clear_all_data_disc" = "キーチェーン、設定、キャッシュファイルを含むすべてのアプリデータが削除されます。この操作は元に戻せません！";
+"delete_everything" = "すべて削除";
+"data_cleared" = "✅ データを消去しました";
+"data_cleared_disc" = "すべてのアプリデータが正常に削除されました。アプリは再起動されます。";
+
 /* clearCaches */
 "clearonstartup" = "起動時にキャッシュをクリア";
 "clearcache" = "キャッシュをクリア";
@@ -218,10 +231,6 @@
 "calculating" = "計算中…";
 
 /* checkForUpdates */
-"the_changelog" = "変更履歴";
-"skip_version" = "このバージョンをスキップ";
-"updates_available" = "更新があります";
-"new_version_available" = "iNKillerPlus の新しいバージョン (%@) が利用可能です。常に最新にすることを推奨します。";
 
 /* promptForActivation */
 "license_option" = "ライセンスオプション";

@@ -210,6 +210,19 @@
 "LOCALIZATION" = "Yerelleştirmeler";
 "DEVELOPER" = "Geliştirici";
 
+/* compatibility... */
+"compatible_legacy_ver" = "Uyumlu (Eski iOS)";
+"not_compatible_ver" = "Uyumlu değil";
+"unknown_ver" = "Bilinmiyor";
+"compatible_ver" = "Uyumlu";
+
+/* reset the app completly */
+"clear_all_data" = "⚠️ Tüm Verileri Temizle";
+"clear_all_data_disc" = "Bu işlem, anahtarlık, tercihler ve önbelleğe alınmış dosyalar dahil olmak üzere TÜM uygulama verilerini siler. Bu işlem geri alınamaz!";
+"delete_everything" = "Her Şeyi Sil";
+"data_cleared" = "✅ Veriler Temizlendi";
+"data_cleared_disc" = "Tüm uygulama verileri başarıyla silindi. Uygulama şimdi yeniden başlatılacak.";
+
 /* clearCaches */
 "clearonstartup" = "Başlangıçta temizle";
 "clearcache" = "Önbelleği temizle";
@@ -218,10 +231,6 @@
 "calculating" = "Hesaplanıyor...";
 
 /* checkForUpdates */
-"the_changelog" = "Değişiklik günlüğü";
-"skip_version" = "Bu sürümü atla";
-"updates_available" = "Güncelleme mevcut";
-"new_version_available" = "Yeni iNKillerPlus sürümü (%@) mevcut. En iyi deneyim için güncel kalın.";
 
 /* promptForActivation */
 "license_option" = "Lisans seçenekleri";

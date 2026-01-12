@@ -1,0 +1,286 @@
+/* created on 21/02/2023 */
+/* by iKarwan */
+
+/* NOTE!!! you have right to request a copy of iNKillerPlus after translation and add to credits */
+/* NOTE 2 !!! Please after translation add your country specific like.  en - ar - zh ext... */
+
+/* iNKillerPlus global switch */
+"GLOB_ENABLED" = "Global aktiviert";
+"GLOBAL_ENABLED_SWITCH" = "Tippe oben rechts, um Änderungen anzuwenden.";
+
+/* downloading global switch */
+"DOWNLOADING" = "Download-Funktion aktivieren";
+"GLOBAL_DOWNLOADING_SWITCH" = "Button hinzufügen oder Beitrag lange gedrückt halten.";
+
+/* general section */
+"MAIN_UI" = "Feed";
+"STORIES" = "Stories";
+"reels" = "Reels";
+"DIRECT_MESSG" = "Nachrichten";
+"PROFILE" = "Profil";
+"TAB_BAR_SECTION" = "Benutzeroberfläche";
+"MISCELLANEOUS" = "Allgemein";
+
+/* Feed section */
+"POST_DISC" = "Beitrag";
+"NO_ADS" = "Keine Werbeanzeigen";
+"disable_refresh_feed" = "Feed-Aktualisierung deaktivieren";
+"disable_refresh_feed_disc" = "Stoppt automatische Feed-Updates";
+"no_suggesation" = "Keine Vorschläge";
+"no_suggesation_disc" = "Bereinigt deinen Feed und entfernt KI-, Reels-, Threads- und vorgeschlagene Beiträge.";
+"R_IMAGE_POSTED_CORNER" = "Abgerundete Beitragsecken";
+"NO_SINGLE_TAP" = "Einfaches Tippen deaktivieren";
+"NO_SINGLE_TAP_DISC" = "Verhindert, dass Videos per einfachem Tippen im Vollbild geöffnet werden.";
+"NO_DOUBLE_TAP_LIKE" = "Doppeltippen zum Liken deaktivieren";
+"SHOW_CONFIRM" = "Bestätigung anzeigen";
+"SHOW_CONFIRM_DISC" = "Vor dem Liken von Fotos oder Videos bestätigen.";
+"confirm_like_comment" = "Like-Kommentare bestätigen";
+"confirm_on_repost" = "Repost bestätigen";
+
+/* Stories section */
+"NO_STORY_AD" = "Keine Story-Werbung";
+"HIDE_SEEN_MANUALLY" = "Stories manuell als gesehen markieren";
+"HIDE_SEEN_MANUALLY_DISC" = "Fügt einen Button in der Story-Ansicht hinzu.";
+"HIDE_SEEN_MANUALLY2" = "Stories manuell markieren 2";
+"HIDE_SEEN_MANUALLY_DISC2" = "Fügt einen manuellen Schalter in der Story-Ansicht hinzu.";
+"HIDE_QUICK_REACTION" = "Schnellreaktionen ausblenden";
+"auto_advance" = "Automatisches Weitergehen stoppen";
+"auto_advance_disc" = "Verhindert das automatische Wechseln zur nächsten Story";
+
+/* reels section */
+"disable_scroll" = "Scrollen deaktivieren";
+
+/* messages section */
+"message" = "Nachricht";
+"unsend_message" = "Zurückgezogene Nachrichten behalten";
+"unsend_message_disc" = "Verhindert das Löschen von Nachrichten und fügt ein Zurückziehen-Symbol hinzu.";
+"unsed" = "Zurückgezogen!";
+"unsend_disc" = "Aktualisieren löscht zurückgezogene Nachrichten und lädt Daten neu.\n\nNachrichten werden automatisch synchronisiert.";
+"refresh" = "Aktualisieren";
+"unsend_at" = "Nachricht zurückgezogen um: %@!";
+"downloading_disc_dm" = "Langes Drücken zum Downloaden hinzufügen.";
+"hide_typing" = "Tippen ausblenden…";
+"hide_typing_disc" = "Blendet die Tippen-Anzeige im Chat aus.\nFügt ein Icon zur Navigationsleiste hinzu.";
+"typing_off" = "Tippen aus – Andere sehen nicht, wenn du schreibst";
+"typing_on" = "Tippen an – Andere sehen, wenn du schreibst";
+"unlimit_replay" = "Unbegrenzte Wiedergabe";
+"unlimit_replay_disc" = "Fotos und Videos unbegrenzt ansehen.\nFügt einen Hinweis beim langen Drücken hinzu";
+"MARK_AS_SEEN" = "Als gesehen markieren";
+
+/* Profile section */
+"SPOOF" = "Spoofing…";
+"ACCOUNT_VERIFIED" = "Konto verifiziert";
+"NO_DOUBLETAP_SWITCH" = "Doppeltippen-Wechsel deaktivieren";
+"NO_DOUBLETAP_SWITCH_DISC" = "Verhindert den Kontowechsel per Doppeltippen.";
+"NO_SUGGESTED_PROFILE" = "Personenvorschläge ausblenden";
+"WHO_FOLLOWING" = "Follower-Status";
+"WHO_FOLLOWING_DISC" = "Zeigt an, wer dir zurückfolgt.";
+"confirm_follow" = "Folgen bestätigen";
+"confirm_follow_disc" = "Zeigt eine Bestätigung vor dem Folgen an.";
+
+/* Interface section */
+"NO_LONG_PRESS" = "Langes Drücken auf Tabs deaktivieren";
+"HIDE_TABS" = "Tabs ausblenden";
+"NO_EXPLORE" = "Entdecken-Tab ausblenden";
+"NO_CREATE" = "Erstellen-Tab ausblenden";
+"NO_REEL" = "Reels-Tab ausblenden";
+"HIDE_ALL_TAB" = "Alle Tabs ausblenden";
+"USE_COMPACT" = "Kompakter Entdecken-Tab";
+"USE_COMPACT_DISC" = "Entfernt Inhalte und zeigt nur die Suchleiste an.";
+
+/* General section */
+"HIDE_SEEN_DM" = "DMs manuell als gesehen markieren";
+"NOTIFY_CALLING_DM" = "Anruf bestätigen";
+"NOTIFY_CALLING_DM_DISC" = "Vor Audio- oder Videoanrufen bestätigen.";
+"NOTIFY_SCREENSHOOT_DM" = "Screenshot-Schutz";
+"NOTIFY_SCREENSHOOT_DM_DISC" = "Deaktiviert Screenshot-Erkennung für Medien.";
+"HIDE_SEEN_DM_DISC" = "Fügt einen Button in der DM-Ansicht hinzu.";
+"COPY_TXT" = "Text kopieren";
+"COPY_TEXT" = "Texte kopieren";
+"open_url" = "Link öffnen";
+"COPY_TEXT_DISC" = "Langes Drücken zum Kopieren von Beschreibungen, Kommentaren oder Bios.";
+
+/* global action title */
+"WELCOME_ALERT" = "Öffne dein Profil und tippe auf das Zahnrad oder halte den Home-Button bzw. das Instagram-Logo gedrückt.";
+"inkplus_settings" = "iNKPlus Einstellungen";
+"OK" = "OK";
+"YES" = "Ja";
+"NO" = "Nein";
+"ERROR" = "Fehler";
+"QUICK_LOOK" = "Erweitern";
+"DOWNLOADING_IGPP" = "Wird heruntergeladen…";
+"PLEASE_WAIT" = "Bitte warten...";
+"DOWNLOAD" = "In Mediathek speichern";
+"VIDEO_OPTIONS" = "Medienoptionen";
+"CHOOSE_QUALITY" = "Qualität wählen";
+"SAVE_TO_PHOTO" = "In Fotos speichern";
+"SAVE_IMG" = "Bild speichern";
+"SAVE_PROFILE_IMG" = "Profilbild speichern";
+"HD" = "HD herunterladen";
+"SD" = "SD herunterladen";
+"COPIENG_TEXT" = "Text kopieren";
+"COPIED" = "Kopiert";
+"LIKING" = "Liken?";
+"FOLLOW" = "Folgen?";
+"CALL" = "Anrufen?";
+"FOLLOWING" = "Folgt dir";
+"NOT_FOLLOWING" = "Folgt dir nicht";
+"CANCEL" = "Abbrechen";
+"DISMISS" = "Schließen";
+"DELETED" = "Gelöscht";
+"DOWNLOADING_START" = "Download startet";
+"CANCEL_HUD" = "Abbrechen";
+"SAVED" = "Gespeichert";
+"SUCCESS" = "Erfolg";
+"close" = "Schließen";
+"Reposting" = "Erneut posten?";
+"AUTO_LANGUAGE" = "Automatisch";
+"SELECT_LANGUAGE" = "Sprache auswählen";
+"FAQ" = "FAQ";
+
+/* downloading...NEW */
+"Video" = "Video";
+"Image" = "Bild";
+"select_all" = "Alle auswählen";
+"deselect_all" = "Auswahl aufheben";
+"no_selection" = "Keine Auswahl";
+"no_selection_desc" = "Bitte wähle mindestens ein Element aus";
+"download_title" = "Download";
+"download_all_selected" = "Alle ausgewählten herunterladen";
+"download_and_merge_video" = "Videos herunterladen und zusammenführen";
+"downloading_title" = "Wird heruntergeladen";
+"please_wait" = "Bitte warten...";
+"successfully_saved_failed" = "Erfolgreich gespeichert: %ld\nFehlgeschlagen: %ld";
+"complete" = "Abgeschlossen";
+"processing" = "Verarbeitung";
+"download_videos" = "Videos werden heruntergeladen...";
+"select_at_least_2_videos" = "Wähle mindestens 2 Videos zum Zusammenführen aus";
+"failed_2_download_videos" = "Videos konnten nicht heruntergeladen werden: %@";
+"merging_videos" = "Videos werden zusammengeführt...";
+"failed_2_merge_videos" = "Zusammenführen der Videos fehlgeschlagen: %@";
+"unkown_error" = "Unbekannter Fehler";
+"success_title" = "Erfolg";
+"merged_video_saved_2_photos" = "Zusammengeführtes Video wurde in Fotos gespeichert";
+"failed_2_save" = "Speichern fehlgeschlagen: %@";
+"permission_denied" = "Zugriff verweigert";
+"permission_denied_disc" = "Bitte erlaube den Zugriff auf die Fotomediathek in den Einstellungen";
+"numer_of_video_images" = "%@ %ld von %ld";
+"quick_look" = "%@ • Schnellansicht";
+"save_current" = "%@ • Aktuelles speichern";
+"download_and_share" = "%@ • Herunterladen & Teilen";
+"save_all_images_videos" = "Alle speichern (%ld Bilder, %ld Videos)";
+"save_all_images" = "Alle Bilder speichern (%ld)";
+"save_all_videos" = "Alle Videos speichern (%ld)";
+
+/* icon themes */
+"icon_changed" = "Du hast das\nIcon für „Instagram“ geändert.";
+"select_icon_theme" = "Icon-Design auswählen";
+"default" = "Standard";
+"fire" = "Feuer";
+"floral" = "Blumen";
+"kpop" = "K-Pop";
+"metal" = "Metal";
+"neon" = "Neon";
+"slime" = "Schleim";
+
+/* fake location */
+"fake_location" = "Falscher Standort";
+"save" = "Speichern";
+"location_name" = "Standortname";
+"enter_location_name" = "Land: %@\nGib einen Namen für diesen Standort ein";
+"unknown" = "Unbekannt";
+"save_location" = "Standort speichern";
+"getting_location_info" = "Standortinformationen werden abgerufen...";
+"loading" = "Lädt...";
+"selected_location" = "Ausgewählter Standort";
+"delete" = "Löschen";
+"saved_location_disc" = "Verwalte deine gespeicherten Standorte und setze einen als aktiv. Wische, um Einträge zu entfernen.";
+"enable_fake_location_disc" = "Simuliere einen benutzerdefinierten Standort anstelle deines echten. Fügt einen Button zur Freunde-Karte hinzu.";
+"SAVED_LOCATIONS" = "GESPEICHERTE STANDORTE";
+"search_places" = "Orte suchen";
+"select_location" = "Standort auswählen";
+"custom_location" = "Benutzerdefinierter Standort";
+"system_default" = "Systemstandard";
+"current_location" = "Aktueller Standort";
+"enable_fake_location" = "Falschen Standort aktivieren";
+
+/* other || credits translation & links */
+"OTHER_TWEAKS" = "Weitere Projekte";
+"CREDITS" = "Mitwirkende";
+"SPECIAL_THANK" = "Besonderer Dank";
+"icon_by" = "Icon von";
+"LOCALIZATION" = "Lokalisierungen";
+"DEVELOPER" = "Entwickler";
+
+/* compatibility... */
+"compatible_legacy_ver" = "Kompatibel (älteres iOS)";
+"not_compatible_ver" = "Nicht kompatibel";
+"unknown_ver" = "Unbekannt";
+"compatible_ver" = "Kompatibel";
+
+/* reset the app completly */
+"clear_all_data" = "⚠️ Alle Daten löschen";
+"clear_all_data_disc" = "Dies löscht ALLE App-Daten, einschließlich Schlüsselbund, Einstellungen und zwischengespeicherter Dateien. Diese Aktion kann nicht rückgängig gemacht werden!";
+"delete_everything" = "Alles löschen";
+"data_cleared" = "✅ Daten gelöscht";
+"data_cleared_disc" = "Alle App-Daten wurden erfolgreich gelöscht. Die App wird nun neu gestartet.";
+
+/* clearCaches */
+"clearonstartup" = "Beim Start löschen";
+"clearcache" = "Cache leeren";
+"On" = "Ein";
+"Off" = "Aus";
+"calculating" = "Wird berechnet…";
+
+/* checkForUpdates */
+
+/* promptForActivation */
+"license_option" = "Lizenzoptionen";
+"license_option_disc" = "Wähle eine Option:";
+"activate_new_license" = "Neue Lizenz aktivieren";
+"restore_license" = "Lizenz wiederherstellen";
+"renew_license" = "Lizenz verlängern";
+"buy_license" = "Lizenz kaufen";
+"activate_new_license_disc" = "Gib unten deine E-Mail und den Lizenzschlüssel ein.";
+"email" = "E-Mail";
+"license_key" = "Lizenzschlüssel";
+"activate" = "Aktivieren";
+"invalid_email" = "Ungültige E-Mail";
+"invalid_email_disc" = "Bitte gib eine gültige E-Mail-Adresse ein.";
+"invalid_license" = "Ungültige Lizenz";
+"license_key_empty" = "Lizenzschlüssel darf nicht leer sein.";
+"license_key_length_wrong" = "Ungültige Lizenzschlüssellänge.\nBitte gib einen gültigen Schlüssel ein.";
+
+/* promptForRestore */
+"restore_notice" = "Wiederherstellungsprozess aktualisiert";
+"restore_notice_desc" = "Der Wiederherstellungsprozess wurde geändert. Nach der Wiederherstellung musst du den Schlüssel kopieren und zur Aktivierung zurückkehren, um ihn erneut mit E-Mail und Schlüssel zu aktivieren.";
+"restore_license_disc" = "Gib die mit der Lizenz verknüpfte E-Mail ein.";
+"restore" = "Wiederherstellen";
+"copy_license_key" = "Lizenzschlüssel kopieren";
+"license_key_copied_to_clipboard" = "Lizenzschlüssel in die Zwischenablage kopiert.";
+"license_details" = "Lizenzdetails";
+"license_details_disc" = "Lizenzschlüssel: %@\n\nAblaufdatum: %@\n\n%@";
+"license_restored_successfully" = "Lizenz erfolgreich wiederhergestellt.";
+"license_restored" = "Lizenz wiederhergestellt";
+"restore_failed" = "Wiederherstellung fehlgeschlagen";
+"copied_key" = "In die Zwischenablage kopiert";
+
+/* enter license prompt */
+"enter_license_key" = "Lizenzschlüssel eingeben";
+"enter_license_key_disc" = "Gib deinen Lizenzschlüssel zur Authentifizierung ein.";
+"license_key_authenticated" = "Lizenz authentifiziert. Läuft ab am: %@";
+"authentication_successful" = "Authentifizierung erfolgreich";
+"key_used_on_another_device" = "Lizenz bereits auf einem anderen Gerät aktiviert.";
+"key_is_in_use_on_another_device" = "Diese Lizenz wird auf einem anderen Gerät verwendet.";
+"email_associated_with_another_key" = "E-Mail ist bereits mit einer anderen Lizenz verknüpft.";
+"authentication_failed" = "Authentifizierung fehlgeschlagen";
+"email_associated_with_defferent_key" = "Diese E-Mail ist mit einem anderen Schlüssel verknüpft.";
+"key_expired" = "Schlüssel abgelaufen";
+"license_expired" = "Lizenz abgelaufen";
+"license_expired_disc" = "Deine Lizenz ist abgelaufen. Bitte verlängern.";
+"license_verification_failed" = "Lizenzüberprüfung fehlgeschlagen";
+"no_internet" = "Kein Internet";
+"no_internet_disc" = "Internetverbindung für die Authentifizierung erforderlich.";
+"license_disc" = "Der eingegebene Lizenzschlüssel ist ungültig.";
+
+/* other stuff */
