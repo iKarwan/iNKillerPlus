@@ -54,8 +54,76 @@
 /* messages section */
 "message" = "Message";
 "unsend_message" = "Keep Unsent Messages";
-"unsend_message_disc" = "Prevents Instagram from deleting messages and adds an unsend icon in chat.";
+"unsend_message_disc" = "Prevents Instagram from deleting messages and add unsend chat to logged.";
 "unsed" = "Unsend!";
+
+"dms_marked_auto_seen" = "DMs from this user will be marked as seen automatically";
+"stories_marked_auto_seen" = "Stories from this user will be marked as seen automatically";
+"add" = "Add";
+"view_list" = "View List";
+"add_exception" = "Add Exception";
+"exception_add" = "✅ Exception Added";
+"add_to_exception_list" = "@%@ added to exception list";
+"remove_from_exception_list" = "Remove @%@ from exception list?";
+"remove_exception" = "Remove Exception";
+"exception_removed" = "✅ Exception Removed";
+"removed_from_exception_list" = "@%@ removed from exception list";
+
+"notification" = "notification";
+"notification_disc" = "enable notification when user unsend a message!";
+"view_unsent_log" = "View Unsent Messages";
+"view_unsent_log_disc" = "See all logged unsent messages";
+
+"dms_exception_list" = "DM Seen Exception List";
+"dms_exception_list_log" = "Manage users whose DMs auto marked as seen (long-press eye button in chat)";
+
+/*  DeletedMessagesViewController */
+"unsent_messages" = "Unsent Messages";
+"clear_all_messages" = "Clear All Messages";
+"clear_all_messages_confirm" = "Are you sure you want to clear all logged unsent messages? This will also reset all caches.";
+"cancel" = "Cancel";
+"clear" = "Clear";
+"success" = "Success";
+"success_clear_messages" = "Successfully cleared %lu unsent messages and reset all caches";
+"error" = "Error";
+"error_clear_messages" = "Failed to clear messages: %@";
+"no_unsent_messages" = "No unsent messages logged";
+"unknown" = "Unknown";
+"message_details" = "Message Details";
+"from_message" = "From: @%@\n\nMessage:\n%@\n\nDeleted: %@";
+"copy_text" = "Copy Text";
+"text_copied" = "Text copied to clipboard";
+"close" = "Close";
+"error_delete_message" = "Failed to delete message: %@";
+"unsent_messages_header" = "%lu UNSENT MESSAGES";
+
+/*  SeenReceiptExceptionViewController */
+"dms_exception_list" = "DM Seen Exception List";
+"story_exception_list" = "Story Seen Exception List";
+"clear_all_exceptions" = "Clear All Exceptions";
+"clear_all_exceptions_confirm" = "Are you sure you want to clear all exceptions? Messages/Stories from these users will not be auto marked as seen again.";
+"no_exceptions" = "No exceptions added yet";
+"dms_exception_list_log" = "Manage users whose DMs auto marked as seen (long-press eye button in chat)";
+"story_exception_list_log" = "Manage users whose Stories auto marked as seen (long-press eye button in story)";
+"dms_exception_footer" = "DMs from these users will be auto marked as seen. Swipe left to remove.";
+"story_exception_footer" = "Stories from these users will be auto marked as seen. Swipe left to remove.";
+"exception_header" = "%lu users - %@ will be auto marked as seen";
+"dms" = "DMs";
+"stories" = "Stories";
+
+/*  Alerts and Exceptions */
+"add_exception" = "Add Exception";
+"remove_exception" = "Remove Exception";
+"exception_add" = "Exception Added";
+"add_to_exception_list" = "%@ has been added to the exception list";
+"remove_from_exception_list" = "Remove %@ from the exception list?";
+"exception_removed" = "Exception Removed";
+"removed_from_exception_list" = "%@ has been removed from the exception list";
+"storied_marked_auto_seen" = "Stories from this user will be auto marked as seen";
+"dms_marked_auto_seen" = "DMs from this user will be auto marked as seen";
+
+"unsent_a_mssg" = "@%@ unsent a message";
+
 "unsend_disc" = "Refreshing will delete unsent messages and reload data.\n\nMessages sync automatically; no manual refresh needed.";
 "refresh" = "Refresh";
 "unsend_at" = "Message unsent at: %@!";
