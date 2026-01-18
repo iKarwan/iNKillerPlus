@@ -22,8 +22,8 @@
     1. Download IPA file from here and follow the instructions below to sign and install the app from your computer for one week
         | Application | Bundle | Version | iNKillerPlus | File Type |
         | ------------------ |:---------:|:------:|:------:|:------:|
-        | [Instagram](https://ikghd.site/ipa/Instagram_412.0_iNKillerPlus_3.3.3.ipa) | com.burbn.instagram | 412.0 | 3.3.3 | IPA |
-        | [TrollStore](https://ikghd.site/ipa/Instagram_412.0_iNKillerPlus_3.3.3_TrollStore.tipa) | com.burbn.instagram | 412.0 | 3.3.3 | tipa |
+        | [Instagram](https://ikghd.site/ipa/Instagram_412.0_iNKillerPlus_3.3.4.ipa) | com.burbn.instagram | 412.0 | 3.3.4 | IPA |
+        | [TrollStore](https://ikghd.site/ipa/Instagram_412.0_iNKillerPlus_3.3.4_TrollStore.tipa) | com.burbn.instagram | 412.0 | 3.3.4 | tipa |
 
 
 ## How to Sideload on non-jailbroken devices
@@ -54,7 +54,7 @@
 
 ### TrollStore TIPA
 * Download and install TrollStore from [here](https://github.com/opa334/TrollStore).
-* Copy this link [here](https://ikghd.site/ipa/Instagram_412.0_iNKillerPlus_3.3.3_TrollStore.tipa) and paste it into the "Install from URL" option in TrollStore.
+* Copy this link [here](https://ikghd.site/ipa/Instagram_412.0_iNKillerPlus_3.3.4_TrollStore.tipa) and paste it into the "Install from URL" option in TrollStore.
 
 
 ### Telegram Channel
