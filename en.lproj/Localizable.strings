@@ -12,6 +12,7 @@
 /* downloding global switch */
 "DOWNLOADING" = "Enable Download Feature";
 "GLOBAL_DOWNLOADING_SWITCH" = "Add a button or long-press on a post.";
+"first_cleaner_disc" = "Long press on the gear icon for 3 second to show cleaning options!";
 
 /* general section */
 "MAIN_UI" = "Feed";
@@ -47,6 +48,14 @@
 "HIDE_QUICK_REACTION" = "Hide Quick Reactions";
 "auto_advance" = "Stop Auto Advance";
 "auto_advance_disc" = "Stop auto go to next story";
+
+"show_mention" = "Show Mention";
+"show_mention_disc" = "show mentioned user in story add @ icon";
+"no_mentions" = "No Mention";
+"no_mentions_disc" = "This story doesn't have any @mentions";
+"mentioned_user" = "Mentioned User";
+"mentioned_user_disc" = "%lu Mentioned Users";
+"tap_profile" = "Tap a username to view their profile";
 
 /* reels section */
 "disable_scroll" = "Disable Scrolling";
@@ -111,17 +120,6 @@
 "dms" = "DMs";
 "stories" = "Stories";
 
-/*  Alerts and Exceptions */
-"add_exception" = "Add Exception";
-"remove_exception" = "Remove Exception";
-"exception_add" = "Exception Added";
-"add_to_exception_list" = "%@ has been added to the exception list";
-"remove_from_exception_list" = "Remove %@ from the exception list?";
-"exception_removed" = "Exception Removed";
-"removed_from_exception_list" = "%@ has been removed from the exception list";
-"storied_marked_auto_seen" = "Stories from this user will be auto marked as seen";
-"dms_marked_auto_seen" = "DMs from this user will be auto marked as seen";
-
 "unsent_a_mssg" = "@%@ unsent a message";
 
 "unsend_disc" = "Refreshing will delete unsent messages and reload data.\n\nMessages sync automatically; no manual refresh needed.";
@@ -135,6 +133,16 @@
 "unlimit_replay" = "Unlimited Replay";
 "unlimit_replay_disc" = "View photos and videos without limits.\nadd an alert label to the long-Press";
 "MARK_AS_SEEN" = "Mark as Seen";
+
+"send_video_as_audio" = "send video as audio";
+"send_video_as_audio_disc" = "send video and file as audio\nlong press on the voice icon.";
+"send_as_voice" = "Send as Voice Message";
+"send_as_voice_disc" = "Choose audio or video file to send";
+"audi_video_from_files" = "📁 Audio 🎥 Video from Files";
+"video_from_photos" = "🎥 Video from Photos";
+"dwn_audio_dm" = "↓  Download Audio";
+"audio_dm_not_found" = "Could not find audio for this message";
+
 
 /* Profile section */
 "SPOOF" = "Spoofing…";
@@ -168,6 +176,14 @@
 "COPY_TEXT" = "Copy Texts";
 "open_url" = "Open URL";
 "COPY_TEXT_DISC" = "Long-press to copy captions, comments, or bios.";
+
+"video_sticker" = "Video Sticker";
+"video_sticker_disc" = "Allow video selection from gallery in sticker picker";
+"live_broadcast" = "Live Broadcast";
+"hide_live_comments" = "Hide Live Comments";
+"hide_live_comments_disc" = "Hide all live broadcast comment";
+"Watch_live_anonymously" = "Watch live anonymously";
+"Watch_live_anonymously_disc" = "Hide your presence when entering a live broadcast";
 
 /* global action title */
 "WELCOME_ALERT" = "To access settings, open your profile and tap the gear icon, or long-press the home button or Instagram logo.";
@@ -331,7 +347,7 @@
 "license_key_copied_to_clipboard" = "License key copied to clipboard.";
 "license_details" = "License Details";
 "license_details_disc" = "License Key: %@\n\nExpiration: %@\n\n%@";
-"license_restored_successfully" = "License restored successfully.";
+"license_restored_successfully" = "License is active.";
 "license_restored" = "License Restored";
 "restore_failed" = "Restore Failed";
 "copied_key" = "Copied to clipboard";

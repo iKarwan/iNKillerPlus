@@ -8,6 +8,7 @@
 /* downloding global switch */
 "DOWNLOADING" = "Downloadfunctie inschakelen";
 "GLOBAL_DOWNLOADING_SWITCH" = "Voeg een knop toe of houd een bericht ingedrukt om te downloaden.";
+"first_cleaner_disc" = "Houd het tandwielpictogram 3 seconden ingedrukt om schoonmaakopties te tonen.";
 
 /* general section */
 "MAIN_UI" = "Feed";
@@ -43,6 +44,14 @@
 "HIDE_QUICK_REACTION" = "Snelle reacties verbergen";
 "auto_advance" = "Automatisch Doorgaan Stoppen";
 "auto_advance_disc" = "Automatisch doorgaan naar het volgende verhaal stoppen";
+
+"show_mention" = "Vermelding tonen";
+"show_mention_disc" = "Toon de vermelde gebruiker in het verhaal met een @-icoon";
+"no_mentions" = "Geen vermeldingen";
+"no_mentions_disc" = "Dit verhaal bevat geen @-vermeldingen";
+"mentioned_user" = "Vermelde gebruiker";
+"mentioned_user_disc" = "%lu vermelde gebruikers";
+"tap_profile" = "Tik op een gebruikersnaam om het profiel te bekijken";
 
 /* reels section */
 "disable_scroll" = "Scrollen uitschakelen";
@@ -114,6 +123,15 @@
 "unlimit_replay_disc" = "Bekijk foto’s en video’s zonder beperkingen.\nvoeg een waarschuwing toe bij lang indrukken";
 "MARK_AS_SEEN" = "Markeren als bekeken";
 
+"send_video_as_audio" = "video als audio verzenden";
+"send_video_as_audio_disc" = "video en bestand als audio verzenden\nhoud het spraakicoon ingedrukt.";
+"send_as_voice" = "Verzenden als spraakbericht";
+"send_as_voice_disc" = "Kies een audio- of videobestand om te verzenden";
+"audi_video_from_files" = "📁 Audio 🎥 Video uit Bestanden";
+"video_from_photos" = "🎥 Video uit Foto’s";
+"dwn_audio_dm" = "↓  Audio downloaden";
+"audio_dm_not_found" = "Kan geen audio vinden voor dit bericht";
+
 /* Profile section */
 "SPOOF" = "Spoofen…";
 "ACCOUNT_VERIFIED" = "Account geverifieerd";
@@ -146,6 +164,14 @@
 "COPY_TEXT" = "Teksten kopiëren";
 "open_url" = "URL openen";
 "COPY_TEXT_DISC" = "Houd ingedrukt om beschrijvingen of reacties te kopiëren.";
+
+"video_sticker" = "Videosticker";
+"video_sticker_disc" = "Videoselectie uit de galerij toestaan in de stickerkiezer";
+"live_broadcast" = "Live-uitzending";
+"hide_live_comments" = "Live-opmerkingen verbergen";
+"hide_live_comments_disc" = "Alle opmerkingen van de live-uitzending verbergen";
+"Watch_live_anonymously" = "Live anoniem bekijken";
+"Watch_live_anonymously_disc" = "Verberg je aanwezigheid bij het betreden van een live-uitzending";
 
 /* global action title */
 "WELCOME_ALERT" = "Ga naar je profiel en tik op het tandwiel-icoon, of houd de homeknop of het Instagram-logo ingedrukt om instellingen te openen.";
@@ -307,7 +333,7 @@
 "license_key_copied_to_clipboard" = "Licentiesleutel gekopieerd naar klembord.";
 "license_details" = "Licentie-details";
 "license_details_disc" = "Licentiesleutel: %@\n\nVerloopt op: %@\n\n%@";
-"license_restored_successfully" = "Licentie succesvol hersteld.";
+"license_restored_successfully" = "De licentie is actief.";
 "license_restored" = "Licentie hersteld";
 "restore_failed" = "Herstellen mislukt";
 "copied_key" = "Gekopieerd";

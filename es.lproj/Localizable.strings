@@ -9,6 +9,7 @@
 /* downloding global switch */
 "DOWNLOADING" = "Habilitar función de descarga";
 "GLOBAL_DOWNLOADING_SWITCH" = "Agrega un botón o mantén presionado un post para descargar.";
+"first_cleaner_disc" = "Mantén pulsado el icono del engranaje durante 3 segundos para mostrar las opciones de limpieza.";
 
 /* general section */
 "MAIN_UI" = "Inicio";
@@ -44,6 +45,14 @@
 "HIDE_QUICK_REACTION" = "Ocultar reacciones rápidas";
 "auto_advance" = "Detener avance automático";
 "auto_advance_disc" = "Detener avance automático a la siguiente historia";
+
+"show_mention" = "Mostrar mención";
+"show_mention_disc" = "Mostrar al usuario mencionado en la historia con el icono @";
+"no_mentions" = "Sin menciones";
+"no_mentions_disc" = "Esta historia no tiene ninguna mención @";
+"mentioned_user" = "Usuario mencionado";
+"mentioned_user_disc" = "%lu usuarios mencionados";
+"tap_profile" = "Toca un nombre de usuario para ver su perfil";
 
 /* reels section */
 "disable_scroll" = "Desactivar desplazamiento";
@@ -115,6 +124,15 @@
 "unlimit_replay_disc" = "Ver fotos y videos sin límites.\nagrega una alerta al mantener presionado";
 "MARK_AS_SEEN" = "Marcar como visto";
 
+"send_video_as_audio" = "enviar video como audio";
+"send_video_as_audio_disc" = "enviar video y archivo como audio\nmantén presionado el icono de voz.";
+"send_as_voice" = "Enviar como mensaje de voz";
+"send_as_voice_disc" = "Elige un archivo de audio o video para enviar";
+"audi_video_from_files" = "📁 Audio 🎥 Video desde Archivos";
+"video_from_photos" = "🎥 Video desde Fotos";
+"dwn_audio_dm" = "↓  Descargar audio";
+"audio_dm_not_found" = "No se pudo encontrar el audio para este mensaje";
+
 /* Profile section */
 "SPOOF" = "Suplantando...";
 "ACCOUNT_VERIFIED" = "Cuenta verificada";
@@ -147,6 +165,14 @@
 "COPY_TEXT" = "Copiar textos";
 "open_url" = "Abrir URL";
 "COPY_TEXT_DISC" = "Mantén presionado para copiar descripciones, comentarios o biografías.";
+
+"video_sticker" = "Sticker de video";
+"video_sticker_disc" = "Permitir seleccionar videos de la galería en el selector de stickers";
+"live_broadcast" = "Transmisión en vivo";
+"hide_live_comments" = "Ocultar comentarios en vivo";
+"hide_live_comments_disc" = "Ocultar todos los comentarios de la transmisión en vivo";
+"Watch_live_anonymously" = "Ver en vivo de forma anónima";
+"Watch_live_anonymously_disc" = "Ocultar tu presencia al entrar a una transmisión en vivo";
 
 /* global action title */
 "WELCOME_ALERT" = "Para abrir la configuración, ve a tu perfil y toca el ícono de engranaje o mantén presionado el botón de inicio o el logotipo de Instagram.";
@@ -308,7 +334,7 @@
 "license_key_copied_to_clipboard" = "Clave de licencia copiada al portapapeles.";
 "license_details" = "Detalles de licencia";
 "license_details_disc" = "Clave: %@\n\nExpira: %@\n\n%@";
-"license_restored_successfully" = "Licencia restaurada exitosamente.";
+"license_restored_successfully" = "La licencia está activa.";
 "license_restored" = "Licencia restaurada";
 "restore_failed" = "Error al restaurar";
 "copied_key" = "Copiado";

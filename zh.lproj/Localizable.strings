@@ -9,6 +9,7 @@
 /* downloding global switch */
 "DOWNLOADING" = "启用下载功能";
 "GLOBAL_DOWNLOADING_SWITCH" = "添加按钮或长按帖子即可下载。";
+"first_cleaner_disc" = "长按齿轮图标 3 秒即可显示清理选项！";
 
 /* general section */
 "MAIN_UI" = "主页";
@@ -44,6 +45,14 @@
 "HIDE_QUICK_REACTION" = "隐藏快速反应";
 "auto_advance" = "停止自动播放";
 "auto_advance_disc" = "停止自动跳到下一个故事";
+
+"show_mention" = "显示提及";
+"show_mention_disc" = "在故事中显示被提及的用户并添加 @ 图标";
+"no_mentions" = "无提及";
+"no_mentions_disc" = "此故事没有任何 @ 提及";
+"mentioned_user" = "被提及的用户";
+"mentioned_user_disc" = "%lu 位被提及的用户";
+"tap_profile" = "点击用户名查看其个人资料";
 
 /* reels section */
 "disable_scroll" = "禁用滑动";
@@ -115,6 +124,15 @@
 "unlimit_replay_disc" = "无限制查看照片和视频。\n长按时添加提醒标签";
 "MARK_AS_SEEN" = "标记为已查看";
 
+"send_video_as_audio" = "将视频作为音频发送";
+"send_video_as_audio_disc" = "将视频和文件作为音频发送\n长按语音图标。";
+"send_as_voice" = "作为语音消息发送";
+"send_as_voice_disc" = "选择要发送的音频或视频文件";
+"audi_video_from_files" = "📁 音频 🎥 视频（来自文件）";
+"video_from_photos" = "🎥 来自照片的视频";
+"dwn_audio_dm" = "↓  下载音频";
+"audio_dm_not_found" = "无法找到此消息的音频";
+
 /* Profile section */
 "SPOOF" = "伪装中…";
 "ACCOUNT_VERIFIED" = "账户已验证";
@@ -147,6 +165,14 @@
 "COPY_TEXT" = "复制文本";
 "open_url" = "打开链接";
 "COPY_TEXT_DISC" = "长按复制说明、评论或简介。";
+
+"video_sticker" = "视频贴纸";
+"video_sticker_disc" = "允许在贴纸选择器中从相册选择视频";
+"live_broadcast" = "直播";
+"hide_live_comments" = "隐藏直播评论";
+"hide_live_comments_disc" = "隐藏所有直播评论";
+"Watch_live_anonymously" = "匿名观看直播";
+"Watch_live_anonymously_disc" = "进入直播时隐藏你的存在";
 
 /* global action title */
 "WELCOME_ALERT" = "打开个人资料并点击齿轮图标，或长按主页按钮或Instagram标志进入设置。";
@@ -308,7 +334,7 @@
 "license_key_copied_to_clipboard" = "许可证密钥已复制。";
 "license_details" = "许可证详情";
 "license_details_disc" = "许可证密钥：%@\n\n到期时间：%@\n\n%@";
-"license_restored_successfully" = "许可证恢复成功。";
+"license_restored_successfully" = "许可证已激活。";
 "license_restored" = "已恢复";
 "restore_failed" = "恢复失败";
 "copied_key" = "已复制";

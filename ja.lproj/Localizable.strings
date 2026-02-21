@@ -9,6 +9,7 @@
 /* downloading global switch */
 "DOWNLOADING" = "ダウンロード機能を有効にする";
 "GLOBAL_DOWNLOADING_SWITCH" = "投稿上でボタンを追加または長押ししてください。";
+"first_cleaner_disc" = "歯車アイコンを3秒間長押しすると、クリーンオプションが表示されます。";
 
 /* general section */
 "MAIN_UI" = "フィード";
@@ -44,6 +45,14 @@
 "HIDE_QUICK_REACTION" = "クイックリアクションを非表示";
 "auto_advance" = "自動進行を停止";
 "auto_advance_disc" = "次のストーリーへの自動移動を停止します";
+
+"show_mention" = "メンションを表示";
+"show_mention_disc" = "ストーリー内でメンションされたユーザーを @ アイコン付きで表示";
+"no_mentions" = "メンションなし";
+"no_mentions_disc" = "このストーリーには @ メンションがありません";
+"mentioned_user" = "メンションされたユーザー";
+"mentioned_user_disc" = "%lu 人のメンションされたユーザー";
+"tap_profile" = "ユーザー名をタップしてプロフィールを表示";
 
 /* reels section */
 "disable_scroll" = "スクロールを無効化";
@@ -115,6 +124,15 @@
 "unlimit_replay_disc" = "写真と動画を無制限で閲覧できます。\n長押しにアラートラベルを追加";
 "MARK_AS_SEEN" = "既読としてマーク";
 
+"send_video_as_audio" = "動画を音声として送信";
+"send_video_as_audio_disc" = "動画やファイルを音声として送信\n音声アイコンを長押ししてください。";
+"send_as_voice" = "音声メッセージとして送信";
+"send_as_voice_disc" = "送信する音声または動画ファイルを選択";
+"audi_video_from_files" = "📁 音声 🎥 動画（ファイル）";
+"video_from_photos" = "🎥 写真から動画";
+"dwn_audio_dm" = "↓  音声をダウンロード";
+"audio_dm_not_found" = "このメッセージの音声が見つかりませんでした";
+
 /* Profile section */
 "SPOOF" = "なりすまし中…";
 "ACCOUNT_VERIFIED" = "アカウント認証済み";
@@ -147,6 +165,14 @@
 "COPY_TEXT" = "テキストをコピー";
 "open_url" = "URLを開く";
 "COPY_TEXT_DISC" = "長押しで説明・コメント・プロフィール文をコピーできます。";
+
+"video_sticker" = "動画ステッカー";
+"video_sticker_disc" = "ステッカー選択画面でギャラリーから動画を選択可能にする";
+"live_broadcast" = "ライブ配信";
+"hide_live_comments" = "ライブコメントを非表示";
+"hide_live_comments_disc" = "ライブ配信中のすべてのコメントを非表示にする";
+"Watch_live_anonymously" = "匿名でライブを見る";
+"Watch_live_anonymously_disc" = "ライブ配信に入る際に自分の存在を隠す";
 
 /* global action title */
 "WELCOME_ALERT" = "設定にアクセスするには、プロフィールを開いて歯車アイコンをタップ、またはホームボタン／Instagramロゴを長押ししてください。";
@@ -308,7 +334,7 @@
 "license_key_copied_to_clipboard" = "ライセンスキーがクリップボードにコピーされました。";
 "license_details" = "ライセンス詳細";
 "license_details_disc" = "ライセンスキー: %@\n\n有効期限: %@\n\n%@";
-"license_restored_successfully" = "ライセンスが正常に復元されました。";
+"license_restored_successfully" = "ライセンスは有効です。";
 "license_restored" = "ライセンス復元済";
 "restore_failed" = "復元に失敗しました";
 "copied_key" = "クリップボードにコピーされました";

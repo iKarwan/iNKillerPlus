@@ -9,6 +9,7 @@
 /* downloding global switch */
 "DOWNLOADING" = "İndirme özelliğini etkinleştir";
 "GLOBAL_DOWNLOADING_SWITCH" = "Bir düğme ekle veya gönderiye uzun basarak indir.";
+"first_cleaner_disc" = "Temizleme seçeneklerini görmek için dişli simgesine 3 saniye basılı tutun!";
 
 /* general section */
 "MAIN_UI" = "Akış";
@@ -44,6 +45,14 @@
 "HIDE_QUICK_REACTION" = "Hızlı tepkileri gizle";
 "auto_advance" = "Otomatik Geçişi Durdur";
 "auto_advance_disc" = "Sonraki hikayeye otomatik geçişi durdur";
+
+"show_mention" = "Bahsetmeyi Göster";
+"show_mention_disc" = "Hikayede bahsedilen kullanıcıyı @ simgesiyle göster";
+"no_mentions" = "Bahsetme Yok";
+"no_mentions_disc" = "Bu hikayede herhangi bir @ bahsetmesi yok";
+"mentioned_user" = "Bahsedilen Kullanıcı";
+"mentioned_user_disc" = "%lu Bahsedilen Kullanıcı";
+"tap_profile" = "Profili görüntülemek için kullanıcı adına dokunun";
 
 /* reels section */
 "disable_scroll" = "Kaydırmayı kapat";
@@ -115,6 +124,15 @@
 "unlimit_replay_disc" = "Fotoğrafları ve videoları limitsiz görüntüleyin.\nuzun basınca bir uyarı etiketi ekleyin";
 "MARK_AS_SEEN" = "Görüldü olarak işaretle";
 
+"send_video_as_audio" = "videoyu ses olarak gönder";
+"send_video_as_audio_disc" = "videoyu ve dosyayı ses olarak gönder\nses simgesine uzun bas.";
+"send_as_voice" = "Sesli mesaj olarak gönder";
+"send_as_voice_disc" = "Göndermek için bir ses veya video dosyası seç";
+"audi_video_from_files" = "📁 Ses 🎥 Video Dosyalardan";
+"video_from_photos" = "🎥 Fotoğraflardan Video";
+"dwn_audio_dm" = "↓  Sesi indir";
+"audio_dm_not_found" = "Bu mesaj için ses bulunamadı";
+
 /* Profile section */
 "SPOOF" = "Kimlik değiştirme...";
 "ACCOUNT_VERIFIED" = "Hesap doğrulandı";
@@ -147,6 +165,14 @@
 "COPY_TEXT" = "Metinleri kopyala";
 "open_url" = "URL Aç";
 "COPY_TEXT_DISC" = "Açıklama, yorum veya biyografiyi kopyalamak için uzun bas.";
+
+"video_sticker" = "Video Etiketi";
+"video_sticker_disc" = "Etiket seçicide galeriden video seçimine izin ver";
+"live_broadcast" = "Canlı Yayın";
+"hide_live_comments" = "Canlı Yorumları Gizle";
+"hide_live_comments_disc" = "Canlı yayındaki tüm yorumları gizle";
+"Watch_live_anonymously" = "Canlıyı Gizli İzle";
+"Watch_live_anonymously_disc" = "Canlı yayına girerken görünürlüğünü gizle";
 
 /* global action title */
 "WELCOME_ALERT" = "Ayarlar için profilini aç, dişli simgesine dokun veya ana düğmeye ya da Instagram logosuna uzun bas.";
@@ -308,7 +334,7 @@
 "license_key_copied_to_clipboard" = "Lisans anahtarı panoya kopyalandı.";
 "license_details" = "Lisans detayları";
 "license_details_disc" = "Lisans Anahtarı: %@\n\nSona erme: %@\n\n%@";
-"license_restored_successfully" = "Lisans başarıyla geri yüklendi.";
+"license_restored_successfully" = "Lisans aktif.";
 "license_restored" = "Lisans geri yüklendi";
 "restore_failed" = "Geri yükleme başarısız";
 "copied_key" = "Kopyalandı";

@@ -11,6 +11,7 @@
 /* downloading global switch */
 "DOWNLOADING" = "Download-Funktion aktivieren";
 "GLOBAL_DOWNLOADING_SWITCH" = "Button hinzufügen oder Beitrag lange gedrückt halten.";
+"first_cleaner_disc" = "Halte das Zahnrad-Symbol 3 Sekunden lang gedrückt, um die Reinigungsoptionen anzuzeigen!";
 
 /* general section */
 "MAIN_UI" = "Feed";
@@ -46,6 +47,14 @@
 "HIDE_QUICK_REACTION" = "Schnellreaktionen ausblenden";
 "auto_advance" = "Automatisches Weitergehen stoppen";
 "auto_advance_disc" = "Verhindert das automatische Wechseln zur nächsten Story";
+
+"show_mention" = "Erwähnung anzeigen";
+"show_mention_disc" = "Den erwähnten Benutzer in der Story mit einem @-Symbol anzeigen";
+"no_mentions" = "Keine Erwähnungen";
+"no_mentions_disc" = "Diese Story enthält keine @-Erwähnungen";
+"mentioned_user" = "Erwähnter Benutzer";
+"mentioned_user_disc" = "%lu erwähnte Benutzer";
+"tap_profile" = "Tippe auf einen Benutzernamen, um das Profil anzuzeigen";
 
 /* reels section */
 "disable_scroll" = "Scrollen deaktivieren";
@@ -117,6 +126,15 @@
 "unlimit_replay_disc" = "Fotos und Videos unbegrenzt ansehen.\nFügt einen Hinweis beim langen Drücken hinzu";
 "MARK_AS_SEEN" = "Als gesehen markieren";
 
+"send_video_as_audio" = "Video als Audio senden";
+"send_video_as_audio_disc" = "Video und Datei als Audio senden\nSprachsymbol lange gedrückt halten.";
+"send_as_voice" = "Als Sprachnachricht senden";
+"send_as_voice_disc" = "Audio- oder Videodatei zum Senden auswählen";
+"audi_video_from_files" = "📁 Audio 🎥 Video aus Dateien";
+"video_from_photos" = "🎥 Video aus Fotos";
+"dwn_audio_dm" = "↓  Audio herunterladen";
+"audio_dm_not_found" = "Für diese Nachricht wurde kein Audio gefunden";
+
 /* Profile section */
 "SPOOF" = "Spoofing…";
 "ACCOUNT_VERIFIED" = "Konto verifiziert";
@@ -149,6 +167,14 @@
 "COPY_TEXT" = "Texte kopieren";
 "open_url" = "Link öffnen";
 "COPY_TEXT_DISC" = "Langes Drücken zum Kopieren von Beschreibungen, Kommentaren oder Bios.";
+
+"video_sticker" = "Video-Sticker";
+"video_sticker_disc" = "Videoauswahl aus der Galerie im Sticker-Auswähler erlauben";
+"live_broadcast" = "Live-Übertragung";
+"hide_live_comments" = "Live-Kommentare ausblenden";
+"hide_live_comments_disc" = "Alle Kommentare der Live-Übertragung ausblenden";
+"Watch_live_anonymously" = "Live anonym ansehen";
+"Watch_live_anonymously_disc" = "Deine Anwesenheit beim Betreten einer Live-Übertragung verbergen";
 
 /* global action title */
 "WELCOME_ALERT" = "Öffne dein Profil und tippe auf das Zahnrad oder halte den Home-Button bzw. das Instagram-Logo gedrückt.";
@@ -310,7 +336,7 @@
 "license_key_copied_to_clipboard" = "Lizenzschlüssel in die Zwischenablage kopiert.";
 "license_details" = "Lizenzdetails";
 "license_details_disc" = "Lizenzschlüssel: %@\n\nAblaufdatum: %@\n\n%@";
-"license_restored_successfully" = "Lizenz erfolgreich wiederhergestellt.";
+"license_restored_successfully" = "Die Lizenz ist aktiv.";
 "license_restored" = "Lizenz wiederhergestellt";
 "restore_failed" = "Wiederherstellung fehlgeschlagen";
 "copied_key" = "In die Zwischenablage kopiert";
