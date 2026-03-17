@@ -34,6 +34,8 @@
 "SHOW_CONFIRM_DISC" = "Vraagt bevestiging voordat je foto’s of video’s leuk vindt.";
 "confirm_like_comment" = "Bevestig like op reacties";
 "confirm_on_repost" = "Bevestig bij herplaatsen";
+"feed_grid_view" = "Feed rasterweergave";
+"feed_grid_view_disc" = "Voegt een rasterknop toe aan de navigatiebalk van de homefeed. Tik om te wisselen tussen lijst en 3×3 raster. Houd ingedrukt om te wisselen tussen 2×2 / 3×3.";
 
 /* Stories section */
 "NO_STORY_AD" = "Geen verhaal-advertenties";
@@ -152,6 +154,91 @@
 "HIDE_ALL_TAB" = "Alle tabs verbergen";
 "USE_COMPACT" = "Compacte verkenweergave";
 "USE_COMPACT_DISC" = "Toont alleen de zoekbalk in Verkennen.";
+"PA_TITLE" = "Profielanalyse";
+
+/* // ── Header ─────────────────────────────────────────────────────────────────── */
+"PA_UNKNOWN_NAME" = "Onbekend";
+"PA_STATS_FORMAT" = "%@ volgers  ·  %@ volgend";
+"PA_NEVER_SCANNED" = "Nooit gescand";
+"PA_LAST_SCAN_FORMAT" = "Laatste scan: %@";
+"PA_SCAN_BUTTON" = "Nu scannen";
+
+/* // ── Progress labels (shown while fetching) ─────────────────────────────────── */
+"PA_PROGRESS_FETCHING_FOLLOWERS" = "Volgers worden opgehaald…";
+"PA_PROGRESS_FETCHING_FOLLOWING" = "Volgend wordt opgehaald…";
+"PA_PROGRESS_COMPUTING" = "Wijzigingen worden berekend…";
+
+/* // ── Row titles ─────────────────────────────────────────────────────────────── */
+"PA_ROW_NEW_FOLLOWERS" = "Nieuwe volgers";
+"PA_ROW_LOST_FOLLOWERS" = "Verloren volgers";
+"PA_ROW_YOU_FOLLOWED" = "Door jou gevolgd";
+"PA_ROW_YOU_UNFOLLOWED" = "Door jou ontvolgd";
+"PA_ROW_NOT_FOLLOW_BACK" = "Volgen jou niet terug";
+"PA_ROW_YOU_DONT_FOLLOW" = "Jij volgt niet terug";
+"PA_ROW_MUTUAL_FRIENDS" = "Wederzijdse vrienden";
+"PA_ROW_PROFILE_UPDATES" = "Profielupdates";
+"PA_ROW_SCAN_HISTORY" = "Scan geschiedenis";
+
+/* // ── Row subtitles ───────────────────────────────────────────────────────────── */
+"PA_SUB_NEW_FOLLOWERS" = "Wie jou is gaan volgen";
+"PA_SUB_LOST_FOLLOWERS" = "Wie jou heeft ontvolgd";
+"PA_SUB_YOU_FOLLOWED" = "Accounts die je recent hebt gevolgd";
+"PA_SUB_YOU_UNFOLLOWED" = "Accounts die je recent hebt ontvolgd";
+"PA_SUB_NOT_FOLLOW_BACK_FORMAT" = "In jouw %@ volgend";
+"PA_SUB_YOU_DONT_FOLLOW_FORMAT" = "In jouw %@ volgers";
+"PA_SUB_MUTUAL_FRIENDS" = "Jullie volgen elkaar";
+"PA_SUB_PROFILE_UPDATES" = "Gebruikersnaam, naam of foto gewijzigd";
+
+/* // ── Scan history badge ──────────────────────────────────────────────────────── */
+"PA_SCAN_COUNT_SINGULAR" = "%ld scan";
+"PA_SCAN_COUNT_PLURAL" = "%ld scans";
+
+/* // ── "Updated" tag on rows ───────────────────────────────────────────────────── */
+"PA_UPDATED_TAG" = "● Bijgewerkt";
+
+/* // ── Profile update change descriptions ─────────────────────────────────────── */
+"PA_CHANGE_PREFIX" = "Bijgewerkt: ";
+"PA_CHANGE_USERNAME_FORMAT" = "gebruikersnaam: %@ → %@";
+"PA_CHANGE_PHOTO" = "profielfoto";
+"PA_CHANGE_SEPARATOR" = " & ";
+
+/* // ── User cell fallback subtitle ─────────────────────────────────────────────── */
+"PA_PK_FORMAT" = "PK: %@";
+
+/* // ── Empty state (user list screen) ─────────────────────────────────────────── */
+"PA_EMPTY_LIST" = "Nog geen gegevens.\nOpen je volgers/volgend lijst, scroll erdoor en scan daarna.";
+
+/* // ── No session / no user error alert ───────────────────────────────────────── */
+"PA_NO_USER_TITLE" = "Profielanalyse";
+"PA_NO_USER_MESSAGE" = "Ga eerst naar je eigen profiel en tik daarna op de analyzer.";
+"PA_NO_USER_OK" = "OK";
+
+/* // ── Scan History sheet ──────────────────────────────────────────────────────── */
+"PA_HISTORY_TITLE" = "Scan geschiedenis";
+"PA_HISTORY_EMPTY" = "Nog geen scans";
+"PA_HISTORY_ROW_FORMAT" = "%@  ·  %@ volgers  ·  %@ volgend";
+"PA_HISTORY_CLEAR_BUTTON" = "🗑  Alles wissen";
+"PA_HISTORY_CANCEL" = "Annuleren";
+
+/* // ── Clear All confirmation ──────────────────────────────────────────────────── */
+"PA_CLEAR_CONFIRM_TITLE" = "Alle scans wissen";
+"PA_CLEAR_CONFIRM_MESSAGE" = "Dit zal alle scan geschiedenis permanent verwijderen.";
+"PA_CLEAR_CONFIRM_CANCEL" = "Annuleren";
+"PA_CLEAR_CONFIRM_OK" = "Alles wissen";
+
+/* // ── Info menu (top-right button) ────────────────────────────────────────────── */
+"PA_INFO_MENU_HOW" = "ℹ️  Hoe het werkt";
+"PA_INFO_MENU_CACHE" = "🗂  Cache-info";
+"PA_INFO_MENU_CANCEL" = "Annuleren";
+
+/* // ── How it Works alert ─────────────────────────────────────────────────────── */
+"PA_HOW_TITLE" = "Hoe het werkt";
+"PA_HOW_MESSAGE" = "De profielanalyse haalt automatisch je volgers en volgend lijst direct op van de Instagram-servers — geen handmatig scrollen nodig.\n\n🔍 Wat 'Nu scannen' doet:\nDoor op 'Nu scannen' te tikken, worden je volledige volgers en volgend lijsten op de achtergrond opgehaald en vergeleken met de vorige scan om het volgende te detecteren:\n• Nieuwe / verloren volgers\n• Mensen die je hebt gevolgd / ontvolgd\n• Wie jou niet terug volgt\n• Wie jij niet terug volgt\n• Wederzijdse vrienden\n• Profielupdates (gebruikersnaam of foto wijzigingen)\n\n📋 Eerste scan:\nMaakt een basis momentopname. Wijzigingen verschijnen vanaf de tweede scan.\n\n💡 Wederzijdse vrienden:\nWorden automatisch berekend op basis van je volgers/volgend. Voor de beste nauwkeurigheid, open deze lijst minstens één keer in Instagram.";
+"PA_HOW_OK" = "Begrepen";
+
+/* // ── Cache Info alert ────────────────────────────────────────────────────────── */
+"PA_CACHE_TITLE" = "Cache-info";
+"PA_CACHE_OK" = "OK";
 
 /* General section */
 "HIDE_SEEN_DM" = "Berichten handmatig gelezen";

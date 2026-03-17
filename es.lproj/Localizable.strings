@@ -35,6 +35,8 @@
 "SHOW_CONFIRM_DISC" = "Pide confirmación antes de dar me gusta a fotos o videos.";
 "confirm_like_comment" = "Confirmar me gusta en comentarios";
 "confirm_on_repost" = "Confirmar al republicar";
+"feed_grid_view" = "Vista de cuadrícula del feed";
+"feed_grid_view_disc" = "Agrega un botón de cuadrícula a la barra de navegación del feed principal. Toca para cambiar entre lista y cuadrícula 3×3. Mantén presionado para alternar 2×2 / 3×3.";
 
 /* Stories section */
 "NO_STORY_AD" = "Sin anuncios en historias";
@@ -153,6 +155,91 @@
 "HIDE_ALL_TAB" = "Ocultar todas las pestañas";
 "USE_COMPACT" = "Explorar compacto";
 "USE_COMPACT_DISC" = "Muestra solo la barra de búsqueda en Explorar.";
+"PA_TITLE" = "Analizador de Perfil";
+
+/* // ── Header ─────────────────────────────────────────────────────────────────── */
+"PA_UNKNOWN_NAME" = "Desconocido";
+"PA_STATS_FORMAT" = "%@ seguidores  ·  %@ siguiendo";
+"PA_NEVER_SCANNED" = "Nunca escaneado";
+"PA_LAST_SCAN_FORMAT" = "Último escaneo: %@";
+"PA_SCAN_BUTTON" = "Escanear ahora";
+
+/* // ── Progress labels (shown while fetching) ─────────────────────────────────── */
+"PA_PROGRESS_FETCHING_FOLLOWERS" = "Obteniendo seguidores…";
+"PA_PROGRESS_FETCHING_FOLLOWING" = "Obteniendo seguidos…";
+"PA_PROGRESS_COMPUTING" = "Calculando cambios…";
+
+/* // ── Row titles ─────────────────────────────────────────────────────────────── */
+"PA_ROW_NEW_FOLLOWERS" = "Nuevos seguidores";
+"PA_ROW_LOST_FOLLOWERS" = "Seguidores perdidos";
+"PA_ROW_YOU_FOLLOWED" = "Has seguido";
+"PA_ROW_YOU_UNFOLLOWED" = "Has dejado de seguir";
+"PA_ROW_NOT_FOLLOW_BACK" = "No te siguen de vuelta";
+"PA_ROW_YOU_DONT_FOLLOW" = "No sigues de vuelta";
+"PA_ROW_MUTUAL_FRIENDS" = "Amigos mutuos";
+"PA_ROW_PROFILE_UPDATES" = "Actualizaciones de perfil";
+"PA_ROW_SCAN_HISTORY" = "Historial de escaneos";
+
+/* // ── Row subtitles ───────────────────────────────────────────────────────────── */
+"PA_SUB_NEW_FOLLOWERS" = "Quién empezó a seguirte";
+"PA_SUB_LOST_FOLLOWERS" = "Quién dejó de seguirte";
+"PA_SUB_YOU_FOLLOWED" = "Cuentas que seguiste recientemente";
+"PA_SUB_YOU_UNFOLLOWED" = "Cuentas que dejaste de seguir recientemente";
+"PA_SUB_NOT_FOLLOW_BACK_FORMAT" = "En tus %@ seguidos";
+"PA_SUB_YOU_DONT_FOLLOW_FORMAT" = "En tus %@ seguidores";
+"PA_SUB_MUTUAL_FRIENDS" = "Se siguen mutuamente";
+"PA_SUB_PROFILE_UPDATES" = "Nombre de usuario, nombre o foto cambiados";
+
+/* // ── Scan history badge ──────────────────────────────────────────────────────── */
+"PA_SCAN_COUNT_SINGULAR" = "%ld escaneo";
+"PA_SCAN_COUNT_PLURAL" = "%ld escaneos";
+
+/* // ── "Updated" tag on rows ───────────────────────────────────────────────────── */
+"PA_UPDATED_TAG" = "● Actualizado";
+
+/* // ── Profile update change descriptions ─────────────────────────────────────── */
+"PA_CHANGE_PREFIX" = "Actualizado: ";
+"PA_CHANGE_USERNAME_FORMAT" = "usuario: %@ → %@";
+"PA_CHANGE_PHOTO" = "foto de perfil";
+"PA_CHANGE_SEPARATOR" = " & ";
+
+/* // ── User cell fallback subtitle ─────────────────────────────────────────────── */
+"PA_PK_FORMAT" = "PK: %@";
+
+/* // ── Empty state (user list screen) ─────────────────────────────────────────── */
+"PA_EMPTY_LIST" = "Aún no hay datos.\nAbre tu lista de seguidores/seguidos, desplázate y luego escanea.";
+
+/* // ── No session / no user error alert ───────────────────────────────────────── */
+"PA_NO_USER_TITLE" = "Analizador de Perfil";
+"PA_NO_USER_MESSAGE" = "Primero visita tu propio perfil y luego toca el analizador.";
+"PA_NO_USER_OK" = "OK";
+
+/* // ── Scan History sheet ──────────────────────────────────────────────────────── */
+"PA_HISTORY_TITLE" = "Historial de escaneos";
+"PA_HISTORY_EMPTY" = "Aún no hay escaneos";
+"PA_HISTORY_ROW_FORMAT" = "%@  ·  %@ seguidores  ·  %@ siguiendo";
+"PA_HISTORY_CLEAR_BUTTON" = "🗑  Borrar todo";
+"PA_HISTORY_CANCEL" = "Cancelar";
+
+/* // ── Clear All confirmation ──────────────────────────────────────────────────── */
+"PA_CLEAR_CONFIRM_TITLE" = "Borrar todos los escaneos";
+"PA_CLEAR_CONFIRM_MESSAGE" = "Esto eliminará permanentemente todo el historial de escaneos.";
+"PA_CLEAR_CONFIRM_CANCEL" = "Cancelar";
+"PA_CLEAR_CONFIRM_OK" = "Borrar todo";
+
+/* // ── Info menu (top-right button) ────────────────────────────────────────────── */
+"PA_INFO_MENU_HOW" = "ℹ️  Cómo funciona";
+"PA_INFO_MENU_CACHE" = "🗂  Información de caché";
+"PA_INFO_MENU_CANCEL" = "Cancelar";
+
+/* // ── How it Works alert ─────────────────────────────────────────────────────── */
+"PA_HOW_TITLE" = "Cómo funciona";
+"PA_HOW_MESSAGE" = "El Analizador de Perfil obtiene automáticamente tus seguidores y seguidos directamente desde los servidores de Instagram — sin necesidad de desplazamiento manual.\n\n🔍 Qué hace 'Escanear ahora':\nAl tocar 'Escanear ahora', se obtienen tus listas completas de seguidores y seguidos en segundo plano y se comparan con el escaneo anterior para detectar:\n• Nuevos / seguidores perdidos\n• Personas que seguiste / dejaste de seguir\n• Quién no te sigue de vuelta\n• A quién no sigues de vuelta\n• Amigos mutuos\n• Actualizaciones de perfil (cambios de usuario o foto)\n\n📋 Primer escaneo:\nCrea una base inicial. Los cambios aparecen a partir del segundo escaneo.\n\n💡 Amigos mutuos:\nSe calculan automáticamente a partir de tus seguidores/seguidos. Para mayor precisión, abre esta lista al menos una vez en Instagram.";
+"PA_HOW_OK" = "Entendido";
+
+/* // ── Cache Info alert ────────────────────────────────────────────────────────── */
+"PA_CACHE_TITLE" = "Información de caché";
+"PA_CACHE_OK" = "OK";
 
 /* General section */
 "HIDE_SEEN_DM" = "Marcar mensajes manualmente";

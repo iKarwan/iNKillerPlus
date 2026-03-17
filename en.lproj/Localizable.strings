@@ -38,6 +38,8 @@
 "SHOW_CONFIRM_DISC" = "Ask for confirmation before liking photos or videos.";
 "confirm_like_comment" = "Confirm like comments";
 "confirm_on_repost" = "Confirm on repost";
+"feed_grid_view" = "Feed Grid View";
+"feed_grid_view_disc" = "Add a grid toggle button to the home feed nav bar. Tap to switch between list and 3×3 grid. Long press to toggle 2×2 / 3×3.";
 
 /* Stories section */
 "NO_STORY_AD" = "No Story Ads";
@@ -164,6 +166,92 @@
 "HIDE_ALL_TAB" = "Hide All Tabs";
 "USE_COMPACT" = "Compact Explore Tab";
 "USE_COMPACT_DISC" = "Clears Explore view and keeps only the search bar.";
+/* // ── Nav / Sheet title ──────────────────────────────────────────────────────── */
+"PA_TITLE"                          = "Profile Analyzer";
+
+/* // ── Header ─────────────────────────────────────────────────────────────────── */
+"PA_UNKNOWN_NAME"                   = "Unknown";
+"PA_STATS_FORMAT"                   = "%@ followers  ·  %@ following";
+"PA_NEVER_SCANNED"                  = "Never scanned";
+"PA_LAST_SCAN_FORMAT"               = "Last scan: %@";
+"PA_SCAN_BUTTON"                    = "Scan now";
+
+/* // ── Progress labels (shown while fetching) ─────────────────────────────────── */
+"PA_PROGRESS_FETCHING_FOLLOWERS"    = "Fetching followers…";
+"PA_PROGRESS_FETCHING_FOLLOWING"    = "Fetching following…";
+"PA_PROGRESS_COMPUTING"             = "Computing changes…";
+
+/* // ── Row titles ─────────────────────────────────────────────────────────────── */
+"PA_ROW_NEW_FOLLOWERS"              = "New followers";
+"PA_ROW_LOST_FOLLOWERS"             = "Lost followers";
+"PA_ROW_YOU_FOLLOWED"               = "You followed";
+"PA_ROW_YOU_UNFOLLOWED"             = "You unfollowed";
+"PA_ROW_NOT_FOLLOW_BACK"            = "Not following you back";
+"PA_ROW_YOU_DONT_FOLLOW"            = "You don't follow back";
+"PA_ROW_MUTUAL_FRIENDS"             = "Mutual friends";
+"PA_ROW_PROFILE_UPDATES"            = "Profile updates";
+"PA_ROW_SCAN_HISTORY"               = "Scan history";
+
+/* // ── Row subtitles ───────────────────────────────────────────────────────────── */
+"PA_SUB_NEW_FOLLOWERS"              = "Who started following you";
+"PA_SUB_LOST_FOLLOWERS"             = "Who unfollowed you";
+"PA_SUB_YOU_FOLLOWED"               = "Accounts you recently followed";
+"PA_SUB_YOU_UNFOLLOWED"             = "Accounts you recently unfollowed";
+"PA_SUB_NOT_FOLLOW_BACK_FORMAT"     = "In your %@ following";
+"PA_SUB_YOU_DONT_FOLLOW_FORMAT"     = "In your %@ followers";
+"PA_SUB_MUTUAL_FRIENDS"             = "You follow each other";
+"PA_SUB_PROFILE_UPDATES"            = "Username, name or photo changed";
+
+/* // ── Scan history badge ──────────────────────────────────────────────────────── */
+"PA_SCAN_COUNT_SINGULAR"            = "%ld scan";
+"PA_SCAN_COUNT_PLURAL"              = "%ld scans";
+
+/* // ── "Updated" tag on rows ───────────────────────────────────────────────────── */
+"PA_UPDATED_TAG"                    = "● Updated";
+
+/* // ── Profile update change descriptions ─────────────────────────────────────── */
+"PA_CHANGE_PREFIX"                  = "Updated: ";
+"PA_CHANGE_USERNAME_FORMAT"         = "username: %@ → %@";
+"PA_CHANGE_PHOTO"                   = "profile photo";
+"PA_CHANGE_SEPARATOR"               = " & ";
+
+/* // ── User cell fallback subtitle ─────────────────────────────────────────────── */
+"PA_PK_FORMAT"                      = "PK: %@";
+
+/* // ── Empty state (user list screen) ─────────────────────────────────────────── */
+"PA_EMPTY_LIST"                     = "No data yet.\nOpen your followers/following list, scroll through it, then scan.";
+
+/* // ── No session / no user error alert ───────────────────────────────────────── */
+"PA_NO_USER_TITLE"                  = "Profile Analyzer";
+"PA_NO_USER_MESSAGE"                = "Please visit your own profile tab first, then tap the analyzer.";
+"PA_NO_USER_OK"                     = "OK";
+
+/* // ── Scan History sheet ──────────────────────────────────────────────────────── */
+"PA_HISTORY_TITLE"                  = "Scan History";
+"PA_HISTORY_EMPTY"                  = "No scans yet";
+"PA_HISTORY_ROW_FORMAT"             = "%@  ·  %@ followers  ·  %@ following";
+"PA_HISTORY_CLEAR_BUTTON"           = "🗑  Clear all";
+"PA_HISTORY_CANCEL"                 = "Cancel";
+
+/* // ── Clear All confirmation ──────────────────────────────────────────────────── */
+"PA_CLEAR_CONFIRM_TITLE"            = "Clear All Scans";
+"PA_CLEAR_CONFIRM_MESSAGE"          = "This will permanently delete all scan history.";
+"PA_CLEAR_CONFIRM_CANCEL"           = "Cancel";
+"PA_CLEAR_CONFIRM_OK"               = "Clear All";
+
+/* // ── Info menu (top-right button) ────────────────────────────────────────────── */
+"PA_INFO_MENU_HOW"                  = "ℹ️  How it Works";
+"PA_INFO_MENU_CACHE"                = "🗂  Cache Info";
+"PA_INFO_MENU_CANCEL"               = "Cancel";
+
+/* // ── How it Works alert ─────────────────────────────────────────────────────── */
+"PA_HOW_TITLE"                      = "How it Works";
+"PA_HOW_MESSAGE" = "Profile Analyzer automatically fetches your Instagram followers and following directly from Instagram's servers — no manual scrolling needed.\n\n🔍 What Scan Now does:\nTapping Scan Now automatically fetches your complete followers and following lists in the background, then compares them to the previous scan to detect:\n• New / Lost followers\n• People you followed / unfollowed\n• Who doesn't follow you back\n• Who you don't follow back\n• Mutual friends\n• Profile updates (username or photo changes)\n\n📋 First scan:\nBuilds the baseline snapshot. Changes appear from the second scan onward.\n\n💡 Mutual friends:\nComputed automatically from your followers/following. For best accuracy, open your Mutual Friends list in Instagram at least once.";
+"PA_HOW_OK"                         = "Got it";
+
+/* // ── Cache Info alert ────────────────────────────────────────────────────────── */
+"PA_CACHE_TITLE"                    = "Cache Info";
+"PA_CACHE_OK"                       = "OK";
 
 /* General section */
 "HIDE_SEEN_DM" = "Mark DMs Manually";

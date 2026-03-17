@@ -35,6 +35,8 @@
 "SHOW_CONFIRM_DISC" = "写真や動画に「いいね」する前に確認を促します。";
 "confirm_like_comment" = "コメントのいいねを確認";
 "confirm_on_repost" = "再投稿前に確認";
+"feed_grid_view" = "フィードのグリッド表示";
+"feed_grid_view_disc" = "ホームフィードのナビバーにグリッド切替ボタンを追加。タップでリストと3×3グリッドを切替。長押しで2×2 / 3×3を切替。";
 
 /* Stories section */
 "NO_STORY_AD" = "ストーリー広告なし";
@@ -153,6 +155,91 @@
 "HIDE_ALL_TAB" = "全タブを非表示";
 "USE_COMPACT" = "コンパクト探索タブ";
 "USE_COMPACT_DISC" = "探索ビューをクリアし、検索バーのみを表示します。";
+"PA_TITLE" = "プロフィール分析";
+
+/* // ── Header ─────────────────────────────────────────────────────────────────── */
+"PA_UNKNOWN_NAME" = "不明";
+"PA_STATS_FORMAT" = "%@ フォロワー  ·  %@ フォロー中";
+"PA_NEVER_SCANNED" = "未スキャン";
+"PA_LAST_SCAN_FORMAT" = "最終スキャン: %@";
+"PA_SCAN_BUTTON" = "今すぐスキャン";
+
+/* // ── Progress labels (shown while fetching) ─────────────────────────────────── */
+"PA_PROGRESS_FETCHING_FOLLOWERS" = "フォロワーを取得中…";
+"PA_PROGRESS_FETCHING_FOLLOWING" = "フォロー中を取得中…";
+"PA_PROGRESS_COMPUTING" = "変更を計算中…";
+
+/* // ── Row titles ─────────────────────────────────────────────────────────────── */
+"PA_ROW_NEW_FOLLOWERS" = "新しいフォロワー";
+"PA_ROW_LOST_FOLLOWERS" = "減ったフォロワー";
+"PA_ROW_YOU_FOLLOWED" = "あなたがフォローした";
+"PA_ROW_YOU_UNFOLLOWED" = "フォロー解除した";
+"PA_ROW_NOT_FOLLOW_BACK" = "フォローバックしていない人";
+"PA_ROW_YOU_DONT_FOLLOW" = "あなたがフォローしていない人";
+"PA_ROW_MUTUAL_FRIENDS" = "相互フォロー";
+"PA_ROW_PROFILE_UPDATES" = "プロフィール更新";
+"PA_ROW_SCAN_HISTORY" = "スキャン履歴";
+
+/* // ── Row subtitles ───────────────────────────────────────────────────────────── */
+"PA_SUB_NEW_FOLLOWERS" = "あなたをフォローし始めた人";
+"PA_SUB_LOST_FOLLOWERS" = "フォローをやめた人";
+"PA_SUB_YOU_FOLLOWED" = "最近フォローしたアカウント";
+"PA_SUB_YOU_UNFOLLOWED" = "最近フォロー解除したアカウント";
+"PA_SUB_NOT_FOLLOW_BACK_FORMAT" = "あなたの %@ フォロー中内";
+"PA_SUB_YOU_DONT_FOLLOW_FORMAT" = "あなたの %@ フォロワー内";
+"PA_SUB_MUTUAL_FRIENDS" = "お互いにフォローしています";
+"PA_SUB_PROFILE_UPDATES" = "ユーザー名、名前、または写真が変更されました";
+
+/* // ── Scan history badge ──────────────────────────────────────────────────────── */
+"PA_SCAN_COUNT_SINGULAR" = "%ld 回のスキャン";
+"PA_SCAN_COUNT_PLURAL" = "%ld 回のスキャン";
+
+/* // ── "Updated" tag on rows ───────────────────────────────────────────────────── */
+"PA_UPDATED_TAG" = "● 更新済み";
+
+/* // ── Profile update change descriptions ─────────────────────────────────────── */
+"PA_CHANGE_PREFIX" = "更新: ";
+"PA_CHANGE_USERNAME_FORMAT" = "ユーザー名: %@ → %@";
+"PA_CHANGE_PHOTO" = "プロフィール写真";
+"PA_CHANGE_SEPARATOR" = " & ";
+
+/* // ── User cell fallback subtitle ─────────────────────────────────────────────── */
+"PA_PK_FORMAT" = "PK: %@";
+
+/* // ── Empty state (user list screen) ─────────────────────────────────────────── */
+"PA_EMPTY_LIST" = "まだデータがありません。\nフォロワー/フォロー一覧を開いてスクロールし、その後スキャンしてください。";
+
+/* // ── No session / no user error alert ───────────────────────────────────────── */
+"PA_NO_USER_TITLE" = "プロフィール分析";
+"PA_NO_USER_MESSAGE" = "まず自分のプロフィールタブを開いてから、分析をタップしてください。";
+"PA_NO_USER_OK" = "OK";
+
+/* // ── Scan History sheet ──────────────────────────────────────────────────────── */
+"PA_HISTORY_TITLE" = "スキャン履歴";
+"PA_HISTORY_EMPTY" = "まだスキャンがありません";
+"PA_HISTORY_ROW_FORMAT" = "%@  ·  %@ フォロワー  ·  %@ フォロー中";
+"PA_HISTORY_CLEAR_BUTTON" = "🗑  すべて削除";
+"PA_HISTORY_CANCEL" = "キャンセル";
+
+/* // ── Clear All confirmation ──────────────────────────────────────────────────── */
+"PA_CLEAR_CONFIRM_TITLE" = "すべてのスキャンを削除";
+"PA_CLEAR_CONFIRM_MESSAGE" = "これによりすべてのスキャン履歴が完全に削除されます。";
+"PA_CLEAR_CONFIRM_CANCEL" = "キャンセル";
+"PA_CLEAR_CONFIRM_OK" = "すべて削除";
+
+/* // ── Info menu (top-right button) ────────────────────────────────────────────── */
+"PA_INFO_MENU_HOW" = "ℹ️  使い方";
+"PA_INFO_MENU_CACHE" = "🗂  キャッシュ情報";
+"PA_INFO_MENU_CANCEL" = "キャンセル";
+
+/* // ── How it Works alert ─────────────────────────────────────────────────────── */
+"PA_HOW_TITLE" = "仕組み";
+"PA_HOW_MESSAGE" = "プロフィール分析は、Instagramのサーバーからフォロワーとフォロー一覧を自動的に取得します — 手動でスクロールする必要はありません。\n\n🔍 「今すぐスキャン」で行うこと:\n「今すぐスキャン」をタップすると、フォロワーとフォロー一覧をバックグラウンドで取得し、前回のスキャンと比較して以下を検出します:\n• 新規 / 減少フォロワー\n• フォロー / フォロー解除したユーザー\n• フォローバックしていないユーザー\n• あなたがフォローバックしていないユーザー\n• 相互フォロー\n• プロフィール更新（ユーザー名または写真の変更）\n\n📋 初回スキャン:\n基準となるデータを作成します。変更は2回目のスキャン以降に表示されます。\n\n💡 相互フォロー:\nフォロワー/フォロー情報から自動的に計算されます。精度を高めるため、Instagramでこのリストを少なくとも一度開いてください。";
+"PA_HOW_OK" = "了解";
+
+/* // ── Cache Info alert ────────────────────────────────────────────────────────── */
+"PA_CACHE_TITLE" = "キャッシュ情報";
+"PA_CACHE_OK" = "OK";
 
 /* General section */
 "HIDE_SEEN_DM" = "DMを手動で既読にする";

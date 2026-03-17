@@ -35,6 +35,8 @@
 "SHOW_CONFIRM_DISC" = "点赞前显示确认提示。";
 "confirm_like_comment" = "确认点赞评论";
 "confirm_on_repost" = "确认转发";
+"feed_grid_view" = "动态网格视图";
+"feed_grid_view_disc" = "在主页动态导航栏中添加网格切换按钮。点击可在列表和 3×3 网格之间切换。长按可切换 2×2 / 3×3。";
 
 /* Stories section */
 "NO_STORY_AD" = "无快拍广告";
@@ -153,6 +155,91 @@
 "HIDE_ALL_TAB" = "隐藏所有标签";
 "USE_COMPACT" = "精简探索页";
 "USE_COMPACT_DISC" = "仅保留搜索栏，清理探索内容。";
+"PA_TITLE" = "个人资料分析器";
+
+/* // ── Header ─────────────────────────────────────────────────────────────────── */
+"PA_UNKNOWN_NAME" = "未知";
+"PA_STATS_FORMAT" = "%@ 粉丝  ·  %@ 关注";
+"PA_NEVER_SCANNED" = "从未扫描";
+"PA_LAST_SCAN_FORMAT" = "上次扫描：%@";
+"PA_SCAN_BUTTON" = "立即扫描";
+
+/* // ── Progress labels (shown while fetching) ─────────────────────────────────── */
+"PA_PROGRESS_FETCHING_FOLLOWERS" = "正在获取粉丝…";
+"PA_PROGRESS_FETCHING_FOLLOWING" = "正在获取关注列表…";
+"PA_PROGRESS_COMPUTING" = "正在计算变更…";
+
+/* // ── Row titles ─────────────────────────────────────────────────────────────── */
+"PA_ROW_NEW_FOLLOWERS" = "新增粉丝";
+"PA_ROW_LOST_FOLLOWERS" = "流失粉丝";
+"PA_ROW_YOU_FOLLOWED" = "你关注的";
+"PA_ROW_YOU_UNFOLLOWED" = "你取消关注的";
+"PA_ROW_NOT_FOLLOW_BACK" = "未回关你的人";
+"PA_ROW_YOU_DONT_FOLLOW" = "你未回关的人";
+"PA_ROW_MUTUAL_FRIENDS" = "互相关注";
+"PA_ROW_PROFILE_UPDATES" = "资料更新";
+"PA_ROW_SCAN_HISTORY" = "扫描历史";
+
+/* // ── Row subtitles ───────────────────────────────────────────────────────────── */
+"PA_SUB_NEW_FOLLOWERS" = "开始关注你的人";
+"PA_SUB_LOST_FOLLOWERS" = "取消关注你的人";
+"PA_SUB_YOU_FOLLOWED" = "你最近关注的账号";
+"PA_SUB_YOU_UNFOLLOWED" = "你最近取消关注的账号";
+"PA_SUB_NOT_FOLLOW_BACK_FORMAT" = "在你的 %@ 关注中";
+"PA_SUB_YOU_DONT_FOLLOW_FORMAT" = "在你的 %@ 粉丝中";
+"PA_SUB_MUTUAL_FRIENDS" = "彼此互相关注";
+"PA_SUB_PROFILE_UPDATES" = "用户名、名称或头像已更改";
+
+/* // ── Scan history badge ──────────────────────────────────────────────────────── */
+"PA_SCAN_COUNT_SINGULAR" = "%ld 次扫描";
+"PA_SCAN_COUNT_PLURAL" = "%ld 次扫描";
+
+/* // ── "Updated" tag on rows ───────────────────────────────────────────────────── */
+"PA_UPDATED_TAG" = "● 已更新";
+
+/* // ── Profile update change descriptions ─────────────────────────────────────── */
+"PA_CHANGE_PREFIX" = "已更新：";
+"PA_CHANGE_USERNAME_FORMAT" = "用户名：%@ → %@";
+"PA_CHANGE_PHOTO" = "头像";
+"PA_CHANGE_SEPARATOR" = " & ";
+
+/* // ── User cell fallback subtitle ─────────────────────────────────────────────── */
+"PA_PK_FORMAT" = "PK：%@";
+
+/* // ── Empty state (user list screen) ─────────────────────────────────────────── */
+"PA_EMPTY_LIST" = "暂无数据。\n请先打开你的粉丝/关注列表并滚动浏览，然后再进行扫描。";
+
+/* // ── No session / no user error alert ───────────────────────────────────────── */
+"PA_NO_USER_TITLE" = "个人资料分析器";
+"PA_NO_USER_MESSAGE" = "请先进入你的个人主页标签，然后点击分析器。";
+"PA_NO_USER_OK" = "确定";
+
+/* // ── Scan History sheet ──────────────────────────────────────────────────────── */
+"PA_HISTORY_TITLE" = "扫描历史";
+"PA_HISTORY_EMPTY" = "暂无扫描记录";
+"PA_HISTORY_ROW_FORMAT" = "%@  ·  %@ 粉丝  ·  %@ 关注";
+"PA_HISTORY_CLEAR_BUTTON" = "🗑  清除全部";
+"PA_HISTORY_CANCEL" = "取消";
+
+/* // ── Clear All confirmation ──────────────────────────────────────────────────── */
+"PA_CLEAR_CONFIRM_TITLE" = "清除所有扫描";
+"PA_CLEAR_CONFIRM_MESSAGE" = "这将永久删除所有扫描历史记录。";
+"PA_CLEAR_CONFIRM_CANCEL" = "取消";
+"PA_CLEAR_CONFIRM_OK" = "全部清除";
+
+/* // ── Info menu (top-right button) ────────────────────────────────────────────── */
+"PA_INFO_MENU_HOW" = "ℹ️  工作原理";
+"PA_INFO_MENU_CACHE" = "🗂  缓存信息";
+"PA_INFO_MENU_CANCEL" = "取消";
+
+/* // ── How it Works alert ─────────────────────────────────────────────────────── */
+"PA_HOW_TITLE" = "工作原理";
+"PA_HOW_MESSAGE" = "个人资料分析器会自动直接从 Instagram 服务器获取你的粉丝和关注列表——无需手动滚动。\n\n🔍 '立即扫描'会执行：\n点击后，应用会在后台获取完整的粉丝和关注列表，并与上一次扫描进行比较，以检测：\n• 新增 / 流失粉丝\n• 你关注 / 取消关注的人\n• 未回关你的人\n• 你未回关的人\n• 互相关注\n• 资料更新（用户名或头像变更）\n\n📋 第一次扫描：\n建立基准数据。从第二次扫描开始才会显示变化。\n\n💡 互相关注：\n根据你的粉丝/关注自动计算。为获得最佳准确性，请至少在 Instagram 中打开一次该列表。";
+"PA_HOW_OK" = "明白了";
+
+/* // ── Cache Info alert ────────────────────────────────────────────────────────── */
+"PA_CACHE_TITLE" = "缓存信息";
+"PA_CACHE_OK" = "确定";
 
 /* General section */
 "HIDE_SEEN_DM" = "手动标记消息已读";

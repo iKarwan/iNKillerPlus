@@ -37,6 +37,8 @@
 "SHOW_CONFIRM_DISC" = "Vor dem Liken von Fotos oder Videos bestätigen.";
 "confirm_like_comment" = "Like-Kommentare bestätigen";
 "confirm_on_repost" = "Repost bestätigen";
+"feed_grid_view" = "Feed-Rasteransicht";
+"feed_grid_view_disc" = "Fügt der Navigationsleiste des Home-Feeds eine Raster-Umschaltfläche hinzu. Tippen zum Wechseln zwischen Liste und 3×3-Raster. Gedrückt halten zum Wechseln zwischen 2×2 / 3×3.";
 
 /* Stories section */
 "NO_STORY_AD" = "Keine Story-Werbung";
@@ -155,6 +157,91 @@
 "HIDE_ALL_TAB" = "Alle Tabs ausblenden";
 "USE_COMPACT" = "Kompakter Entdecken-Tab";
 "USE_COMPACT_DISC" = "Entfernt Inhalte und zeigt nur die Suchleiste an.";
+"PA_TITLE" = "Profil-Analysator";
+
+/* // ── Header ─────────────────────────────────────────────────────────────────── */
+"PA_UNKNOWN_NAME" = "Unbekannt";
+"PA_STATS_FORMAT" = "%@ Follower  ·  %@ Abonniert";
+"PA_NEVER_SCANNED" = "Nie gescannt";
+"PA_LAST_SCAN_FORMAT" = "Letzter Scan: %@";
+"PA_SCAN_BUTTON" = "Jetzt scannen";
+
+/* // ── Progress labels (shown while fetching) ─────────────────────────────────── */
+"PA_PROGRESS_FETCHING_FOLLOWERS" = "Follower werden abgerufen…";
+"PA_PROGRESS_FETCHING_FOLLOWING" = "Abonnements werden abgerufen…";
+"PA_PROGRESS_COMPUTING" = "Änderungen werden berechnet…";
+
+/* // ── Row titles ─────────────────────────────────────────────────────────────── */
+"PA_ROW_NEW_FOLLOWERS" = "Neue Follower";
+"PA_ROW_LOST_FOLLOWERS" = "Verlorene Follower";
+"PA_ROW_YOU_FOLLOWED" = "Du hast gefolgt";
+"PA_ROW_YOU_UNFOLLOWED" = "Du hast entfolgt";
+"PA_ROW_NOT_FOLLOW_BACK" = "Folgen dir nicht zurück";
+"PA_ROW_YOU_DONT_FOLLOW" = "Du folgst nicht zurück";
+"PA_ROW_MUTUAL_FRIENDS" = "Gemeinsame Freunde";
+"PA_ROW_PROFILE_UPDATES" = "Profilaktualisierungen";
+"PA_ROW_SCAN_HISTORY" = "Scanverlauf";
+
+/* // ── Row subtitles ───────────────────────────────────────────────────────────── */
+"PA_SUB_NEW_FOLLOWERS" = "Wer dir neu folgt";
+"PA_SUB_LOST_FOLLOWERS" = "Wer dir entfolgt ist";
+"PA_SUB_YOU_FOLLOWED" = "Konten, denen du kürzlich gefolgt bist";
+"PA_SUB_YOU_UNFOLLOWED" = "Konten, denen du kürzlich entfolgt bist";
+"PA_SUB_NOT_FOLLOW_BACK_FORMAT" = "In deinen %@ Abonnements";
+"PA_SUB_YOU_DONT_FOLLOW_FORMAT" = "In deinen %@ Followern";
+"PA_SUB_MUTUAL_FRIENDS" = "Ihr folgt euch gegenseitig";
+"PA_SUB_PROFILE_UPDATES" = "Benutzername, Name oder Foto geändert";
+
+/* // ── Scan history badge ──────────────────────────────────────────────────────── */
+"PA_SCAN_COUNT_SINGULAR" = "%ld Scan";
+"PA_SCAN_COUNT_PLURAL" = "%ld Scans";
+
+/* // ── "Updated" tag on rows ───────────────────────────────────────────────────── */
+"PA_UPDATED_TAG" = "● Aktualisiert";
+
+/* // ── Profile update change descriptions ─────────────────────────────────────── */
+"PA_CHANGE_PREFIX" = "Aktualisiert: ";
+"PA_CHANGE_USERNAME_FORMAT" = "Benutzername: %@ → %@";
+"PA_CHANGE_PHOTO" = "Profilbild";
+"PA_CHANGE_SEPARATOR" = " & ";
+
+/* // ── User cell fallback subtitle ─────────────────────────────────────────────── */
+"PA_PK_FORMAT" = "PK: %@";
+
+/* // ── Empty state (user list screen) ─────────────────────────────────────────── */
+"PA_EMPTY_LIST" = "Noch keine Daten.\nÖffne deine Follower-/Abonnementliste, scrolle durch sie und scanne dann.";
+
+/* // ── No session / no user error alert ───────────────────────────────────────── */
+"PA_NO_USER_TITLE" = "Profil-Analysator";
+"PA_NO_USER_MESSAGE" = "Bitte öffne zuerst dein eigenes Profil und tippe dann auf den Analysator.";
+"PA_NO_USER_OK" = "OK";
+
+/* // ── Scan History sheet ──────────────────────────────────────────────────────── */
+"PA_HISTORY_TITLE" = "Scanverlauf";
+"PA_HISTORY_EMPTY" = "Noch keine Scans";
+"PA_HISTORY_ROW_FORMAT" = "%@  ·  %@ Follower  ·  %@ Abonniert";
+"PA_HISTORY_CLEAR_BUTTON" = "🗑  Alles löschen";
+"PA_HISTORY_CANCEL" = "Abbrechen";
+
+/* // ── Clear All confirmation ──────────────────────────────────────────────────── */
+"PA_CLEAR_CONFIRM_TITLE" = "Alle Scans löschen";
+"PA_CLEAR_CONFIRM_MESSAGE" = "Dadurch wird der gesamte Scanverlauf dauerhaft gelöscht.";
+"PA_CLEAR_CONFIRM_CANCEL" = "Abbrechen";
+"PA_CLEAR_CONFIRM_OK" = "Alles löschen";
+
+/* // ── Info menu (top-right button) ────────────────────────────────────────────── */
+"PA_INFO_MENU_HOW" = "ℹ️  So funktioniert es";
+"PA_INFO_MENU_CACHE" = "🗂  Cache-Info";
+"PA_INFO_MENU_CANCEL" = "Abbrechen";
+
+/* // ── How it Works alert ─────────────────────────────────────────────────────── */
+"PA_HOW_TITLE" = "So funktioniert es";
+"PA_HOW_MESSAGE" = "Der Profil-Analysator ruft deine Follower- und Abonnementlisten automatisch direkt von den Instagram-Servern ab — kein manuelles Scrollen erforderlich.\n\n🔍 Was „Jetzt scannen' macht:\nBeim Tippen auf „Jetzt scannen' werden deine vollständigen Follower- und Abonnementlisten im Hintergrund geladen und mit dem vorherigen Scan verglichen, um Folgendes zu erkennen:\n• Neue / verlorene Follower\n• Personen, denen du gefolgt bist / entfolgt hast\n• Wer dir nicht zurückfolgt\n• Wem du nicht zurückfolgst\n• Gemeinsame Freunde\n• Profilaktualisierungen (Benutzername oder Fotoänderungen)\n\n📋 Erster Scan:\nErstellt eine Basisaufnahme. Änderungen werden ab dem zweiten Scan angezeigt.\n\n💡 Gemeinsame Freunde:\nWerden automatisch aus deinen Followern/Abonnements berechnet. Für beste Genauigkeit öffne diese Liste mindestens einmal in Instagram.";
+"PA_HOW_OK" = "Verstanden";
+
+/* // ── Cache Info alert ────────────────────────────────────────────────────────── */
+"PA_CACHE_TITLE" = "Cache-Info";
+"PA_CACHE_OK" = "OK";
 
 /* General section */
 "HIDE_SEEN_DM" = "DMs manuell als gesehen markieren";

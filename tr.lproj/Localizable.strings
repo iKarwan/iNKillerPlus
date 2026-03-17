@@ -35,6 +35,8 @@
 "SHOW_CONFIRM_DISC" = "Fotoğraf veya video beğenmeden önce onay ister.";
 "confirm_like_comment" = "Yorum beğenisini onayla";
 "confirm_on_repost" = "Yeniden paylaşımı onayla";
+"feed_grid_view" = "Akış Izgara Görünümü";
+"feed_grid_view_disc" = "Ana akış gezinme çubuğuna bir ızgara düğmesi ekler. Liste ve 3×3 ızgara arasında geçiş yapmak için dokunun. 2×2 / 3×3 arasında geçiş için uzun basın.";
 
 /* Stories section */
 "NO_STORY_AD" = "Hikaye reklamı yok";
@@ -153,6 +155,91 @@
 "HIDE_ALL_TAB" = "Tüm sekmeleri gizle";
 "USE_COMPACT" = "Sade keşfet görünümü";
 "USE_COMPACT_DISC" = "Keşfet ekranını temizler, yalnızca arama çubuğunu bırakır.";
+"PA_TITLE" = "Profil Analizörü";
+
+/* // ── Header ─────────────────────────────────────────────────────────────────── */
+"PA_UNKNOWN_NAME" = "Bilinmiyor";
+"PA_STATS_FORMAT" = "%@ takipçi  ·  %@ takip edilen";
+"PA_NEVER_SCANNED" = "Hiç taranmadı";
+"PA_LAST_SCAN_FORMAT" = "Son tarama: %@";
+"PA_SCAN_BUTTON" = "Şimdi tara";
+
+/* // ── Progress labels (shown while fetching) ─────────────────────────────────── */
+"PA_PROGRESS_FETCHING_FOLLOWERS" = "Takipçiler alınıyor…";
+"PA_PROGRESS_FETCHING_FOLLOWING" = "Takip edilenler alınıyor…";
+"PA_PROGRESS_COMPUTING" = "Değişiklikler hesaplanıyor…";
+
+/* // ── Row titles ─────────────────────────────────────────────────────────────── */
+"PA_ROW_NEW_FOLLOWERS" = "Yeni takipçiler";
+"PA_ROW_LOST_FOLLOWERS" = "Kaybedilen takipçiler";
+"PA_ROW_YOU_FOLLOWED" = "Senin takip ettiklerin";
+"PA_ROW_YOU_UNFOLLOWED" = "Takibi bıraktıkların";
+"PA_ROW_NOT_FOLLOW_BACK" = "Seni geri takip etmeyenler";
+"PA_ROW_YOU_DONT_FOLLOW" = "Senin geri takip etmediklerin";
+"PA_ROW_MUTUAL_FRIENDS" = "Ortak arkadaşlar";
+"PA_ROW_PROFILE_UPDATES" = "Profil güncellemeleri";
+"PA_ROW_SCAN_HISTORY" = "Tarama geçmişi";
+
+/* // ── Row subtitles ───────────────────────────────────────────────────────────── */
+"PA_SUB_NEW_FOLLOWERS" = "Seni takip etmeye başlayanlar";
+"PA_SUB_LOST_FOLLOWERS" = "Seni takipten çıkanlar";
+"PA_SUB_YOU_FOLLOWED" = "Yakın zamanda takip ettiklerin";
+"PA_SUB_YOU_UNFOLLOWED" = "Yakın zamanda takibi bıraktıkların";
+"PA_SUB_NOT_FOLLOW_BACK_FORMAT" = "%@ takip ettiklerin içinde";
+"PA_SUB_YOU_DONT_FOLLOW_FORMAT" = "%@ takipçilerin içinde";
+"PA_SUB_MUTUAL_FRIENDS" = "Karşılıklı takip";
+"PA_SUB_PROFILE_UPDATES" = "Kullanıcı adı, isim veya fotoğraf değişti";
+
+/* // ── Scan history badge ──────────────────────────────────────────────────────── */
+"PA_SCAN_COUNT_SINGULAR" = "%ld tarama";
+"PA_SCAN_COUNT_PLURAL" = "%ld tarama";
+
+/* // ── "Updated" tag on rows ───────────────────────────────────────────────────── */
+"PA_UPDATED_TAG" = "● Güncellendi";
+
+/* // ── Profile update change descriptions ─────────────────────────────────────── */
+"PA_CHANGE_PREFIX" = "Güncellendi: ";
+"PA_CHANGE_USERNAME_FORMAT" = "kullanıcı adı: %@ → %@";
+"PA_CHANGE_PHOTO" = "profil fotoğrafı";
+"PA_CHANGE_SEPARATOR" = " & ";
+
+/* // ── User cell fallback subtitle ─────────────────────────────────────────────── */
+"PA_PK_FORMAT" = "PK: %@";
+
+/* // ── Empty state (user list screen) ─────────────────────────────────────────── */
+"PA_EMPTY_LIST" = "Henüz veri yok.\nTakipçi/takip edilen listeni aç, aşağı kaydır, sonra tara.";
+
+/* // ── No session / no user error alert ───────────────────────────────────────── */
+"PA_NO_USER_TITLE" = "Profil Analizörü";
+"PA_NO_USER_MESSAGE" = "Önce kendi profil sekmeni ziyaret et, sonra analizöre dokun.";
+"PA_NO_USER_OK" = "Tamam";
+
+/* // ── Scan History sheet ──────────────────────────────────────────────────────── */
+"PA_HISTORY_TITLE" = "Tarama Geçmişi";
+"PA_HISTORY_EMPTY" = "Henüz tarama yok";
+"PA_HISTORY_ROW_FORMAT" = "%@  ·  %@ takipçi  ·  %@ takip edilen";
+"PA_HISTORY_CLEAR_BUTTON" = "🗑  Tümünü temizle";
+"PA_HISTORY_CANCEL" = "İptal";
+
+/* // ── Clear All confirmation ──────────────────────────────────────────────────── */
+"PA_CLEAR_CONFIRM_TITLE" = "Tüm Taramaları Temizle";
+"PA_CLEAR_CONFIRM_MESSAGE" = "Bu işlem tüm tarama geçmişini kalıcı olarak silecektir.";
+"PA_CLEAR_CONFIRM_CANCEL" = "İptal";
+"PA_CLEAR_CONFIRM_OK" = "Tümünü Temizle";
+
+/* // ── Info menu (top-right button) ────────────────────────────────────────────── */
+"PA_INFO_MENU_HOW" = "ℹ️  Nasıl Çalışır";
+"PA_INFO_MENU_CACHE" = "🗂  Önbellek Bilgisi";
+"PA_INFO_MENU_CANCEL" = "İptal";
+
+/* // ── How it Works alert ─────────────────────────────────────────────────────── */
+"PA_HOW_TITLE" = "Nasıl Çalışır";
+"PA_HOW_MESSAGE" = "Profil Analizörü, takipçi ve takip edilen listelerini doğrudan Instagram sunucularından otomatik olarak alır — manuel kaydırmaya gerek yoktur.\n\n🔍 Şimdi Tara ne yapar:\nŞimdi Tara'ya dokunduğunda, tüm takipçi ve takip edilen listelerin arka planda alınır ve önceki tarama ile karşılaştırılarak şunlar tespit edilir:\n• Yeni / Kaybedilen takipçiler\n• Takip ettiklerin / bıraktıkların\n• Seni geri takip etmeyenler\n• Senin geri takip etmediklerin\n• Ortak arkadaşlar\n• Profil güncellemeleri (kullanıcı adı veya fotoğraf değişiklikleri)\n\n📋 İlk tarama:\nTemel bir anlık görüntü oluşturur. Değişiklikler ikinci taramadan itibaren görünür.\n\n💡 Ortak arkadaşlar:\nTakipçi/takip edilen listelerinden otomatik hesaplanır. En iyi doğruluk için Instagram'da bu listeyi en az bir kez aç.";
+"PA_HOW_OK" = "Anladım";
+
+/* // ── Cache Info alert ────────────────────────────────────────────────────────── */
+"PA_CACHE_TITLE" = "Önbellek Bilgisi";
+"PA_CACHE_OK" = "Tamam";
 
 /* General section */
 "HIDE_SEEN_DM" = "DM’leri elle okundu işaretle";

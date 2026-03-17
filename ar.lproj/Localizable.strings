@@ -34,6 +34,8 @@
 "SHOW_CONFIRM_DISC" = "يطلب تأكيد قبل الإعجاب بالصور أو الفيديو.";
 "confirm_like_comment" = "تأكيد إعجاب بالتعليقات";
 "confirm_on_repost" = "تأكيد عند إعادة النشر";
+"feed_grid_view" = "عرض الشبكة للخلاصة";
+"feed_grid_view_disc" = "إضافة زر تبديل الشبكة إلى شريط التنقل في الصفحة الرئيسية. اضغط للتبديل بين القائمة وشبكة 3×3. اضغط مطولاً للتبديل بين 2×2 / 3×3.";
 
 /* Stories section */
 "NO_STORY_AD" = "بدون إعلانات القصص";
@@ -152,6 +154,76 @@
 "HIDE_ALL_TAB" = "إخفاء جميع التبويبات";
 "USE_COMPACT" = "وضع استكشاف مضغوط";
 "USE_COMPACT_DISC" = "يُظهر فقط شريط البحث في تبويب الاستكشاف.";
+"PA_TITLE" = "محلل الملف الشخصي";
+
+"PA_UNKNOWN_NAME" = "غير معروف";
+"PA_STATS_FORMAT" = "%@ متابع  ·  %@ يتابع";
+"PA_NEVER_SCANNED" = "لم يتم الفحص مطلقًا";
+"PA_LAST_SCAN_FORMAT" = "آخر فحص: %@";
+"PA_SCAN_BUTTON" = "فحص الآن";
+
+"PA_PROGRESS_FETCHING_FOLLOWERS" = "جارٍ جلب المتابعين…";
+"PA_PROGRESS_FETCHING_FOLLOWING" = "جارٍ جلب المتابَعين…";
+"PA_PROGRESS_COMPUTING" = "جارٍ حساب التغييرات…";
+
+"PA_ROW_NEW_FOLLOWERS" = "متابعون جدد";
+"PA_ROW_LOST_FOLLOWERS" = "متابعون مفقودون";
+"PA_ROW_YOU_FOLLOWED" = "قمت بمتابعتهم";
+"PA_ROW_YOU_UNFOLLOWED" = "ألغيت متابعتهم";
+"PA_ROW_NOT_FOLLOW_BACK" = "لا يتابعونك";
+"PA_ROW_YOU_DONT_FOLLOW" = "لا تتابعهم";
+"PA_ROW_MUTUAL_FRIENDS" = "أصدقاء مشتركين";
+"PA_ROW_PROFILE_UPDATES" = "تحديثات الملف";
+"PA_ROW_SCAN_HISTORY" = "سجل الفحص";
+
+"PA_SUB_NEW_FOLLOWERS" = "من بدأ بمتابعتك";
+"PA_SUB_LOST_FOLLOWERS" = "من ألغى متابعتك";
+"PA_SUB_YOU_FOLLOWED" = "حسابات تابعتها مؤخرًا";
+"PA_SUB_YOU_UNFOLLOWED" = "حسابات ألغيت متابعتها مؤخرًا";
+"PA_SUB_NOT_FOLLOW_BACK_FORMAT" = "ضمن %@ من تتابعهم";
+"PA_SUB_YOU_DONT_FOLLOW_FORMAT" = "ضمن %@ من متابعيك";
+"PA_SUB_MUTUAL_FRIENDS" = "تتابعون بعضكم";
+"PA_SUB_PROFILE_UPDATES" = "تغير اسم المستخدم أو الاسم أو الصورة";
+
+"PA_SCAN_COUNT_SINGULAR" = "%ld فحص";
+"PA_SCAN_COUNT_PLURAL" = "%ld فحوصات";
+
+"PA_UPDATED_TAG" = "● تم التحديث";
+
+"PA_CHANGE_PREFIX" = "تم التحديث: ";
+"PA_CHANGE_USERNAME_FORMAT" = "اسم المستخدم: %@ → %@";
+"PA_CHANGE_PHOTO" = "صورة الملف";
+"PA_CHANGE_SEPARATOR" = " و ";
+
+"PA_PK_FORMAT" = "PK: %@";
+
+"PA_EMPTY_LIST" = "لا توجد بيانات بعد.\nافتح قائمة المتابعين/المتابَعين ومرر خلالها ثم قم بالفحص.";
+
+"PA_NO_USER_TITLE" = "محلل الملف الشخصي";
+"PA_NO_USER_MESSAGE" = "يرجى فتح ملفك الشخصي أولاً ثم اضغط على المحلل.";
+"PA_NO_USER_OK" = "حسنًا";
+
+"PA_HISTORY_TITLE" = "سجل الفحص";
+"PA_HISTORY_EMPTY" = "لا يوجد فحص بعد";
+"PA_HISTORY_ROW_FORMAT" = "%@  ·  %@ متابع  ·  %@ يتابع";
+"PA_HISTORY_CLEAR_BUTTON" = "🗑  مسح الكل";
+"PA_HISTORY_CANCEL" = "إلغاء";
+
+"PA_CLEAR_CONFIRM_TITLE" = "مسح كل الفحوصات";
+"PA_CLEAR_CONFIRM_MESSAGE" = "سيتم حذف جميع سجلات الفحص نهائيًا.";
+"PA_CLEAR_CONFIRM_CANCEL" = "إلغاء";
+"PA_CLEAR_CONFIRM_OK" = "مسح الكل";
+
+"PA_INFO_MENU_HOW" = "ℹ️  كيف يعمل";
+"PA_INFO_MENU_CACHE" = "🗂  معلومات التخزين";
+"PA_INFO_MENU_CANCEL" = "إلغاء";
+
+"PA_HOW_TITLE" = "كيف يعمل";
+"PA_HOW_MESSAGE" = "يقوم محلل الملف الشخصي بجلب المتابعين والمتابَعين مباشرة من خوادم إنستغرام تلقائيًا.\n\n🔍 ماذا يفعل فحص الآن:\nيقوم بجلب القوائم كاملة ثم يقارنها مع الفحص السابق لاكتشاف:\n• المتابعين الجدد / المفقودين\n• من تابعتهم / ألغيت متابعتهم\n• من لا يتابعك\n• من لا تتابعهم\n• الأصدقاء المشتركين\n• تحديثات الملف\n\n📋 الفحص الأول:\nينشئ نقطة البداية. تظهر التغييرات من الفحص الثاني.\n\n💡 الأصدقاء المشتركون:\nيتم حسابهم تلقائيًا. للحصول على دقة أفضل، افتح القائمة مرة واحدة على الأقل.";
+"PA_HOW_OK" = "فهمت";
+
+"PA_CACHE_TITLE" = "معلومات التخزين";
+"PA_CACHE_OK" = "حسنًا";
 
 /* General section */
 "HIDE_SEEN_DM" = "تحديد الرسائل كمقروءة يدويًا";
