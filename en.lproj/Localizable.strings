@@ -407,7 +407,15 @@
 "Off" = "Off";
 "calculating" = "Calculating…";
 
-/* checkForUpdates */
+/* Unlink Email from License */
+"unlink_email" = "Unlink Email";
+"unlink_confirmation" = "Confirm Unlink";
+"unlink_email_explanation" = "Are you sure you want to unlink this email from your license?";
+"unlink" = "Unlink";
+"error_unlink" = "Error";
+"error_unlink_desc" = "Failed to unlink email.";
+"success_unlink" = "Success";
+"success_unlink_desc" = "Email unlinked successfully.";
 
 /* promptForActivation */
 "license_option" = "License Options";

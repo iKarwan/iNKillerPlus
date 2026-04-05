@@ -377,7 +377,15 @@
 "Off" = "إيقاف";
 "calculating" = "جارٍ الحساب...";
 
-/* checkForUpdates */
+/* Unlink Email from License */
+"unlink_email" = "إلغاء ربط البريد الإلكتروني";
+"unlink_confirmation" = "تأكيد الإلغاء";
+"unlink_email_explanation" = "هل أنت متأكد أنك تريد إلغاء ربط هذا البريد الإلكتروني من الترخيص؟";
+"unlink" = "إلغاء الربط";
+"error_unlink" = "خطأ";
+"error_unlink_desc" = "فشل إلغاء ربط البريد الإلكتروني.";
+"success_unlink" = "نجاح";
+"success_unlink_desc" = "تم إلغاء ربط البريد الإلكتروني بنجاح.";
 
 /* promptForActivation */
 "license_option" = "خيارات الترخيص";

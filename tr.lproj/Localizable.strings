@@ -393,7 +393,15 @@
 "Off" = "Kapalı";
 "calculating" = "Hesaplanıyor...";
 
-/* checkForUpdates */
+/* Unlink Email from License */
+"unlink_email" = "E-postayı Bağlantıdan Kaldır";
+"unlink_confirmation" = "Kaldırmayı Onayla";
+"unlink_email_explanation" = "Bu e-postayı lisansınızdan kaldırmak istediğinizden emin misiniz?";
+"unlink" = "Bağlantıyı Kaldır";
+"error_unlink" = "Hata";
+"error_unlink_desc" = "E-posta bağlantısı kaldırılamadı.";
+"success_unlink" = "Başarılı";
+"success_unlink_desc" = "E-posta başarıyla kaldırıldı.";
 
 /* promptForActivation */
 "license_option" = "Lisans seçenekleri";

@@ -393,7 +393,15 @@
 "Off" = "オフ";
 "calculating" = "計算中…";
 
-/* checkForUpdates */
+/* Unlink Email from License */
+"unlink_email" = "メールのリンクを解除";
+"unlink_confirmation" = "解除を確認";
+"unlink_email_explanation" = "このメールをライセンスから解除してもよろしいですか？";
+"unlink" = "解除";
+"error_unlink" = "エラー";
+"error_unlink_desc" = "メールのリンク解除に失敗しました。";
+"success_unlink" = "成功";
+"success_unlink_desc" = "メールのリンクを正常に解除しました。";
 
 /* promptForActivation */
 "license_option" = "ライセンスオプション";

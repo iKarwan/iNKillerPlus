@@ -395,7 +395,15 @@
 "Off" = "Aus";
 "calculating" = "Wird berechnet…";
 
-/* checkForUpdates */
+/* Unlink Email from License */
+"unlink_email" = "E-Mail-Verknüpfung aufheben";
+"unlink_confirmation" = "Aufhebung bestätigen";
+"unlink_email_explanation" = "Möchten Sie diese E-Mail wirklich von Ihrer Lizenz trennen?";
+"unlink" = "Trennen";
+"error_unlink" = "Fehler";
+"error_unlink_desc" = "E-Mail konnte nicht getrennt werden.";
+"success_unlink" = "Erfolg";
+"success_unlink_desc" = "E-Mail erfolgreich getrennt.";
 
 /* promptForActivation */
 "license_option" = "Lizenzoptionen";

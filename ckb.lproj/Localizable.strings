@@ -394,7 +394,15 @@
 "Off" = "ناچالاک";
 "calculating" = "هەژمارەکردن...";
 
-/* checkForUpdates */
+/* Unlink Email from License */
+"unlink_email" = "جیاکردنەوەی ئیمەیڵ";
+"unlink_confirmation" = "دڵنیابوونەوەی جیاکردنەوە";
+"unlink_email_explanation" = "دڵنیایت کە دەتەوێت ئەم ئیمەیڵە لە مۆڵەتەکەت جیا بکەیتەوە؟";
+"unlink" = "جیاکردنەوە";
+"error_unlink" = "هەڵە";
+"error_unlink_desc" = "جیاکردنەوەی ئیمەیڵ سەرکەوتوو نەبوو.";
+"success_unlink" = "سەرکەوتوو";
+"success_unlink_desc" = "ئیمەیڵ بە سەرکەوتوویی جیاکرایەوە.";
 
 /* promptForActivation */
 "license_option" = "هەڵبژاردەکانی مۆڵەت";

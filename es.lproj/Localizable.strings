@@ -393,7 +393,15 @@
 "Off" = "Desactivado";
 "calculating" = "Calculando...";
 
-/* checkForUpdates */
+/* Unlink Email from License */
+"unlink_email" = "Desvincular correo";
+"unlink_confirmation" = "Confirmar desvinculación";
+"unlink_email_explanation" = "¿Seguro que quieres desvincular este correo de tu licencia?";
+"unlink" = "Desvincular";
+"error_unlink" = "Error";
+"error_unlink_desc" = "Error al desvincular el correo.";
+"success_unlink" = "Éxito";
+"success_unlink_desc" = "Correo desvinculado correctamente.";
 
 /* promptForActivation */
 "license_option" = "Opciones de licencia";

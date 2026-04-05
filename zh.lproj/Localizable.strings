@@ -393,7 +393,15 @@
 "Off" = "关";
 "calculating" = "计算中…";
 
-/* checkForUpdates */
+/* Unlink Email from License */
+"unlink_email" = "解除邮箱绑定";
+"unlink_confirmation" = "确认解除";
+"unlink_email_explanation" = "确定要将此邮箱从许可证中解除绑定吗？";
+"unlink" = "解除绑定";
+"error_unlink" = "错误";
+"error_unlink_desc" = "解除邮箱绑定失败。";
+"success_unlink" = "成功";
+"success_unlink_desc" = "邮箱已成功解除绑定。";
 
 /* promptForActivation */
 "license_option" = "许可证选项";

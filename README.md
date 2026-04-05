@@ -2,9 +2,9 @@
 * a whole new Instagram Experience!
 
 ## Screenshots
-| ![1](https://repo.ikghd.me/depictions/me.ikghd.inkplus/screenshots/1.PNG) | ![2](https://repo.ikghd.me/depictions/me.ikghd.inkplus/screenshots/2.PNG) | ![3](https://repo.ikghd.me/depictions/me.ikghd.inkplus/screenshots/3.PNG)|
+| ![1](https://repo.ikghd.me/depictions/me.ikghd.inkplus/screenshots/1.PNG) | ![2](https://repo.ikghd.me/depictions/me.ikghd.inkplus/screenshots/2.PNG) | ![4](https://repo.ikghd.me/depictions/me.ikghd.inkplus/screenshots/4.PNG)|
 |---|---|---|
-|  ![4](https://repo.ikghd.me/depictions/me.ikghd.inkplus/screenshots/4.PNG) | ![5](https://repo.ikghd.me/depictions/me.ikghd.inkplus/screenshots/5.PNG) | ![7](https://repo.ikghd.me/depictions/me.ikghd.inkplus/screenshots/7.PNG) |
+|  ![6](https://repo.ikghd.me/depictions/me.ikghd.inkplus/screenshots/6.PNG) | ![5](https://repo.ikghd.me/depictions/me.ikghd.inkplus/screenshots/5.PNG) | ![7](https://repo.ikghd.me/depictions/me.ikghd.inkplus/screenshots/7.PNG) |
 
 ## Recommended iOS Firmware & Instagram App Versions?
 * iOS iPadOS 15.1 / iOS iPadOS 26.x ...
@@ -22,8 +22,8 @@
     1. Download IPA file from here and follow the instructions below to sign and install the app from your computer for one week
         | Application | Bundle | Version | iNKillerPlus | File Type |
         | ------------------ |:---------:|:------:|:------:|:------:|
-        | [Instagram](https://ikghd.site/ipa/Instagram_421.0_iNKillerPlus_3.6.4.ipa) | com.burbn.instagram | 421.0 | 3.6.4 | IPA |
-        | [TrollStore](https://ikghd.site/ipa/Instagram_421.0_iNKillerPlus_3.6.4_TrollStore.tipa) | com.burbn.instagram | 421.0 | 3.6.4 | tipa |
+        | [Instagram](https://ikghd.site/ipa/Instagram_423.1_iNKillerPlus_3.6.6.ipa) | com.burbn.instagram | 423.1 | 3.6.6 | IPA |
+        | [TrollStore](https://ikghd.site/ipa/Instagram_423.1_iNKillerPlus_3.6.6_TrollStore.tipa) | com.burbn.instagram | 423.1 | 3.6.6 | tipa |
 
 
 ## How to Sideload on non-jailbroken devices
@@ -54,7 +54,7 @@
 
 ### TrollStore TIPA
 * Download and install TrollStore from [here](https://github.com/opa334/TrollStore).
-* Copy this link [here](https://ikghd.site/ipa/Instagram_421.0_iNKillerPlus_3.6.4_TrollStore.tipa) and paste it into the "Install from URL" option in TrollStore.
+* Copy this link [here](https://ikghd.site/ipa/Instagram_423.1_iNKillerPlus_3.6.6_TrollStore.tipa) and paste it into the "Install from URL" option in TrollStore.
 
 
 ### Telegram Channel

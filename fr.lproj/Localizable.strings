@@ -1,0 +1,457 @@
+/* créé le 21/02/2023 */
+/* par iKarwan */
+
+/* NOTE!!! Vous avez le droit de demander une copie de iNKillerPlus après traduction et d'ajouter aux crédits */
+/* NOTE 2 !!! Veuillez ajouter votre langue spécifique après la traduction comme en - fr - ar - zh etc... */
+
+/* Interrupteur global de iNKillerPlus */
+"GLOB_ENABLED" = "Global activé";
+"GLOBAL_ENABLED_SWITCH" = "Appuyez en haut à droite pour appliquer les modifications.";
+
+/* Interrupteur global de téléchargement */
+"DOWNLOADING" = "Activer la fonction de téléchargement";
+"GLOBAL_DOWNLOADING_SWITCH" = "Ajouter un bouton ou maintenir enfoncé pour télécharger.";
+"first_cleaner_disc" = "Maintenez l'icône d'engrenage enfoncée pendant 3 secondes pour afficher les options de nettoyage !";
+
+/* Section générale */
+"MAIN_UI" = "Fil d'actualité";
+"STORIES" = "Stories";
+"reels" = "Reels";
+"DIRECT_MESSG" = "Messages";
+"PROFILE" = "Profil";
+"TAB_BAR_SECTION" = "Interface utilisateur";
+"MISCELLANEOUS" = "Divers";
+
+/* Section Fil d'actualité */
+"POST_DISC" = "Publication";
+"NO_ADS" = "Pas de publicités";
+"disable_refresh_feed" = "Désactiver l'actualisation du fil";
+"disable_refresh_feed_disc" = "Arrête les mises à jour automatiques du fil.";
+"no_suggesation" = "Pas de suggestions";
+"no_suggesation_disc" = "Nettoie ton fil et supprime les publications IA, Reels, Threads et suggérées.";
+"R_IMAGE_POSTED_CORNER" = "Coins arrondis des publications";
+"NO_SINGLE_TAP" = "Désactiver le simple appui";
+"NO_SINGLE_TAP_DISC" = "Empêche l'ouverture des vidéos en plein écran par simple appui.";
+"NO_DOUBLE_TAP_LIKE" = "Désactiver le double appui pour aimer";
+"SHOW_CONFIRM" = "Afficher la confirmation";
+"SHOW_CONFIRM_DISC" = "Confirmer avant d'aimer les photos ou vidéos.";
+"confirm_like_comment" = "Confirmer les likes des commentaires";
+"confirm_on_repost" = "Confirmer le repost";
+"feed_grid_view" = "Vue grille du fil";
+"feed_grid_view_disc" = "Ajoute un bouton de bascule de grille à la barre de navigation du fil d'actualité. Appuyez pour basculer entre la liste et une grille 3×3. Maintenez enfoncé pour basculer entre 2×2 / 3×3.";
+
+/* Section Stories */
+"NO_STORY_AD" = "Pas de publicité dans les stories";
+"HIDE_SEEN_MANUALLY" = "Masquer les stories vues manuellement";
+"HIDE_SEEN_MANUALLY_DISC" = "Ajoute un bouton dans la vue des stories.";
+"HIDE_SEEN_MANUALLY2" = "Masquer les stories vues manuellement 2";
+"HIDE_SEEN_MANUALLY_DISC2" = "Ajoute un interrupteur manuel dans la vue des stories.";
+"HIDE_QUICK_REACTION" = "Masquer les réactions rapides";
+"auto_advance" = "Arrêter l'avancement automatique";
+"auto_advance_disc" = "Empêche le passage automatique à la story suivante";
+
+"show_mention" = "Afficher les mentions";
+"show_mention_disc" = "Afficher l'utilisateur mentionné dans la story avec un symbole @";
+"no_mentions" = "Pas de mentions";
+"no_mentions_disc" = "Cette story ne contient pas de mentions @";
+"mentioned_user" = "Utilisateur mentionné";
+"mentioned_user_disc" = "%lu utilisateur(s) mentionné(s)";
+"tap_profile" = "Appuyez sur un nom d'utilisateur pour afficher le profil";
+
+/* Section Reels */
+"disable_scroll" = "Désactiver le défilement";
+
+/* Section Messages */
+"message" = "Message";
+"unsend_message" = "Conserver les messages retirés";
+"unsend_message_disc" = "Empêche la suppression des messages et ajoute une icône de retrait.";
+"unsed" = "Retiré !";
+
+"dms_marked_auto_seen" = "Les messages directs de cet utilisateur sont automatiquement marqués comme lus";
+"stories_marked_auto_seen" = "Les stories de cet utilisateur sont automatiquement marquées comme vues";
+"add" = "Ajouter";
+"view_list" = "Voir la liste";
+"add_exception" = "Ajouter une exception";
+"exception_add" = "✅ Exception ajoutée";
+"add_to_exception_list" = "@%@ ajouté à la liste d'exceptions";
+"remove_from_exception_list" = "Retirer @%@ de la liste d'exceptions ?";
+"remove_exception" = "Retirer l'exception";
+"exception_removed" = "✅ Exception retirée";
+"removed_from_exception_list" = "@%@ retiré de la liste d'exceptions";
+"notification" = "Notification";
+"notification_disc" = "Activer la notification lorsqu'un utilisateur retire un message !";
+"view_unsent_log" = "Voir les messages retirés";
+"view_unsent_log_disc" = "Afficher tous les messages retirés enregistrés";
+"dms_exception_list" = "Liste d'exceptions des DM lus";
+"dms_exception_list_log" = "Gérer les utilisateurs dont les DM sont automatiquement marqués comme lus (maintenir le bouton œil dans le chat enfoncé)";
+"unsent_messages" = "Messages retirés";
+"clear_all_messages" = "Effacer tous les messages";
+"clear_all_messages_confirm" = "Voulez-vous vraiment effacer tous les messages retirés enregistrés ? Cela réinitialisera également tous les caches.";
+"cancel" = "Annuler";
+"clear" = "Effacer";
+"success" = "Succès";
+"success_clear_messages" = "%lu messages retirés effacés avec succès et tous les caches réinitialisés";
+"error" = "Erreur";
+"error_clear_messages" = "Impossible d'effacer les messages : %@";
+"no_unsent_messages" = "Aucun message retiré enregistré";
+"unknown" = "Inconnu";
+"message_details" = "Détails du message";
+"from_message" = "De : @%@\n\nMessage :\n%@\n\nSupprimé : %@";
+"copy_text" = "Copier le texte";
+"text_copied" = "Texte copié dans le presse-papiers";
+"close" = "Fermer";
+"error_delete_message" = "Impossible de supprimer le message : %@";
+"unsent_messages_header" = "%lu MESSAGES RETIRÉS";
+"story_exception_list" = "Liste d'exceptions des stories vues";
+"story_exception_list_log" = "Gérer les utilisateurs dont les stories sont automatiquement marquées comme vues (maintenir le bouton œil dans le chat enfoncé)";
+"clear_all_exceptions" = "Effacer toutes les exceptions";
+"clear_all_exceptions_confirm" = "Voulez-vous vraiment effacer toutes les exceptions ? Les messages/stories de ces utilisateurs ne seront plus automatiquement marqués comme vus.";
+"no_exceptions" = "Aucune exception ajoutée pour l'instant";
+"dms_exception_footer" = "Les DM de ces utilisateurs sont automatiquement marqués comme lus. Glissez vers la gauche pour retirer.";
+"story_exception_footer" = "Les stories de ces utilisateurs sont automatiquement marquées comme vues. Glissez vers la gauche pour retirer.";
+"exception_header" = "%lu utilisateurs - %@ automatiquement marqués comme vus";
+"dms" = "DM";
+"stories" = "Stories";
+"storied_marked_auto_seen" = "Les stories de cet utilisateur sont automatiquement marquées comme vues";
+
+"unsent_a_mssg" = "@%@ a retiré un message";
+
+"unsend_disc" = "L'actualisation supprime les messages retirés et recharge les données.\n\nLes messages sont automatiquement synchronisés.";
+"refresh" = "Actualiser";
+"unsend_at" = "Message retiré à : %@ !";
+"downloading_disc_dm" = "Ajouter le maintien enfoncé pour télécharger.";
+"hide_typing" = "Masquer la saisie…";
+"hide_typing_disc" = "Masque l'indicateur de saisie dans le chat.\nAjoute une icône à la barre de navigation.";
+"typing_off" = "Saisie masquée – Les autres ne voient pas quand vous écrivez";
+"typing_on" = "Saisie visible – Les autres voient quand vous écrivez";
+"unlimit_replay" = "Lecture illimitée";
+"unlimit_replay_disc" = "Regarder les photos et vidéos sans limite.\nAjoute une indication lors du maintien enfoncé";
+"MARK_AS_SEEN" = "Marquer comme vu";
+
+"send_video_as_audio" = "Envoyer la vidéo en audio";
+"send_video_as_audio_disc" = "Envoyer la vidéo et le fichier en audio\nMaintenir l'icône de micro enfoncée.";
+"send_as_voice" = "Envoyer en message vocal";
+"send_as_voice_disc" = "Sélectionner un fichier audio ou vidéo à envoyer";
+"audi_video_from_files" = "📁 Audio 🎥 Vidéo depuis les fichiers";
+"video_from_photos" = "🎥 Vidéo depuis les photos";
+"dwn_audio_dm" = "↓  Télécharger l'audio";
+"audio_dm_not_found" = "Aucun audio trouvé pour ce message";
+
+/* Section Profil */
+"SPOOF" = "Usurpation…";
+"ACCOUNT_VERIFIED" = "Compte vérifié";
+"NO_DOUBLETAP_SWITCH" = "Désactiver le changement par double appui";
+"NO_DOUBLETAP_SWITCH_DISC" = "Empêche le changement de compte par double appui.";
+"NO_SUGGESTED_PROFILE" = "Masquer les profils suggérés";
+"WHO_FOLLOWING" = "Statut des abonnés";
+"WHO_FOLLOWING_DISC" = "Affiche qui vous suit en retour.";
+"confirm_follow" = "Confirmer l'abonnement";
+"confirm_follow_disc" = "Affiche une confirmation avant de s'abonner.";
+
+/* Section Interface */
+"NO_LONG_PRESS" = "Désactiver l'appui long sur les onglets";
+"HIDE_TABS" = "Masquer les onglets";
+"NO_EXPLORE" = "Masquer l'onglet Explorer";
+"NO_CREATE" = "Masquer l'onglet Créer";
+"NO_REEL" = "Masquer l'onglet Reels";
+"HIDE_ALL_TAB" = "Masquer tous les onglets";
+"USE_COMPACT" = "Onglet Explorer compact";
+"USE_COMPACT_DISC" = "Supprime le contenu et n'affiche que la barre de recherche.";
+"PA_TITLE" = "Analyseur de profil";
+
+/* // ── En-tête ─────────────────────────────────────────────────────────────────── */
+"PA_UNKNOWN_NAME" = "Inconnu";
+"PA_STATS_FORMAT" = "%@ abonnés  ·  %@ abonnements";
+"PA_NEVER_SCANNED" = "Jamais analysé";
+"PA_LAST_SCAN_FORMAT" = "Dernière analyse : %@";
+"PA_SCAN_BUTTON" = "Analyser maintenant";
+
+/* // ── Libellés de progression (affichés pendant la récupération) ─────────────────────────────────────────────────────────────────── */
+"PA_PROGRESS_FETCHING_FOLLOWERS" = "Récupération des abonnés…";
+"PA_PROGRESS_FETCHING_FOLLOWING" = "Récupération des abonnements…";
+"PA_PROGRESS_COMPUTING" = "Calcul des changements…";
+
+/* // ── Titres de ligne ─────────────────────────────────────────────────────────────── */
+"PA_ROW_NEW_FOLLOWERS" = "Nouveaux abonnés";
+"PA_ROW_LOST_FOLLOWERS" = "Abonnés perdus";
+"PA_ROW_YOU_FOLLOWED" = "Vous avez suivi";
+"PA_ROW_YOU_UNFOLLOWED" = "Vous avez cessé de suivre";
+"PA_ROW_NOT_FOLLOW_BACK" = "Ne vous suivent pas en retour";
+"PA_ROW_YOU_DONT_FOLLOW" = "Vous ne suivez pas en retour";
+"PA_ROW_MUTUAL_FRIENDS" = "Amis communs";
+"PA_ROW_PROFILE_UPDATES" = "Mises à jour du profil";
+"PA_ROW_SCAN_HISTORY" = "Historique des analyses";
+
+/* // ── Sous-titres de ligne ───────────────────────────────────────────────────────────── */
+"PA_SUB_NEW_FOLLOWERS" = "Qui vous suivent nouvellement";
+"PA_SUB_LOST_FOLLOWERS" = "Qui ont cessé de vous suivre";
+"PA_SUB_YOU_FOLLOWED" = "Comptes que vous avez récemment suivis";
+"PA_SUB_YOU_UNFOLLOWED" = "Comptes que vous avez récemment cessés de suivre";
+"PA_SUB_NOT_FOLLOW_BACK_FORMAT" = "Parmi vos %@ abonnements";
+"PA_SUB_YOU_DONT_FOLLOW_FORMAT" = "Parmi vos %@ abonnés";
+"PA_SUB_MUTUAL_FRIENDS" = "Vous vous suivez mutuellement";
+"PA_SUB_PROFILE_UPDATES" = "Nom d'utilisateur, nom ou photo modifié";
+
+/* // ── Badge d'historique des analyses ──────────────────────────────────────────────────────── */
+"PA_SCAN_COUNT_SINGULAR" = "%ld analyse";
+"PA_SCAN_COUNT_PLURAL" = "%ld analyses";
+
+/* // ── Étiquette « Mis à jour » sur les lignes ───────────────────────────────────────────────────── */
+"PA_UPDATED_TAG" = "● Mis à jour";
+
+/* // ── Descriptions des modifications de profil ─────────────────────────────────────────────────────── */
+"PA_CHANGE_PREFIX" = "Mis à jour : ";
+"PA_CHANGE_USERNAME_FORMAT" = "Nom d'utilisateur : %@ → %@";
+"PA_CHANGE_PHOTO" = "Photo de profil";
+"PA_CHANGE_SEPARATOR" = " & ";
+
+/* // ── Sous-titre de cellule utilisateur par défaut ─────────────────────────────────────────────── */
+"PA_PK_FORMAT" = "ID : %@";
+
+/* // ── État vide (écran de liste d'utilisateurs) ─────────────────────────────────────────── */
+"PA_EMPTY_LIST" = "Aucune donnée disponible.\nOuvre ta liste d'abonnés/abonnements, fais défiler et analyse ensuite.";
+
+/* // ── Alerte d'erreur : pas de session/pas d'utilisateur ───────────────────────────────────────── */
+"PA_NO_USER_TITLE" = "Analyseur de profil";
+"PA_NO_USER_MESSAGE" = "Veuillez d'abord ouvrir votre propre profil, puis appuyez sur l'analyseur.";
+"PA_NO_USER_OK" = "OK";
+
+/* // ── Historique des analyses ──────────────────────────────────────────────────────── */
+"PA_HISTORY_TITLE" = "Historique des analyses";
+"PA_HISTORY_EMPTY" = "Aucune analyse effectuée";
+"PA_HISTORY_ROW_FORMAT" = "%@  ·  %@ abonnés  ·  %@ abonnements";
+"PA_HISTORY_CLEAR_BUTTON" = "🗑  Tout effacer";
+"PA_HISTORY_CANCEL" = "Annuler";
+
+/* // ── Confirmation de suppression de tout ──────────────────────────────────────────────────── */
+"PA_CLEAR_CONFIRM_TITLE" = "Effacer toutes les analyses";
+"PA_CLEAR_CONFIRM_MESSAGE" = "Cela supprimera définitivement tout l'historique des analyses.";
+"PA_CLEAR_CONFIRM_CANCEL" = "Annuler";
+"PA_CLEAR_CONFIRM_OK" = "Tout effacer";
+
+/* // ── Menu d'informations (bouton en haut à droite) ────────────────────────────────────────────── */
+"PA_INFO_MENU_HOW" = "ℹ️  Comment ça marche";
+"PA_INFO_MENU_CACHE" = "🗂  Infos sur le cache";
+"PA_INFO_MENU_CANCEL" = "Annuler";
+
+/* // ── Alerte "Comment ça marche" ─────────────────────────────────────────────────────── */
+"PA_HOW_TITLE" = "Comment ça marche";
+"PA_HOW_MESSAGE" = "L'analyseur de profil récupère automatiquement tes listes d'abonnés et d'abonnements directement depuis les serveurs Instagram — aucun défilement manuel n'est nécessaire.\n\n🔍 Ce que fait 'Analyser maintenant' :\nEn appuyant sur 'Analyser maintenant', tes listes complètes d'abonnés et d'abonnements sont chargées en arrière-plan et comparées à l'analyse précédente pour détecter :\n• Nouveaux/anciens abonnés\n• Personnes que tu as suivies/cessé de suivre\n• Ceux qui ne te suivent pas en retour\n• Ceux que tu ne suis pas en retour\n• Amis communs\n• Mises à jour de profil (changements de nom d'utilisateur ou de photo)\n\n📋 Première analyse :\nCrée une base de référence. Les changements seront affichés à partir de la deuxième analyse.\n\n💡 Amis communs :\nCalculés automatiquement à partir de tes abonnés/abonnements. Pour une meilleure précision, ouvre cette liste au moins une fois dans Instagram.";
+"PA_HOW_OK" = "Compris";
+
+/* // ── Alerte "Infos sur le cache" ────────────────────────────────────────────────────────── */
+"PA_CACHE_TITLE" = "Infos sur le cache";
+"PA_CACHE_OK" = "OK";
+
+/* Section générale */
+"HIDE_SEEN_DM" = "Marquer manuellement les DM comme lues";
+"NOTIFY_CALLING_DM" = "Confirmer l'appel";
+"NOTIFY_CALLING_DM_DISC" = "Confirmer avant les appels audio ou vidéo.";
+"NOTIFY_SCREENSHOOT_DM" = "Protection contre les captures d'écran";
+"NOTIFY_SCREENSHOOT_DM_DISC" = "Désactive la détection de capture d'écran pour les médias.";
+"HIDE_SEEN_DM_DISC" = "Ajoute un bouton dans la vue des DM.";
+"COPY_TXT" = "Copier le texte";
+"COPY_TEXT" = "Copier les textes";
+"open_url" = "Ouvrir le lien";
+"COPY_TEXT_DISC" = "Maintenir enfoncé pour copier les descriptions, commentaires ou bios.";
+
+"video_sticker" = "Autocollant vidéo";
+"video_sticker_disc" = "Permet la sélection de vidéos depuis la galerie dans le sélecteur d'autocollants";
+"live_broadcast" = "Diffusion en direct";
+"hide_live_comments" = "Masquer les commentaires en direct";
+"hide_live_comments_disc" = "Masque tous les commentaires de la diffusion en direct";
+"Watch_live_anonymously" = "Regarder en direct de manière anonyme";
+"Watch_live_anonymously_disc" = "Masque ta présence lorsque tu rejoins une diffusion en direct";
+
+/* Titre d'action global */
+"WELCOME_ALERT" = "Ouvre ton profil et appuie sur l'icône d'engrenage ou maintient le bouton d'accueil ou le logo Instagram enfoncé.";
+"inkplus_settings" = "Paramètres iNKPlus";
+"OK" = "OK";
+"YES" = "Oui";
+"NO" = "Non";
+"ERROR" = "Erreur";
+"QUICK_LOOK" = "Aperçu rapide";
+"DOWNLOADING_IGPP" = "Téléchargement en cours...";
+"PLEASE_WAIT" = "Veuillez patienter...";
+"DOWNLOAD" = "Enregistrer dans la galerie";
+"VIDEO_OPTIONS" = "Options multimédias";
+"CHOOSE_QUALITY" = "Choisir la qualité";
+"SAVE_TO_PHOTO" = "Enregistrer dans les photos";
+"SAVE_IMG" = "Enregistrer l'image";
+"SAVE_PROFILE_IMG" = "Enregistrer la photo de profil";
+"HD" = "Télécharger en HD";
+"SD" = "Télécharger en SD";
+"COPIENG_TEXT" = "Copier le texte";
+"COPIED" = "Copié";
+"LIKING" = "Aimer ?";
+"FOLLOW" = "Suivre ?";
+"CALL" = "Appeler ?";
+"FOLLOWING" = "Te suit";
+"NOT_FOLLOWING" = "Ne te suit pas";
+"CANCEL" = "Annuler";
+"DISMISS" = "Fermer";
+"DELETED" = "Supprimé";
+"DOWNLOADING_START" = "Début du téléchargement";
+"CANCEL_HUD" = "Annuler";
+"SAVED" = "Enregistré";
+"SUCCESS" = "Succès";
+"close" = "Fermer";
+"Reposting" = "Reposter ?";
+"AUTO_LANGUAGE" = "Automatique";
+"SELECT_LANGUAGE" = "Choisir la langue";
+"FAQ" = "FAQ";
+
+/* Téléchargement...NOUVEAU */
+"Video" = "Vidéo";
+"Image" = "Image";
+"select_all" = "Tout sélectionner";
+"deselect_all" = "Tout désélectionner";
+"no_selection" = "Aucune sélection";
+"no_selection_desc" = "Veuillez sélectionner au moins un élément";
+"download_title" = "Téléchargement";
+"download_all_selected" = "Tout télécharger";
+"download_and_merge_video" = "Télécharger et fusionner les vidéos";
+"downloading_title" = "Téléchargement en cours";
+"please_wait" = "Veuillez patienter...";
+"successfully_saved_failed" = "Enregistré avec succès : %ld\nÉchec : %ld";
+"complete" = "Terminé";
+"processing" = "Traitement en cours";
+"download_videos" = "Téléchargement des vidéos...";
+"select_at_least_2_videos" = "Sélectionnez au moins 2 vidéos à fusionner";
+"failed_2_download_videos" = "Échec du téléchargement des vidéos : %@";
+"merging_videos" = "Fusion des vidéos en cours...";
+"failed_2_merge_videos" = "Échec de la fusion des vidéos : %@";
+"unkown_error" = "Erreur inconnue";
+"success_title" = "Succès";
+"merged_video_saved_2_photos" = "Vidéo fusionnée enregistrée dans les photos";
+"failed_2_save" = "Échec de l'enregistrement : %@";
+"permission_denied" = "Accès refusé";
+"permission_denied_disc" = "Veuillez autoriser l'accès à la galerie dans les paramètres";
+"numer_of_video_images" = "%@ %ld sur %ld";
+"quick_look" = "%@ • Aperçu rapide";
+"save_current" = "%@ • Enregistrer l'actuel";
+"download_and_share" = "%@ • Télécharger et partager";
+"save_all_images_videos" = "Tout enregistrer (%ld images, %ld vidéos)";
+"save_all_images" = "Enregistrer toutes les images (%ld)";
+"save_all_videos" = "Enregistrer toutes les vidéos (%ld)";
+
+/* Thèmes d'icônes */
+"icon_changed" = "Tu as changé\nl'icône d'Instagram.";
+"select_icon_theme" = "Choisir le design de l'icône";
+"default" = "Par défaut";
+"fire" = "Feu";
+"floral" = "Fleurs";
+"kpop" = "K-Pop";
+"metal" = "Métal";
+"neon" = "Néons";
+"slime" = "Slime";
+
+/* Faux emplacement */
+"fake_location" = "Faux emplacement";
+"save" = "Enregistrer";
+"location_name" = "Nom de l'emplacement";
+"enter_location_name" = "Pays : %@\nEntrez un nom pour cet emplacement";
+"unknown" = "Inconnu";
+"save_location" = "Enregistrer l'emplacement";
+"getting_location_info" = "Récupération des informations de l'emplacement...";
+"loading" = "Chargement...";
+"selected_location" = "Emplacement sélectionné";
+"delete" = "Supprimer";
+"saved_location_disc" = "Gérez vos emplacements enregistrés et définissez-en un comme actif. Glissez pour supprimer les entrées.";
+"enable_fake_location_disc" = "Simule un emplacement personnalisé au lieu de votre vrai emplacement. Ajoute un bouton à la carte des amis.";
+"SAVED_LOCATIONS" = "EMPLACEMENTS ENREGISTRÉS";
+"search_places" = "Rechercher des lieux";
+"select_location" = "Sélectionner un emplacement";
+"custom_location" = "Emplacement personnalisé";
+"system_default" = "Par défaut du système";
+"current_location" = "Emplacement actuel";
+"enable_fake_location" = "Activer le faux emplacement";
+
+/* Autres || crédits de traduction et liens */
+"OTHER_TWEAKS" = "Autres projets";
+"CREDITS" = "Contributeurs";
+"SPECIAL_THANK" = "Remerciements spéciaux";
+"icon_by" = "Icône par";
+"LOCALIZATION" = "Localisations";
+"DEVELOPER" = "Développeur";
+
+/* Compatibilité... */
+"compatible_legacy_ver" = "Compatible (ancien iOS)";
+"not_compatible_ver" = "Non compatible";
+"unknown_ver" = "Inconnu";
+"compatible_ver" = "Compatible";
+
+/* Réinitialiser complètement l'application */
+"clear_all_data" = "⚠️ Effacer toutes les données";
+"clear_all_data_disc" = "Cela supprimera TOUTES les données de l'application, y compris le trousseau, les paramètres et les fichiers mis en cache. Cette action est irréversible !";
+"delete_everything" = "Tout supprimer";
+"data_cleared" = "✅ Données supprimées";
+"data_cleared_disc" = "Toutes les données de l'application ont été supprimées avec succès. L'application va maintenant redémarrer.";
+
+/* Effacer les caches */
+"clearonstartup" = "Effacer au démarrage";
+"clearcache" = "Effacer le cache";
+"On" = "Activé";
+"Off" = "Désactivé";
+"calculating" = "Calcul en cours...";
+
+/* Désassocier l'e-mail de la licence */
+"unlink_email" = "Dissocier l'e-mail";
+"unlink_confirmation" = "Confirmer la dissociation";
+"unlink_email_explanation" = "Souhaitez-vous vraiment dissocier cet e-mail de votre licence ?";
+"unlink" = "Dissocier";
+"error_unlink" = "Erreur";
+"error_unlink_desc" = "Impossible de dissocier l'e-mail.";
+"success_unlink" = "Succès";
+"success_unlink_desc" = "E-mail dissocié avec succès.";
+
+/* Invite pour l'activation */
+"license_option" = "Options de licence";
+"license_option_disc" = "Choisissez une option :";
+"activate_new_license" = "Activer une nouvelle licence";
+"restore_license" = "Restaurer la licence";
+"renew_license" = "Renouveler la licence";
+"buy_license" = "Acheter une licence";
+"activate_new_license_disc" = "Entrez votre e-mail et votre clé de licence ci-dessous.";
+"email" = "E-mail";
+"license_key" = "Clé de licence";
+"activate" = "Activer";
+"invalid_email" = "E-mail invalide";
+"invalid_email_disc" = "Veuillez entrer une adresse e-mail valide.";
+"invalid_license" = "Licence invalide";
+"license_key_empty" = "La clé de licence ne peut pas être vide.";
+"license_key_length_wrong" = "Longueur de clé de licence invalide.\nVeuillez entrer une clé valide.";
+
+/* Invite pour la restauration */
+"restore_notice" = "Processus de restauration mis à jour";
+"restore_notice_desc" = "Le processus de restauration a été modifié. Après la restauration, vous devrez copier la clé et revenir à l'activation pour la réactiver avec l'e-mail et la clé.";
+"restore_license_disc" = "Entrez l'e-mail associé à la licence.";
+"restore" = "Restaurer";
+"copy_license_key" = "Copier la clé de licence";
+"license_key_copied_to_clipboard" = "Clé de licence copiée dans le presse-papiers.";
+"license_details" = "Détails de la licence";
+"license_details_disc" = "Clé de licence : %@\n\nDate d'expiration : %@\n\n%@";
+"license_restored_successfully" = "La licence est active.";
+"license_restored" = "Licence restaurée";
+"restore_failed" = "Échec de la restauration";
+"copied_key" = "Copié dans le presse-papiers";
+
+/* Invite pour entrer la licence */
+"enter_license_key" = "Entrez la clé de licence";
+"enter_license_key_disc" = "Entrez votre clé de licence pour l'authentification.";
+"license_key_authenticated" = "Licence authentifiée. Expire le : %@";
+"authentication_successful" = "Authentification réussie";
+"key_used_on_another_device" = "Licence déjà activée sur un autre appareil.";
+"key_is_in_use_on_another_device" = "Cette licence est utilisée sur un autre appareil.";
+"email_associated_with_another_key" = "L'e-mail est déjà associé à une autre licence.";
+"authentication_failed" = "Échec de l'authentification";
+"email_associated_with_defferent_key" = "Cet e-mail est associé à une clé différente.";
+"key_expired" = "Clé expirée";
+"license_expired" = "Licence expirée";
+"license_expired_disc" = "Votre licence a expiré. Veuillez la renouveler.";
+"license_verification_failed" = "Échec de la vérification de la licence";
+"no_internet" = "Pas d'Internet";
+"no_internet_disc" = "Une connexion Internet est requise pour l'authentification.";
+"license_disc" = "La clé de licence entrée est invalide.";
+
+/* Autres éléments */

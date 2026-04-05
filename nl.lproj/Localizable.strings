@@ -392,7 +392,15 @@
 "Off" = "Uit";
 "calculating" = "Berekenen…";
 
-/* checkForUpdates */
+/* Unlink Email from License */
+"unlink_email" = "E-mail ontkoppelen";
+"unlink_confirmation" = "Ontkoppeling bevestigen";
+"unlink_email_explanation" = "Weet je zeker dat je deze e-mail van je licentie wilt ontkoppelen?";
+"unlink" = "Ontkoppelen";
+"error_unlink" = "Fout";
+"error_unlink_desc" = "Kan e-mail niet ontkoppelen.";
+"success_unlink" = "Succes";
+"success_unlink_desc" = "E-mail succesvol ontkoppeld.";
 
 /* promptForActivation */
 "license_option" = "Licentie-opties";
