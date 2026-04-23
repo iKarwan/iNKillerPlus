@@ -144,6 +144,7 @@
 "WHO_FOLLOWING_DISC" = "Zie wie jou terugvolgt.";
 "confirm_follow" = "Bevestig volgen";
 "confirm_follow_disc" = "Toont een bevestiging voordat je iemand volgt.";
+"activate_profile_analyzer" = "Om Profile Analyzer te activeren, houd het Instagram-logo of het ⚙️-pictogram naast je naam in het profieltabblad ingedrukt.";
 
 /* Interface section */
 "NO_LONG_PRESS" = "Lang indrukken op tabs uitschakelen";

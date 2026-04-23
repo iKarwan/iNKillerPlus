@@ -156,6 +156,7 @@
 "WHO_FOLLOWING_DISC" = "See who follows you back.";
 "confirm_follow" = "Confirm on Follow";
 "confirm_follow_disc" = "Shows a confirmation alert before following.";
+"activate_profile_analyzer" = "To activate Profile Analyzer, long press the Instagram logo / or the ⚙️ icon next to your name in the Profile tab.";
 
 /* Interface section */
 "NO_LONG_PRESS" = "Disable Long-Press on Tabs";

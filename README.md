@@ -9,6 +9,7 @@
 ## Recommended iOS Firmware & Instagram App Versions?
 * iOS iPadOS 15.1 / iOS iPadOS 26.x ...
 * Instagram v409.1 and newer ...
+* For older version [visit telegram](https://t.me/ikgipa) .
 
 
 ## Depiction Page
@@ -22,8 +23,8 @@
     1. Download IPA file from here and follow the instructions below to sign and install the app from your computer for one week
         | Application | Bundle | Version | iNKillerPlus | File Type |
         | ------------------ |:---------:|:------:|:------:|:------:|
-        | [Instagram](https://ikghd.site/ipa/Instagram_424.1_iNKillerPlus_3.6.8.ipa) | com.burbn.instagram | 424.1 | 3.6.8 | IPA |
-        | [TrollStore](https://ikghd.site/ipa/Instagram_424.1_iNKillerPlus_3.6.8_TrollStore.tipa) | com.burbn.instagram | 424.1 | 3.6.8 | tipa |
+        | [Instagram](https://ikghd.site/ipa/Instagram_426.0_iNKillerPlus_4.0.ipa) | com.burbn.instagram | 426.0 | 4.0 | IPA |
+        | [TrollStore](https://ikghd.site/ipa/Instagram_426.0_iNKillerPlus_4.0_TrollStore.tipa) | com.burbn.instagram | 426.0 | 4.0 | tipa |
 
 
 ## How to Sideload on non-jailbroken devices
@@ -54,7 +55,7 @@
 
 ### TrollStore TIPA
 * Download and install TrollStore from [here](https://github.com/opa334/TrollStore).
-* Copy this link [here](https://ikghd.site/ipa/Instagram_424.1_iNKillerPlus_3.6.8_TrollStore.tipa) and paste it into the "Install from URL" option in TrollStore.
+* Copy this link [here](https://ikghd.site/ipa/Instagram_426.0_iNKillerPlus_4.0_TrollStore.tipa) and paste it into the "Install from URL" option in TrollStore.
 
 
 ### Telegram Channel

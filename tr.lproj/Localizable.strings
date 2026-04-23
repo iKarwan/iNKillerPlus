@@ -145,6 +145,7 @@
 "WHO_FOLLOWING_DISC" = "Seni kimin takip ettiğini gör.";
 "confirm_follow" = "Takip onayı";
 "confirm_follow_disc" = "Takip etmeden önce onay penceresi gösterir.";
+"activate_profile_analyzer" = "Profile Analyzer'ı etkinleştirmek için Instagram logosuna veya Profil sekmesinde adınızın yanındaki ⚙️ simgesine uzun basın.";
 
 /* Interface section */
 "NO_LONG_PRESS" = "Sekmelere uzun basmayı kapat";

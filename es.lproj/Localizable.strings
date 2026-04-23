@@ -145,6 +145,7 @@
 "WHO_FOLLOWING_DISC" = "Muestra quién te sigue de vuelta.";
 "confirm_follow" = "Confirmar al seguir";
 "confirm_follow_disc" = "Muestra un aviso antes de seguir a alguien.";
+"activate_profile_analyzer" = "Para activar Profile Analyzer, mantén pulsado el logo de Instagram o el icono ⚙️ junto a tu nombre en la pestaña de perfil.";
 
 /* Interface section */
 "NO_LONG_PRESS" = "Desactivar presión prolongada en pestañas";

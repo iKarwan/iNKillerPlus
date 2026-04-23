@@ -147,6 +147,7 @@
 "WHO_FOLLOWING_DISC" = "Zeigt an, wer dir zurückfolgt.";
 "confirm_follow" = "Folgen bestätigen";
 "confirm_follow_disc" = "Zeigt eine Bestätigung vor dem Folgen an.";
+"activate_profile_analyzer" = "Um den Profile Analyzer zu aktivieren, halte das Instagram-Logo oder das ⚙️-Symbol neben deinem Namen im Profil-Tab gedrückt.";
 
 /* Interface section */
 "NO_LONG_PRESS" = "Langes Drücken auf Tabs deaktivieren";

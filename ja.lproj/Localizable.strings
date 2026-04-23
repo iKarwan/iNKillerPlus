@@ -145,6 +145,7 @@
 "WHO_FOLLOWING_DISC" = "あなたをフォローしているかを確認できます。";
 "confirm_follow" = "フォロー前に確認";
 "confirm_follow_disc" = "フォロー前に確認アラートを表示します。";
+"activate_profile_analyzer" = "Profile Analyzer を有効にするには、Instagram ロゴまたはプロフィールタブの名前横の ⚙️ アイコンを長押ししてください。";
 
 /* Interface section */
 "NO_LONG_PRESS" = "タブのロングプレスを無効";

@@ -145,6 +145,7 @@
 "WHO_FOLLOWING_DISC" = "查看谁关注了你。";
 "confirm_follow" = "确认关注";
 "confirm_follow_disc" = "关注前显示确认提示。";
+"activate_profile_analyzer" = "要启用 Profile Analyzer，请长按 Instagram 标志或个人资料标签中您名字旁的 ⚙️ 图标。";
 
 /* Interface section */
 "NO_LONG_PRESS" = "禁用长按标签";

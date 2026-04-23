@@ -146,6 +146,7 @@
 "WHO_FOLLOWING_DISC" = "بزانە کێ شوێنت که وتوه و کێ نە كوتوه.";
 "confirm_follow" = "دڵنیابوون لە شوێن كه وتن";
 "confirm_follow_disc" = "پیشاندانی پەیامێکی دڵنیابوون پێش شوێن كه وتن.";
+"activate_profile_analyzer" = "بۆ چالاککردنی Profile Analyzer، دەست بخەسە سەر لوگۆی Instagram یان ⚙️ لە تابی پرۆفایل.";
 
 /* Interface section */
 "NO_LONG_PRESS" = "قەدەغەکردنی کرتەی درێژ لە سەر تاب";

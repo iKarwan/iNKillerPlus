@@ -147,6 +147,7 @@
 "WHO_FOLLOWING_DISC" = "Affiche qui vous suit en retour.";
 "confirm_follow" = "Confirmer l'abonnement";
 "confirm_follow_disc" = "Affiche une confirmation avant de s'abonner.";
+"activate_profile_analyzer" = "Pour activer Profile Analyzer, maintenez appuyé le logo Instagram ou l’icône ⚙️ à côté de votre nom dans l’onglet Profil.";
 
 /* Section Interface */
 "NO_LONG_PRESS" = "Désactiver l'appui long sur les onglets";
