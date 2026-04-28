@@ -23,8 +23,8 @@
     1. Download IPA file from here and follow the instructions below to sign and install the app from your computer for one week
         | Application | Bundle | Version | iNKillerPlus | File Type |
         | ------------------ |:---------:|:------:|:------:|:------:|
-        | [Instagram](https://ikghd.site/ipa/Instagram_426.0_iNKillerPlus_4.1.ipa) | com.burbn.instagram | 426.0 | 4.1 | IPA |
-        | [TrollStore](https://ikghd.site/ipa/Instagram_426.0_iNKillerPlus_4.1_TrollStore.tipa) | com.burbn.instagram | 426.0 | 4.1 | tipa |
+        | [Instagram](https://ikghd.site/ipa/Instagram_426.0_iNKillerPlus_4.2.ipa) | com.burbn.instagram | 426.0 | 4.2 | IPA |
+        | [TrollStore](https://ikghd.site/ipa/Instagram_426.0_iNKillerPlus_4.2_TrollStore.tipa) | com.burbn.instagram | 426.0 | 4.2 | tipa |
 
 
 ## How to Sideload on non-jailbroken devices
@@ -55,7 +55,13 @@
 
 ### TrollStore TIPA
 * Download and install TrollStore from [here](https://github.com/opa334/TrollStore).
-* Copy this link [here](https://ikghd.site/ipa/Instagram_426.0_iNKillerPlus_4.1_TrollStore.tipa) and paste it into the "Install from URL" option in TrollStore.
+* Copy this link [here](https://ikghd.site/ipa/Instagram_426.0_iNKillerPlus_4.2_TrollStore.tipa) and paste it into the "Install from URL" option in TrollStore.
+
+
+### LiveContainer App
+* Download and install LiveContainer from [here](https://github.com/LiveContainer/LiveContainer).
+* Copy this link [here](https://ikghd.site/ipa/Instagram_426.0_iNKillerPlus_4.2.ipa) and paste it into the "URL" option in LiveContainer.
+* or just add the repo 'repo.ikghd.me/repo.json' and paste it into the "add URL" option in LiveContainer.
 
 
 ### Telegram Channel
