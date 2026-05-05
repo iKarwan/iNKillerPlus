@@ -254,6 +254,10 @@
 "PA_CACHE_TITLE"                    = "Cache Info";
 "PA_CACHE_OK"                       = "OK";
 
+/* select photos with music */
+"IG_PHOTO_PICKER_TITLE"           = "Select photos to download";
+"IG_MERGE_MUSIC_LABEL"            = "Merge photos with music";
+
 /* General section */
 "HIDE_SEEN_DM" = "Mark DMs Manually";
 "NOTIFY_CALLING_DM" = "Confirm on Call";

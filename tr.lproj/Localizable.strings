@@ -242,6 +242,9 @@
 "PA_CACHE_TITLE" = "Önbellek Bilgisi";
 "PA_CACHE_OK" = "Tamam";
 
+"IG_PHOTO_PICKER_TITLE"           = "İndirilecek fotoğrafı seç";
+"IG_MERGE_MUSIC_LABEL"            = "Fotoğrafı müzikle birleştir";
+
 /* General section */
 "HIDE_SEEN_DM" = "DM’leri elle okundu işaretle";
 "NOTIFY_CALLING_DM" = "Aramadan önce onay";

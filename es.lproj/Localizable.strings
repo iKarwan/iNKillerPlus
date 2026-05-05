@@ -242,6 +242,10 @@
 "PA_CACHE_TITLE" = "Información de caché";
 "PA_CACHE_OK" = "OK";
 
+/* —— Interfaz de Selección de Álbum ———————————————————————————— */
+"IG_PHOTO_PICKER_TITLE"           = "Selecciona fotos para descargar";
+"IG_MERGE_MUSIC_LABEL"            = "Fusionar fotos con música";
+
 /* General section */
 "HIDE_SEEN_DM" = "Marcar mensajes manualmente";
 "NOTIFY_CALLING_DM" = "Confirmar al llamar";

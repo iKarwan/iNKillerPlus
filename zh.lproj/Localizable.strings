@@ -242,6 +242,10 @@
 "PA_CACHE_TITLE" = "缓存信息";
 "PA_CACHE_OK" = "确定";
 
+/* —— 相册选择器 UI —————————————————————————————————————— */
+"IG_PHOTO_PICKER_TITLE"           = "选择要下载的照片";
+"IG_MERGE_MUSIC_LABEL"            = "将照片与音乐合并";
+
 /* General section */
 "HIDE_SEEN_DM" = "手动标记消息已读";
 "NOTIFY_CALLING_DM" = "通话前确认";

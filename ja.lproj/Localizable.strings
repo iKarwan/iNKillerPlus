@@ -242,6 +242,9 @@
 "PA_CACHE_TITLE" = "キャッシュ情報";
 "PA_CACHE_OK" = "OK";
 
+"IG_PHOTO_PICKER_TITLE"           = "ダウンロードする写真を選択";
+"IG_MERGE_MUSIC_LABEL"            = "写真と音楽を結合";
+
 /* General section */
 "HIDE_SEEN_DM" = "DMを手動で既読にする";
 "NOTIFY_CALLING_DM" = "通話時に確認";

@@ -23,8 +23,8 @@
     1. Download IPA file from here and follow the instructions below to sign and install the app from your computer for one week
         | Application | Bundle | Version | iNKillerPlus | File Type |
         | ------------------ |:---------:|:------:|:------:|:------:|
-        | [Instagram](https://ikghd.site/ipa/Instagram_426.0_iNKillerPlus_4.2.ipa) | com.burbn.instagram | 426.0 | 4.2 | IPA |
-        | [TrollStore](https://ikghd.site/ipa/Instagram_426.0_iNKillerPlus_4.2_TrollStore.tipa) | com.burbn.instagram | 426.0 | 4.2 | tipa |
+        | [Instagram](https://ikghd.site/ipa/Instagram_428.1_iNKillerPlus_4.3.ipa) | com.burbn.instagram | 428.1 | 4.3 | IPA |
+        | [TrollStore](https://ikghd.site/ipa/Instagram_428.1_iNKillerPlus_4.3_TrollStore.tipa) | com.burbn.instagram | 428.1 | 4.3 | tipa |
 
 
 ## How to Sideload on non-jailbroken devices
@@ -49,21 +49,18 @@
 
 ### Installing with third party AppStore
 *
-    * You can copy and add this source to your source list AltStore, FlekSt0re, Signulous, LC, Feather, Esign, Gbox, etc ..
+    * You can copy and add this source to your source list AltStore, FlekSt0re, Signulous, LC, Esign, etc ..
     * [ https://repo.ikghd.me/repo.json
 
 
 ### TrollStore TIPA
 * Download and install TrollStore from [here](https://github.com/opa334/TrollStore).
-* Copy this link [here](https://ikghd.site/ipa/Instagram_426.0_iNKillerPlus_4.2_TrollStore.tipa) and paste it into the "Install from URL" option in TrollStore.
+* Copy this link [here](https://ikghd.site/ipa/Instagram_428.1_iNKillerPlus_4.3_TrollStore.tipa) and paste it into the "Install from URL" option in TrollStore.
 
 
 ### Telegram Channel
 * You can always download the IPA from our Telegram channel using the link [here](https://t.me/ikgipa).
 
-
-## Localization
-* iNKillerPlus fully supports localization. If you'd like to add your language, please download the English file, translate it completely, then open a pull request or send it via email to (ikghd3@gmail) to be added in a future update.
 
 ### Donations
 * Donations are always appreciated to keep the project going!

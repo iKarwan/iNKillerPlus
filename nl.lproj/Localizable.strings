@@ -241,6 +241,9 @@
 "PA_CACHE_TITLE" = "Cache-info";
 "PA_CACHE_OK" = "OK";
 
+"IG_PHOTO_PICKER_TITLE"           = "Selecteer de foto om te downloaden";
+"IG_MERGE_MUSIC_LABEL"            = "Foto met muziek samenvoegen";
+
 /* General section */
 "HIDE_SEEN_DM" = "Berichten handmatig gelezen";
 "NOTIFY_CALLING_DM" = "Bevestig bij bellen";

@@ -244,6 +244,10 @@
 "PA_CACHE_TITLE" = "Cache-Info";
 "PA_CACHE_OK" = "OK";
 
+/* —— Album-Auswahl-UI ———————————————————————————————— */
+"IG_PHOTO_PICKER_TITLE"           = "Fotos zum Herunterladen auswählen";
+"IG_MERGE_MUSIC_LABEL"            = "Fotos mit Musik zusammenführen";
+
 /* General section */
 "HIDE_SEEN_DM" = "DMs manuell als gesehen markieren";
 "NOTIFY_CALLING_DM" = "Anruf bestätigen";
