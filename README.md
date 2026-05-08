@@ -36,6 +36,7 @@ Add `https://repo.ikghd.me` to your Cydia / Zebra / Sileo sources and download f
 
 <details>
 <summary><b>How to Sideload on non-jailbroken devices</b></summary>
+   
 ### Requirementsz
 1. A computer running macOS or Windows
 2. Internet connection
@@ -72,6 +73,6 @@ Add `https://repo.ikghd.me` to your Cydia / Zebra / Sileo sources and download f
 </details>
 
 ### Donations
-* Donations are always appreciated to keep the project going!
-* [Paypal](https://www.paypal.com/donate/?hosted_button_id=HG4NT5LFR29DW)
-* [Buy me a coffe](https://www.buymeacoffee.com/ikghd)
+> Donations are always appreciated to keep the project going!
+> 
+> [![PayPal](https://img.shields.io/badge/PayPal-Donate-blue?logo=paypal)](https://www.paypal.com/donate/?hosted_button_id=HG4NT5LFR29DW) [![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-Donate-yellow?logo=buymeacoffee)](https://www.buymeacoffee.com/ikghd)
