@@ -412,7 +412,7 @@
 "license_option_disc" = "オプションを選択してください：";
 "activate_new_license" = "新しいライセンスを有効化";
 "restore_license" = "ライセンスを復元";
-"renew_license" = "ライセンスを更新";
+"renew_license" = "サブスクリプションを購入";
 "buy_license" = "ライセンスを購入";
 "activate_new_license_disc" = "メールアドレスとライセンスキーを入力してください。";
 "email" = "メールアドレス";
