@@ -31,7 +31,7 @@ Add `https://repo.ikghd.me` to your Cydia / Zebra / Sileo sources and download f
 |---|---|---|---|---|
 | [Instagram ↓](https://ikghd.site/ipa/Instagram_431.0_iNKillerPlus_4.5.ipa) | com.burbn.instagram | 431.0 | 4.5 | IPA |
 | [TrollStore ↓](https://ikghd.site/ipa/Instagram_431.0_iNKillerPlus_4.5_TrollStore.tipa) | com.burbn.instagram | 431.0 | 4.5 | tipa |
-| [No_Plugin ↓](https://ikghd.site/ipa/Instagram_431.0_iNKillerPlus_4.5_No_Plugin.ipa) | com.burbn.instagram | 431.0 | 4.5 | IPA |
+| [No_Plugin ↓](https://ikghd.site/ipa/Instagram_431.0_iNKillerPlus_4.5_NP.ipa) | com.burbn.instagram | 431.0 | 4.5 | IPA |
 
 </details>
 
