@@ -7,7 +7,7 @@
 |  ![6](https://repo.ikghd.me/depictions/me.ikghd.inkplus/screenshots/6.PNG) | ![5](https://repo.ikghd.me/depictions/me.ikghd.inkplus/screenshots/5.PNG) | ![7](https://repo.ikghd.me/depictions/me.ikghd.inkplus/screenshots/7.PNG) |
 
 ## Recommended iOS Firmware & Instagram App Versions?
-* iOS iPadOS 15.1 / iOS iPadOS 26.x ...
+* iOS iPadOS 15.1 / iOS iPadOS 27.x
 * Instagram v409.1 and newer ...
 * For older version [visit telegram](https://t.me/ikgipa) .
 
