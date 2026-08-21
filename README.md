@@ -29,8 +29,8 @@ Add `https://repo.ikghd.me` to your Cydia / Zebra / Sileo sources and download f
 
 | Application | Bundle | Version | iNKillerPlus | File Type |
 |---|---|---|---|---|
-| [Instagram ↓](https://ikghd.site/ipa/Instagram_442.0_iNKillerPlus_4.9.ipa) | com.burbn.instagram | 442.0 | 4.9 | IPA |
-| [TrollStore ↓](https://ikghd.site/ipa/Instagram_442.0_iNKillerPlus_4.9_TrollStore.tipa) | com.burbn.instagram | 442.0 | 4.9 | tipa |
+| [Instagram ↓](https://ikghd.site/ipa/Instagram_443.0_iNKillerPlus_5.0.ipa) | com.burbn.instagram | 443.0 | 5.0 | IPA |
+| [TrollStore ↓](https://ikghd.site/ipa/Instagram_443.0_iNKillerPlus_5.0_TrollStore.tipa) | com.burbn.instagram | 443.0 | 5.0 | tipa |
 
 </details>
 
@@ -64,7 +64,7 @@ Add `https://repo.ikghd.me` to your Cydia / Zebra / Sileo sources and download f
 
 ### TrollStore TIPA
 * Download and install TrollStore from [here](https://github.com/opa334/TrollStore).
-* Copy this link [here](https://ikghd.site/ipa/Instagram_442.0_iNKillerPlus_4.9_TrollStore.tipa) and paste it into the "Install from URL" option in TrollStore.
+* Copy this link [here](https://ikghd.site/ipa/Instagram_443.0_iNKillerPlus_5.0_TrollStore.tipa) and paste it into the "Install from URL" option in TrollStore.
 
 
 ### Telegram Channel
