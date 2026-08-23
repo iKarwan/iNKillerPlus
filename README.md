@@ -30,7 +30,7 @@ Add `https://repo.ikghd.me` to your Cydia / Zebra / Sileo sources and download f
 | Application | Bundle | Version | iNKillerPlus | File Type |
 |---|---|---|---|---|
 | [Instagram ↓](https://ikghd.site/ipa/Instagram_443.1_iNKillerPlus_5.1.ipa) | com.burbn.instagram | 443.1 | 5.1 | IPA |
-| [TrollStore ↓](https://ikghd.site/ipa/Instagram_443.1_iNKillerPlus_5.1_TrollStore.tipa) | com.burbn.instagram | 443.1 | 5.1 | tipa |
+| [TrollStore & Plugin ↓](https://repo.ikghd.me/iNKPlus) | com.burbn.instagram | 443.1 | 5.1 | tipa |
 
 </details>
 
