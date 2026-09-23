@@ -4,7 +4,7 @@
 ## Screenshots
 | ![1](https://repo.ikghd.me/depictions/me.ikghd.inkplus/screenshots/1.PNG) | ![2](https://repo.ikghd.me/depictions/me.ikghd.inkplus/screenshots/2.PNG) | ![4](https://repo.ikghd.me/depictions/me.ikghd.inkplus/screenshots/4.PNG)|
 |---|---|---|
-|  ![6](https://repo.ikghd.me/depictions/me.ikghd.inkplus/screenshots/6.PNG) | ![5](https://repo.ikghd.me/depictions/me.ikghd.inkplus/screenshots/5.PNG) | ![7](https://repo.ikghd.me/depictions/me.ikghd.inkplus/screenshots/7.PNG) |
+|  ![6](https://repo.ikghd.me/depictions/me.ikghd.inkplus/screenshots/6.PNG) | ![5](https://repo.ikghd.me/depictions/me.ikghd.inkplus/screenshots/5.PNG) | ![7](https://repo.ikghd.me/depictions/me.ikghd.inkplus/screenshots/8.PNG) |
 
 ## Recommended iOS Firmware & Instagram App Versions?
 * iOS iPadOS 16.3 / iOS iPadOS 27.x
